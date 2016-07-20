@@ -10,16 +10,16 @@ $gray-light:            lighten($gray-base, 46.7%) !default; // #777
 $gray-lighter:          lighten($gray-base, 93.5%) !default; // #eee
 $gray-lightest:         lighten($gray-base, 96%) !default;
 
-$brand-primary:         #5C7E7F;
-$brand-secondary:       #E1E9E7;
-$brand-terciary:        #D95129;
+$brand-primary:         #015AA9;
+$brand-secondary:       mix( $brand-primary, white, 15% );
+$brand-terciary:        $brand-primary;
 
 $brand-primary-accent:  $brand-terciary;
 
 $text-color:            #444;
 $table-color:           $brand-primary;
 
-$headings-color:        $brand-terciary;
+$headings-color:        $brand-primary;
 
 /*
 $bcn-blue:    #0069e1;
@@ -30,8 +30,8 @@ $bcn-olive:   #1c7da3;
 $bcn-red:￼    #E91B1D;
 */
 
-$link-color:            $brand-terciary;
-$link-hover-color:      $brand-primary;
+$link-color:            $brand-primary;
+$link-hover-color:      darken( $brand-primary, 10% );
 $link-hover-decoration: underline;
 
 
@@ -191,5 +191,5 @@ $data-sources-color: $brand-primary;
 // Sankey Viz
 // --------------
 
-$sankey-budget-color:     darken( $brand-terciary, 5% ); //mix( $gray-light, $gray-lighter, 50% );
-$sankey-execution-color:  $brand-primary;
+$sankey-budget-color:     mix( $gray-light, $gray-lighter, 50% );
+$sankey-execution-color:  mix( $brand-primary, white, 70% );
