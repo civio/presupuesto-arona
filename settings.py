@@ -8,36 +8,37 @@ MAIN_ENTITY_NAME = 'Arona'
 BUDGET_LOADER = 'AronaBudgetLoader'
 PAYMENTS_LOADER = 'AronaPaymentsLoader'
 
-FEATURED_PROGRAMMES = ['3340', '3200', '2311']
+FEATURED_PROGRAMMES = ['1621', '1710', '3380', '2410', '3110']
 
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
-                            'label.es': 'Impuesto a bienes inmuebles de naturaleza urbana',
-                            'label.ca': 'Impost sobre béns immobles de naturalesa urbana',
+                            'label': 'Impuesto a bienes inmuebles de naturaleza urbana',
                             'link_id': '11'
+                          },
+                          {
+                            'nodes': [['30', '300']],
+                            'label': 'Servicio de abastecimiento de agua',
+                            'link_id': '30'
                           },
                           '42', '45',
                           {
-                            'nodes': [['39', '391']],
-                            'label.es': 'Multas',
-                            'label.ca': 'Multes',
-                            'link_id': '39'
+                            'nodes': [['29', '293']],
+                            'label': 'Impuesto general indirecto canario (IGIC)',
+                            'link_id': '29'
                           },
                           {
                             'nodes': [['11', '115']],
-                            'label.es': 'Impuesto sobre vehículos de tracción mecánica',
-                            'label.ca': 'Impost sobre vehicles de tracció mecànica',
+                            'label': 'Impuesto sobre vehículos de tracción mecánica',
                             'link_id': '11'
                           },
                           {
                             'nodes': [['30', '302']],
-                            'label.es': 'Servicio de recogida de basuras',
-                            'label.ca': "Servei de recollida d'escombraries",
+                            'label': 'Servicio de recogida de basuras',
                             'link_id': '30'
                           },
                         ]
-OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '01', '15', '33', '23', '17', '32']
+OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '15', '33', '23', '34', '17', '32']
 
 # How aggresive should the Sankey diagram reorder the nodes. Default: 0.79 (Optional)
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
