@@ -16,13 +16,14 @@ class AronaBudgetLoader(SimpleBudgetLoader):
             # old programme: new programme
             '1340': '1350',     # Protección Civil
             '1350': '1360',     # Extinción de incendios
-            '1550': '1533',     # Vías públicas
+            '1550': '1532',     # Vías públicas
             '1620': '1621',     # Recogida de residuos
+            '3130': '3110',     # Protección de la salud
             '3210': '3219',     # Educación preescolar y primaria
             '3220': '3229',     # Enseñanza secundaria
             '3230': '3239',     # Promoción educativa
             '3240': '3260',     # Servicios complementarios de educación
-            '4410': '4419',     # Promoción, mantenimiento y desarrollo del transporte
+            '4410': '4411',     # Promoción, mantenimiento y desarrollo del transporte
             '4940': '4911',     # URBAN- Arona 2007-2013
         }
 
