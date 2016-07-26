@@ -14,7 +14,16 @@ class AronaBudgetLoader(SimpleBudgetLoader):
         # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
         programme_mapping = {
             # old programme: new programme
-            # '1320': '1300',
+            '1340': '1350',     # Protección Civil
+            '1350': '1360',     # Extinción de incendios
+            '1550': '1533',     # Vías públicas
+            '1620': '1621',     # Recogida de residuos
+            '3210': '3219',     # Educación preescolar y primaria
+            '3220': '3229',     # Enseñanza secundaria
+            '3230': '3239',     # Promoción educativa
+            '3240': '3260',     # Servicios complementarios de educación
+            '4410': '4419',     # Promoción, mantenimiento y desarrollo del transporte
+            '4940': '4911',     # URBAN- Arona 2007-2013
         }
 
         # Some dirty lines in input data
