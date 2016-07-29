@@ -56,3 +56,22 @@
 .glossary-terms h4:before{
   color: $brand-primary;
 }
+
+// Tax Receipt
+.tax-receipt-table-content{
+  background: white;
+}
+.tax-receipt-content .form-user-incomings{
+  padding-top: $grid-gutter-width;
+
+  h3{
+    color: $brand-primary;
+    padding-bottom: $grid-gutter-width/2;
+  }
+}
+
+@media (min-width: $screen-sm-min) {
+  .tax-receipt-content .form-user-incomings .form-group.form-group-half-width{
+    width: 25%;
+  }
+}
