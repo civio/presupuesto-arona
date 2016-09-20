@@ -40,6 +40,10 @@
   }
 }
 
+.home-content .options .option > div .icon{
+  color: mix( $brand-primary, $brand-secondary, 30% );
+}
+
 .policies-chart{
   background: none;
 }
