@@ -61,6 +61,10 @@
   color: $brand-primary;
 }
 
+#query-panel .panel{
+  background: $brand-secondary;
+}
+
 // Tax Receipt
 .tax-receipt-content .form-user-incomings{
   padding-top: $grid-gutter-width;

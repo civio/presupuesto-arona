@@ -172,8 +172,8 @@ $budget-stream-color: $brand-primary;
 // Year Slider
 // --------------
 
-$slider-bg:     darken( $brand-primary, 5% );  //mix( $gray-light, $gray-lighter, 50% );
-$slider-color:  $gray-light;  //$brand-primary;
+$slider-bg:     mix( $brand-primary, white, 60% );  //mix( $gray-light, $gray-lighter, 50% );
+$slider-color:  $brand-primary;
 
 
 // Data Panel

@@ -6278,7 +6278,7 @@ label {
       height: 6px;
       margin-top: -2px;
       border-radius: 0;
-      background: #014d90;
+      background: #679ccb;
       filter: none;
       -webkit-box-shadow: none;
       box-shadow: none; }
@@ -6290,20 +6290,20 @@ label {
       height: 12px;
       margin-left: -6px;
       margin-top: -3px;
-      background: #014d90;
+      background: #679ccb;
       opacity: 1;
       filter: none;
       -webkit-box-shadow: none;
       box-shadow: none; }
       .data-controllers .slider.slider-horizontal .slider-tick.in-selection {
-        background: #777777; }
+        background: #015AA9; }
     .data-controllers .slider.slider-horizontal .slider-selection {
       border-radius: 0;
-      background: #777777;
+      background: #015AA9;
       filter: none; }
     .data-controllers .slider.slider-horizontal .slider-handle {
       margin-top: -7px;
-      background: #777777;
+      background: #015AA9;
       border: 2px solid white;
       filter: none;
       -webkit-box-shadow: none;
@@ -6317,9 +6317,9 @@ label {
       margin-top: -38px; }
     .data-controllers .slider.slider-horizontal .tooltip-inner {
       font-size: 1.25em;
-      background: #777777; }
+      background: #015AA9; }
     .data-controllers .slider.slider-horizontal .tooltip-arrow {
-      border-top-color: #777777; }
+      border-top-color: #015AA9; }
   .data-controllers .title {
     margin: 0;
     padding: 15px 0;
@@ -7683,6 +7683,9 @@ body.widget .stacked-area-chart-legend {
 .glossary-terms h3:before,
 .glossary-terms h4:before {
   color: #015AA9; }
+
+#query-panel .panel, #query-panel .panel-downloads, #query-panel .home-content .options .option > div, .home-content .options #query-panel .option > div, #query-panel .budget-intro .budget-step, .budget-intro #query-panel .budget-step, #query-panel .policies-chart, #query-panel .tax-receipt-content .form-user-incomings, .tax-receipt-content #query-panel .form-user-incomings, #query-panel .tax-receipt-content #tax-amount, .tax-receipt-content #query-panel #tax-amount {
+  background: #d9e6f2; }
 
 .tax-receipt-content .form-user-incomings {
   padding-top: 30px; }
