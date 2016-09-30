@@ -16,7 +16,7 @@
     }
 
     function getHouseTaxPaid() {
-      var housePrice = [1.8, 3.3, 1.7][$("#select-house").val()]
+      var housePrice = [3.3, 1.8, 1.7][$("#select-house").val()]
       var value = housePrice*$("#select-house-surface").val()
       if( $("#select-family").val() == 1 ){
         value *= 0.5;
@@ -42,9 +42,9 @@
     }
     function getParkingTaxPaid() {
       var data = [];
-      data[0] = [0, 13.86, 41.58];
-      data[1] = [0, 10.08, 30.24];
-      data[2] = [0, 8.8, 26.4];
+      data[0] = [0, 141.58];
+      data[1] = [0, 30.24];
+      data[2] = [0, 26.4];
       return data[$("#select-house").val()][$("#select-parking").val()];
     }
 
