@@ -59,7 +59,7 @@ class AronaBudgetLoader(SimpleBudgetLoader):
                 'ic_code': '000',
                 'item_number': ec_code[-2:],    # Last two digits
                 'description': line[1],
-                'amount': self._parse_amount(line[4 if is_actual else 2])
+                'amount': self._parse_amount(line[5 if is_actual else 2])
             }
 
         else:
