@@ -65,6 +65,14 @@
   background: $brand-secondary;
 }
 
+.search-content .panel .panel-heading{
+  background: $brand-primary;
+
+  h3{
+    color: white;
+  }
+}
+
 // Tax Receipt
 .tax-receipt-content .form-user-incomings{
   padding-top: $grid-gutter-width;

@@ -7687,6 +7687,11 @@ body.widget .stacked-area-chart-legend {
 #query-panel .panel, #query-panel .panel-downloads, #query-panel .home-content .options .option > div, .home-content .options #query-panel .option > div, #query-panel .budget-intro .budget-step, .budget-intro #query-panel .budget-step, #query-panel .policies-chart, #query-panel .tax-receipt-content .form-user-incomings, .tax-receipt-content #query-panel .form-user-incomings, #query-panel .tax-receipt-content #tax-amount, .tax-receipt-content #query-panel #tax-amount {
   background: #d9e6f2; }
 
+.search-content .panel .panel-heading, .search-content .panel-downloads .panel-heading, .search-content .home-content .options .option > div .panel-heading, .home-content .options .search-content .option > div .panel-heading, .search-content .budget-intro .budget-step .panel-heading, .budget-intro .search-content .budget-step .panel-heading, .search-content .policies-chart .panel-heading, .search-content .tax-receipt-content .form-user-incomings .panel-heading, .tax-receipt-content .search-content .form-user-incomings .panel-heading, .search-content .tax-receipt-content #tax-amount .panel-heading, .tax-receipt-content .search-content #tax-amount .panel-heading {
+  background: #015AA9; }
+  .search-content .panel .panel-heading h3, .search-content .panel-downloads .panel-heading h3, .search-content .home-content .options .option > div .panel-heading h3, .home-content .options .search-content .option > div .panel-heading h3, .search-content .budget-intro .budget-step .panel-heading h3, .budget-intro .search-content .budget-step .panel-heading h3, .search-content .policies-chart .panel-heading h3, .search-content .tax-receipt-content .form-user-incomings .panel-heading h3, .tax-receipt-content .search-content .form-user-incomings .panel-heading h3, .search-content .tax-receipt-content #tax-amount .panel-heading h3, .tax-receipt-content .search-content #tax-amount .panel-heading h3 {
+    color: white; }
+
 .tax-receipt-content .form-user-incomings {
   padding-top: 30px; }
   .tax-receipt-content .form-user-incomings h3 {
