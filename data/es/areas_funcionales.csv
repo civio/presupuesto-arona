@@ -66,8 +66,9 @@
 1,7,2,0,Protección y mejora del medio ambiente
 1,7,2,1,Protección-contam. acústica lumínica y atmosférica
 1,7,2,2,Mantenimiento y mejora de playas
+1,7,2,3,EDUSI
 1,7,3,0,Actuaciones en Playas
-1,7,9,0,Otras actuaciones relacionadas con el medio ambien
+1,7,9,0,Otras actuaciones relacionadas con el medio ambiente
 2,1,1,0,Pensiones
 2,2,1,0,Otras prestaciones económicas a favor de empleados
 2,3,0,0,Administración General de servicios sociales
@@ -98,8 +99,7 @@
 3,3,2,1,Bibliotecas públicas
 3,3,2,2,Archivos
 3,3,3,0,Equipamientos culturales y museos
-3,3,4,0,Promoción cultural
-3,3,4,1,Promoción Cultural
+3,3,4,1,Promoción cultural
 3,3,4,2,Música
 3,3,5,0,Artes escénicas
 3,3,6,0,Protección y gestión del Patrimonio Histórico-Artístico

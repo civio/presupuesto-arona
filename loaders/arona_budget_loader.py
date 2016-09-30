@@ -23,8 +23,12 @@ class AronaBudgetLoader(SimpleBudgetLoader):
             '3220': '3229',     # Enseñanza secundaria
             '3230': '3239',     # Promoción educativa
             '3240': '3260',     # Servicios complementarios de educación
+            '3340': '3341',     # Promoción cultural
             '4410': '4411',     # Promoción, mantenimiento y desarrollo del transporte
             '4940': '4911',     # URBAN- Arona 2007-2013
+        }
+        programme_mapping_2015 = {
+            '3340': '3341',     # Promoción cultural
         }
 
         # Some dirty lines in input data
@@ -44,6 +48,8 @@ class AronaBudgetLoader(SimpleBudgetLoader):
             year = re.search('municipio/(\d+)/', filename).group(1)
             if int(year) < 2015:
                 fc_code = programme_mapping.get(fc_code, fc_code)
+            elif int(year) == 2015:
+                fc_code = programme_mapping_2015.get(fc_code, fc_code)
 
             return {
                 'is_expense': True,
