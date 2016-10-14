@@ -89,6 +89,10 @@ $dvmi-navbar-color:       white;
 $navbar-default-link-active-color:    $brand-primary;
 $navbar-default-link-active-bg:       $brand-secondary;
 
+// Navbar collapse
+//** Point at which the navbar becomes uncollapsed.
+$grid-float-breakpoint:               992px;  //$screen-md-min;
+
 
 // Popover
 // --------------

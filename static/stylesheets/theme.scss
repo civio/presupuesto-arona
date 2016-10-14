@@ -3,6 +3,7 @@
 }
 
 .navbar-default .navbar-nav{
+
   [class*="icon-"]:before{
     display: none;
   }
@@ -13,6 +14,28 @@
 
     &:hover{
       color: $brand-primary;
+    }
+
+    &.icon-home{
+      text-indent: -9999px;
+      background-image: url(../assets/home-icon.png);
+      background-repeat: no-repeat;
+      background-position: center center;
+
+      &:hover{
+        background-image: url(../assets/home-icon-blue.png);
+      }
+    }
+  }
+
+  @media (min-width: $grid-float-breakpoint) {
+
+    > li{
+      width: 95% / $dvmi-menu-length;
+
+      &.page-home{
+        width: 5%;
+      }
     }
   }
 }
@@ -40,8 +63,9 @@
   }
 }
 
-.home-content .options .option > div .icon{
-  color: mix( $brand-primary, $brand-secondary, 30% );
+.home-content .options .option > div .icon,
+.budget-intro .budget-step h3 span{
+  color: mix( #F4A901, white, 75% );
 }
 
 .policies-chart{
