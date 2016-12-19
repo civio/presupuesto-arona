@@ -1,4 +1,4 @@
-#Aplicación Presupuestaria,Programa,,Fecha,CIF,Tercero,Concepto,Importe
+#NOMPARTIDA,CODFUNCION,CODECOPART,Fecha,NIFTERCERO,NOMTERCERO,Descripción,IMPTOTFACTS
 Arrendamientos de Material de Transporte,132,20400,2015-01-01,A91001438,ALPHABET ESPAÑA FLEET MANAGEMENT S.A.U.,"Servicio Enero 2015 ,Alquiler VehIculos para la policia loca Expt 3/09-CSPSU",11492.78
 Asistencia Médico-Farmacéutica,221,16008,2015-01-01,A50004209,"DKV SEGUROS Y REASEGUROS, S.A.E,","""Seguro de SALUD """"DKV Mundis lud"""", póliza 37/041/01952_x000D_ E isión correspondiente al peri do: 2015/01_x000D_",16725
 Material informático no inventariable,920,22002,2015-01-01,B38447355,"CIA. INSULAR DE COMUNICACIONES CICOM96, S.L.","Mantenimiento 2015, Contrato C icom, Central Ericson BP250",4960.19
@@ -123,7 +123,7 @@ Plan de Promoción Económica,433,22614,2015-01-13,B76656404,ANIMA EVENTOS TENER
 Repar. conserv. y man. elementos de transporte,132,21400,2015-01-13,B38233912,SERVICIOS E LEON S.L.,ReparaciOn  Honda Moto TF-0837 -BY,80.25
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2015-01-13,B38621850,FERRETERIA HERMALAY S.L.,Cilindro Azbe Largo 70 mm- Ofi cina Participacion Ciudadana,10.55
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2015-01-13,H38351268,APTS. AMARILLA BAY FASE II C.P.,4 Trimestre Gastos Comunitario s de locales en C.P Amarilla B ay II,519.75
-Vestuario,130,22104,2015-01-13,B35885805,ARMERIA MEDINA 1978 S.L.,"Gastos Suplido Compra en Armer ia Medina 1978 s.l,  Guantes A nticorte y Portaguantes, Ana J essica  Rodriguez Mendez",35
+Vestuario,130,22104,2015-01-13,B35885805,ARMERIA MEDINA 1978 S.L.,"Gastos Suplido Compra en Armer ia Medina 1978 s.l,  Guantes A nticorte y Portaguantes",35
 Energía eléctrica,150,22100,2015-01-14,A81948077,ENDESA ENERGIA S.A.U.,periodo de facturación del 04/ 12/2014 AL 09/01/2015;CUPS: ES 0031601117344007KB0F-ALQUILERE S/VARIOS--,229.79
 Energía eléctrica,150,22100,2015-01-14,A81948077,ENDESA ENERGIA S.A.U.,periodo de facturación del 04/ 12/2014 AL 09/01/2015;CUPS: ES 0031601180629001YE0F-ALQUILERE S/VARIOS--,209.27
 Energía eléctrica,150,22100,2015-01-14,A81948077,ENDESA ENERGIA S.A.U.,periodo de facturación del 04/ 12/2014 AL 09/01/2015;CUPS: ES 0031601261789001LZ0F-ALQUILERE S/VARIOS--,250.09
@@ -180,8 +180,8 @@ Festejos y Actos Populares,338,22610,2015-01-15,A38011623,CANARIA DE AVISOS S.A.
 Fiestas del Municipio,338,22611,2015-01-15,B76656404,ANIMA EVENTOS TENERIFE S.L.,Reparto Publicitario  400 Cart eles  y 4000 Tripticos 2000 Fl ayer- Fiestas S. Antonio,535
 Fiestas del Municipio,338,22611,2015-01-15,G38646907,AGRUPACION FOLKLORICA CHAVEÑA,"Actuacion en Baile Magos Arona  2015, San Antonio Abad",250
 "Jurídicos, Contenciosos",920,22604,2015-01-15,A38011623,CANARIA DE AVISOS S.A.,"Publicacion bando Alcaldia en el diario DE AVISOS, 04/01/15,  Cabalgata de Reyes",802.5
-Locomoción de Personal,4911,23120,2015-01-15,A10005510,VIAJES HALCON S.A.,"Billete D. Monica Garcia Delga do, TCI-MAD-TCI, L?nea Urban A rona",136
-Ordinario no inventariable,912,22000,2015-01-15,B38240933,IMPRENTA REYES S.L.,1000 Tarjetas de Visita format o 8.5*5cm/ Tarjetas  Francisco  Niño- Protocolo,222.38
+Locomoción de Personal,4911,23120,2015-01-15,A10005510,VIAJES HALCON S.A.,"Billete D. XXX, TCI-MAD-TCI, L?nea Urban A rona",136
+Ordinario no inventariable,912,22000,2015-01-15,B38240933,IMPRENTA REYES S.L.,1000 Tarjetas de Visita format o 8.5*5cm/ Tarjetas Protocolo,222.38
 Plan de Promoción Económica,433,22614,2015-01-15,A38011623,CANARIA DE AVISOS S.A.,"Publicacion faldon en el Diari o de Avisos el 03 y 4 01/15,-L a Estrella de los Reyes Llega Arona",1605
 Postales,920,22201,2015-01-15,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio Correspondencia 15/1/ 15, Rentas 650",5.36
 Postales,920,22201,2015-01-15,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio Correspondencia 15/1/ 15, Rentas 651",32.73
@@ -770,7 +770,7 @@ Ordinario no inventariable,130,22000,2015-03-03,B38081790,THE RED PEN S.L.,"20 T
 Plan de Promoción Económica,433,22614,2015-03-03,B38853990,SOUND CANARIAS S.L.U.,Alquiler montaje de sonido-ilu minación para Pre-Cabalgata de  Reyes Magos de Arona. Conceja lía de Promoción Económica y E,524.3
 Postales,920,22201,2015-03-03,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,Servicio Correspondencia 03/03 /2015- Multas 666,43.55
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2015-03-03,B38889911,"INVERSIONES MARTIN DORTA, S.L.","Manillon pulido brillo 297IRON W, Cierre Caja y Candado- Sac y Colegio de Arona",19.76
-Atenciones protocolarias y representativas,912,22601,2015-03-04,B38454781,DRAYCA SUR SERVICIOS S.L.,"2 Cuadros Pintadera Canaria"" R econocimiento a Pedro García A guado y Francisco Castaño""",100
+Atenciones protocolarias y representativas,912,22601,2015-03-04,B38454781,DRAYCA SUR SERVICIOS S.L.,"2 Cuadros Pintadera Canaria"" R econocimiento""",100
 Energía eléctrica,150,22100,2015-03-04,A81948077,ENDESA ENERGIA S.A.U.,Consumo P1         P1,2001.21
 Energía eléctrica,340,22100,2015-03-04,A81948077,ENDESA ENERGIA S.A.U.,Consumo P1         P1,999.66
 Energía eléctrica,340,22100,2015-03-04,A81948077,ENDESA ENERGIA S.A.U.,Consumo P1         P1,1188.86
@@ -1066,7 +1066,7 @@ Primas de seguros vehículos municipales.,170,22401,2015-03-25,W0072130H,ZURICH 
 Repar. conserv. y man. elementos de transporte,132,21400,2015-03-25,B38233912,SERVICIOS E LEON S.L.,Reparacion Circuitos Renault M egane- 2887-FZC,40.13
 "Reuniones, conferencia y cursos",924,22606,2015-03-25,B38460713,AREA RURAL TEGUESTE SLU,"Escuela Formacion Ciudadania "" Taller 6 Fortaleciendo Nuestra  Inteligencia Emocional y Rela cional-Participación Ciudadana",267.5
 "Reuniones, Conferencias y Cursos",241,22606,2015-03-25,A38015459,COMERCIAL JESUMAN S.A.,"Alquiler Salon ""Sala Teide"" Ev ento El Cajon de Sastre de la Pyme 25/03/15, Promoc Económic a.",150
-Atenciones protocolarias y representativas,912,22601,2015-03-26,B38454781,DRAYCA SUR SERVICIOS S.L.,Cuadro Medalla de Bronce D. Fe rnando Garcia Crespo,67
+Atenciones protocolarias y representativas,912,22601,2015-03-26,B38454781,DRAYCA SUR SERVICIOS S.L.,Cuadro Medalla de Bronce,67
 Energía eléctrica,150,22100,2015-03-26,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,23.09
 Energía eléctrica,150,22100,2015-03-26,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,133.68
 Energía eléctrica,340,22100,2015-03-26,A81948077,ENDESA ENERGIA S.A.U.,FACTURACION DEL CONSUMO         P1,412.64
@@ -1242,7 +1242,7 @@ Energía eléctrica,920,22100,2015-04-02,B82846825,ENDESA ENERGIA XXI S.L.,Consu
 Energía eléctrica,920,22100,2015-04-02,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,57.65
 Energía eléctrica,920,22100,2015-04-02,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,191.13
 "Desinfectantes, raticidas",311,22115,2015-04-06,B38589842,MAXIMO PESTANO SANIDAD AMBIENTAL S.L.,Servicio Abril 2015- Control P lagas en vías y espacios públi cos.,3852
-Locomoción del personal no directivo,931,23120,2015-04-06,A10005510,VIAJES HALCON S.A.,"Billete, TCI-MAD-TCI,Mercedes Martin Risco, 05/4-08/04 Maste r Universitario Contabilidad,   gestion y Control de entidad",227.27
+Locomoción del personal no directivo,931,23120,2015-04-06,A10005510,VIAJES HALCON S.A.,"Billete, TCI-MAD-TCI, 05/4-08/04 Master Universitario Contabilidad,   gestion y Control de entidad",227.27
 Plan de Promoción Económica,433,22614,2015-04-06,B76647270,MR ROY AND COMPANY,Evento Ruta del Dulce en Seman a Santa. Concejalia Promocion Economica.,2140
 Plan de Promoción Económica,433,22614,2015-04-06,B76647270,MR ROY AND COMPANY,Flyers  Ruta del Dulce en Sema na Santa. Concejalia de Promoc ion Economica.,406.6
 "Reparación, man. y conserv. elementos de transport",912,21400,2015-04-06,B38788287,"TALLER JUAN GOMEZ, S.L.",Cambio Aceite y Filtro  Vehícu lo 2732CFT.,98.25
@@ -1284,7 +1284,7 @@ Energía eléctrica,920,22100,2015-04-08,A81948077,ENDESA ENERGIA S.A.U.,FACTURA
 Energía eléctrica,920,22100,2015-04-08,B82846825,ENDESA ENERGIA XXI S.L.,Consumo P1         P1,73.79
 Energía eléctrica,920,22100,2015-04-08,B82846825,ENDESA ENERGIA XXI S.L.,Consumo P1         P1,103.58
 Energía eléctrica,920,22100,2015-04-08,B82846825,ENDESA ENERGIA XXI S.L.,Consumo P1         P1,137.84
-Energía eléctrica,920,22100,2015-04-08,B82846825,ENDESA ENERGIA XXI S.L.,"Facturacion 05/12/2014-06/02/2 015, Antonio DominguezP. Publi co",106.92
+Energía eléctrica,920,22100,2015-04-08,B82846825,ENDESA ENERGIA XXI S.L.,Facturacion 05/12/2014-06/02/2 015 P. Publi co,106.92
 Energía eléctrica,920,22100,2015-04-08,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,75.3
 Energía eléctrica,920,22100,2015-04-08,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,616.81
 Energía eléctrica,920,22100,2015-04-08,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,1390.86
@@ -1369,7 +1369,7 @@ Material Convenios Fomento Empleo,241,22612,2015-04-14,B38517934,ERQUITO GOMERA 
 Ordinario no inventariable,920,22000,2015-04-14,B38081790,THE RED PEN S.L.,4000 Expedientes Blanco,535
 Plan de Promoción Económica,433,22614,2015-04-14,B38240933,IMPRENTA REYES S.L.,"13 Lonas Formato 1,5 x 25CM Y 3000 FLYER formato 10 X 14. ""F eria del Deporte"" Concejalía P romoción Económica""",854.84
 Plan de Promoción Económica,433,22614,2015-04-14,B76659879,PRENSA INSULAR,"""Feria del Deporte 2015"".Conce jalía de Promoción Económica.",428
-Vestuario,164,22104,2015-04-14,B38798278,SOLUCIONES EXTREME CANARIAS S.L.,"Gastos Suplidos, Cinturon y Fu nda  Seguridad,D.Alfredo  Rodr Iguez  Perera",127
+Vestuario,164,22104,2015-04-14,B38798278,SOLUCIONES EXTREME CANARIAS S.L.,"Gastos Suplidos, Cinturon y Fu nda  Seguridad",127
 Construcción Nichos medidas especiales,164,62215,2015-04-15,B38910253,"ANSO XXI, S.L.","Certificacion Unica, Ampliacio n Cementerio 20 Nichos Santa S alome, Expte 4/14-CMO",17308.89
 Energía eléctrica,150,22100,2015-04-15,A81948077,ENDESA ENERGIA S.A.U.,Consumo P1         P1-Consumo P2                    P1-Consumo P3,393.9
 Energía eléctrica,150,22100,2015-04-15,A81948077,ENDESA ENERGIA S.A.U.,Consumo P1         P1-Consumo P2                    P1-Consumo P3,635.52
@@ -1447,7 +1447,7 @@ Productos alimenticios,920,22105,2015-04-21,B38641387,"FUENTE AZUL CIA. DE AGUAS
 Productos alimenticios,920,22105,2015-04-21,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",Cuota de Servicio. Tesorería.,17.13
 Productos alimenticios,920,22105,2015-04-21,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",Cuota de Servicio. Urbanismo.,31.02
 Energía eléctrica,920,22100,2015-04-22,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,490.39
-Plan de Formación Interno Empleados Públicos,920,22616,2015-04-22,G93080737,FUNDACION ASESORES LOCALES,"Derechos Inscripcion .D Rocha Maria Concepcion, Vargas Franc isco,Alayon Jose Carlos"" Learn ing sobre gestion y valoración",780
+Plan de Formación Interno Empleados Públicos,920,22616,2015-04-22,G93080737,FUNDACION ASESORES LOCALES,"Derechos Inscripcion "" Learn ing sobre gestion y valoración",780
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2015-04-22,B38621850,FERRETERIA HERMALAY S.L.,Material Divero para Ceip las Americas- Obras e Infraestruct ura,101.14
 "Reuniones, conferencia y cursos",924,22606,2015-04-22,B38460713,AREA RURAL TEGUESTE SLU,Programa Acciones Formativas p ara la Escuela Formación Ciuda dana Arona 2015.Taller 9.Conce jalía Participación Ciudadana.,267.5
 Actividades Partiicipación Ciudanana,924,22609,2015-04-23,B38454781,DRAYCA SUR SERVICIOS S.L.,"Cuadro Diploma "" Participacion  Ciudadana""-Protocolo",18.5
@@ -1489,7 +1489,7 @@ Festejos y Actos Populares,338,22610,2015-04-29,B38436499,TECNISUR TENERIFE S.L.
 Fiestas del Municipio,338,22611,2015-04-29,A28010478,IMESAPI S.A.,"Alquiler y Traslado Grupo Elec trogeno del Escenario Principa l, Comprobacion Linea Electri  ca, Carnaval Arona 2015",9420.13
 "Prensa, revistas, libros y otras publicaciones",920,22001,2015-04-29,A58417346,WOLTERS KLUWER ESPAÑA S.A.,"(B2014057) EL NUEVO DERECHO DE  COSTAS-Contratacion Alicia Ro driguez , Contratacion",100
 Servicio Mantenimiento Alumbrado Público,165,22712,2015-04-29,A28010478,IMESAPI S.A.,Sustitución células fotoeléct icas reloj astronómi,7128.52
-Vestuario,920,22104,2015-04-29,A38200655,"BORRELLA,S.A.",Suministro Uniformidad a Orden anza y Chófer (Marcos Sierra y  Miguel Morales) del Ayuntamie nto de Arona.,804.72
+Vestuario,920,22104,2015-04-29,A38200655,"BORRELLA,S.A.",Suministro Uniformidad a Orden anza y Chófer del Ayuntamie nto de Arona.,804.72
 Actividades Socioculturales,3271,22609,2015-04-30,B38867750,CRUZ  AZUL CANARIAS S.L.,"Semana Cultural IES Los Cristi anos,Act.Extraescolar,-Conceja lia Juventud",200
 Actividades Socioculturales,3271,22609,2015-04-30,B76589449,ANYMAX ANIMACION Y ESPECTACULOS S.L.,"Descubriendo Arona, Una Histor ia para Recordar/ Actuaciones. Concejalía de Juventud.",856
 Anticipos por cuenta terceros,931,83001,2015-04-30,A38011623,CANARIA DE AVISOS S.A.,"24/04/2015,532927, Publicacion  2/14-cnt-carsv apertura licit acion, pag.20.""Servicio Seguro  Responsabilidad Civil-Patrim",269.64
@@ -1577,7 +1577,7 @@ Plan de Promoción Económica,433,22614,2015-05-05,A28281368,RADIO POPULAR S.A. 
 Plan de Promoción Económica,433,22614,2015-05-05,B38418653,SANITARIOS PORTATILES S.L.,Dos Carpas 10*35 Completamente Cerradas-Feria de Alimentos,6184.6
 Postales,920,22201,2015-05-05,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio 05/05/15, Catastro No tf 901",27.36
 Postales,920,22201,2015-05-05,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio 05/05/15-, Multas 677",38.27
-"Prensa, revistas, libros y otras publicaciones",920,22001,2015-05-05,A81962201,ARANZADI EDITORIAL,Gastos Suplidos  Contratos Pu blicos- Alicia Rodríguez Secci ón Contratación,31.97
+"Prensa, revistas, libros y otras publicaciones",920,22001,2015-05-05,A81962201,ARANZADI EDITORIAL,Gastos Suplidos  Contratos Pu blicos-Secci ón Contratación,31.97
 Productos alimenticios,920,22105,2015-05-05,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 4 Botellones  Agua, 1 Caja Vasos-Policía Mu  nicipal, Jefatura",51.4
 Productos alimenticios,920,22105,2015-05-05,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 5 Botellones  , 3 Cajas Vasos-Sac los Crist ianos nº 1",83.12
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2015-05-05,B38621850,FERRETERIA HERMALAY S.L.,"Asiento Inodoro Infantil c/Tap a- Barra Ducha , Cortina Baño- Servicio Obra e Infraestructru ra Policia local de Arona",359.95
@@ -1783,7 +1783,7 @@ Energía eléctrica,920,22100,2015-05-18,B82846825,ENDESA ENERGIA XXI S.L.,FACTU
 Energía eléctrica,920,22100,2015-05-18,B82846825,ENDESA ENERGIA XXI S.L.,Potencia         P1,49.05
 Plan de Promoción Económica,433,22614,2015-05-18,B38240933,IMPRENTA REYES S.L.,1000 Flyer Formato 15x21 CM Im presion A 4/4 Tintas en Papel Estucado .Menu Futurismo. Conc ejalia Promocion Economica,250.65
 Plan de Promoción Económica,433,22614,2015-05-18,B38240933,IMPRENTA REYES S.L.,"200 Cartel  formato, dia de la  madre y   8100 Tickets. Conce jalia Promocion Economica y Em pleo",1077.99
-"Prensa, revistas, libros y otras publicaciones",920,22001,2015-05-18,B38613238,"LLANOAZUR, S.L.","Adquisicion 500 Editados Rusti ca y 250 Tapa Dura, Un Recorri do  por su historia, Carmen Ro sa Perez Barrios",12300
+"Prensa, revistas, libros y otras publicaciones",920,22001,2015-05-18,B38613238,"LLANOAZUR, S.L.","Adquisicion 500 Editados Rusti ca y 250 Tapa Dura, Un Recorri do  por su historia",12300
 Productos alimenticios,920,22105,2015-05-18,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",1 Cuota Servicio - Participaci ón Ciudadana,9.63
 Productos alimenticios,920,22105,2015-05-18,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio , 20 Botellon es Agua, 2 Cajas Vasos-Policia  Arona",156.12
 Productos alimenticios,920,22105,2015-05-18,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 1 Caja Vasos -Tesoreria",22.88
@@ -1846,8 +1846,8 @@ Energía eléctrica,920,22100,2015-05-26,B82846825,ENDESA ENERGIA XXI S.L.,Consu
 Energía eléctrica,920,22100,2015-05-26,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,475.6
 Energía eléctrica,920,22100,2015-05-26,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,623.89
 Energía eléctrica,920,22100,2015-05-26,B82846825,ENDESA ENERGIA XXI S.L.,Potencia         P1,46.87
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-05-26,A10005510,VIAJES HALCON S.A.,PASAJERO: FRANCISCO JOSE NIÑO RODRIGUEZ  - COMPAÑIA: AIR BE LIN	 - BILLETE AÉREO Nº	: 659 707802	 - TRAYECTO	: TFSTXLTF,379
-Locomoción del personal no directivo,931,23120,2015-05-26,A10005510,VIAJES HALCON S.A.,Billete a Madrid de Lorena Lóp ezA  - COMPAÑIA: AIR EUROPA	 - ILLETE AÉREO Nº	: 9227778661	 - TRAYECTO	: MADTFN - ORIGEN:,225
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-05-26,A10005510,VIAJES HALCON S.A.,PASAJERO - COMPAÑIA: AIR BE LIN	 - BILLETE AÉREO Nº	: 659 707802	 - TRAYECTO	: TFSTXLTF,379
+Locomoción del personal no directivo,931,23120,2015-05-26,A10005510,VIAJES HALCON S.A.,Billete a Madrid COMPAÑIA: AIR EUROPA	 - ILLETE AÉREO Nº	: 9227778661	 - TRAYECTO	: MADTFN - ORIGEN:,225
 Material Convenios Fomento Empleo,241,22612,2015-05-26,B38662748,COMERCIAL MIGUEL GOMEZ GONZALEZ S.L.,Uniformidad para Plan de Emple o Social 2015- Promocion Ec.,240.5
 Atenciones protocolarias y representativas,912,22601,2015-05-27,B38454781,DRAYCA SUR SERVICIOS S.L.,100 Litografias de grabados de  20 x 29 Enmarcados-* Regalos  actos institucionales,2500
 Energía eléctrica,150,22100,2015-05-27,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,165.19
@@ -1891,7 +1891,7 @@ Energía eléctrica,920,22100,2015-05-29,B82846825,ENDESA ENERGIA XXI S.L.,FACTU
 Festejos y Actos Populares,338,22610,2015-05-29,B76559681,"BRUJULA SEGURIDAD,S.L.",Zona Custodiada 29 y 30 Mayo- Baile de Magos,295.32
 Festejos y Actos Populares,338,22610,2015-05-29,G38441515,"AGRUPACION FOLKLORICA ""GUARGAZAL""",Participacion en el Baile de M agos de los Cristianos- Dia de  Canarias,200
 Festejos y Actos Populares,338,22610,2015-05-29,G38490736,A.C. PARRANDA DE ALDEA BLANCA,"Participacion - Actuacion en e l Baile de Magos el día 29/5/1 5- Los Cristianos, Arona",300
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-05-29,A10005510,VIAJES HALCON S.A.,PASAJERO: NINO RODRIGUEZ/FRAN ISCO JOSE  - COMPAÑIA: IBERIA  - BILLETE AÉREO Nº	: 9228891 45	 - TRAYECTO	: TFSMADTFS -,492.14
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-05-29,A10005510,VIAJES HALCON S.A.,PASAJERO - COMPAÑIA: IBERIA  - BILLETE AÉREO Nº	: 9228891 45	 - TRAYECTO	: TFSMADTFS -,492.14
 Plan de Formación Interno Empleados Públicos,920,22616,2015-05-29,B76584283,"SHINE PSICOLOGIA Y COACHING, S.L.","Imparticion del Curso on line "" Gestion del Tiempo : Estable cer primero lo primero""de 30 h oras,desde el 06/05/15-15/6/15",1819
 Repar. mant. y conserv. elementos de transporte,920,21400,2015-05-29,B38342424,NEUMATICOS ATLANTICO S.L.,Adquisición 2 Cubiertas Vehícu lo 0305FCH.,94.56
 Servicio Mantenimiento Jardines Municipales,171,22741,2015-05-29,U76535509,UTE ZONAS VERDES ARONA,"Servicio Mayo 2015, Gestion Zo nas Verdes",374075.17
@@ -1947,9 +1947,9 @@ Energía eléctrica,920,22100,2015-06-01,B82846825,ENDESA ENERGIA XXI S.L.,Poten
 Festejos y Actos Populares,338,22610,2015-06-01,A38010856,AGUAS DE VILAFLOR S.A.,"525 Botellines de 33 cl-Fiesta s, baile de magos de canarias  2015",87.13
 Festejos y Actos Populares,338,22610,2015-06-01,B38390589,SOUND BLACK S.L.,Sonido para Baile Magos para l os Grupos Folcloricos- Dia de Canarias,1391
 Festejos y Actos Populares,338,22610,2015-06-01,B38418653,SANITARIOS PORTATILES S.L.,"Alquiler 2 Sanitarios pace, 1 Sanitario Accesible- Baile Mag os Canarias 2015",160.5
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-06-01,A10005510,VIAJES HALCON S.A.,"D.Francisco NiÑo Rodriguez, Tr ansfer Aeropuerto- Hotel 27-28 /05/15; Transf Aerop- Hotel 31 /05-01/6/15",144
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-06-01,A10005510,VIAJES HALCON S.A.,PASAJERO: NINO RODRIGUEZ/FRAN ISCO JOSE  - COMPAÑIA: AIR EU OPA	 - BILLETE AÉREO Nº	: 659 707848	 - TRAYECTO	: TFNMAD -,78
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-06-01,A10005510,VIAJES HALCON S.A.,"Transfer i/out con coche alqui ler- D. Francisco Ni?o Rodr?gu ez, 28/05-31/05/2015",230
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-06-01,A10005510,VIAJES HALCON S.A.,Tr ansfer Aeropuerto- Hotel 27-28 /05/15; Transf Aerop- Hotel 31 /05-01/6/15,144
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-06-01,A10005510,VIAJES HALCON S.A.,PASAJERO  - COMPAÑIA: AIR EU OPA	 - BILLETE AÉREO Nº	: 659 707848	 - TRAYECTO	: TFNMAD -,78
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-06-01,A10005510,VIAJES HALCON S.A.,Transfer i/out con coche alqui ler- 28/05-31/05/2015,230
 Material Convenios Fomento Empleo,241,22612,2015-06-01,B76546225,"MAC IMPRESIONS, S.L.",Serigrafia en Chalecos Propios  Espalda mas corazona- Program a Extraordianrio bianual de Em leo social 2015,431.42
 Plan de Promoción Económica,433,22614,2015-06-01,B76659879,PRENSA INSULAR,"Publicidad Pag. Completa , Jun io 2015- Arona en Colores, Pro moc. Ec",856
 Plan de Promoción Económica,433,22614,2015-06-01,G38035192,C.I.T. SUR,"Servicio 30/5/15, Azafata en P z la Iglesia- Los Cristianos, de 10: -14:00 (dia de Canarias )",50
@@ -1968,7 +1968,7 @@ Teléfonos,130,22204,2015-06-01,A78923125,"TELEFONICA MOVILES ESPAÑA, S.A.",Fac
 Teléfonos,130,22204,2015-06-01,A78923125,"TELEFONICA MOVILES ESPAÑA, S.A.",Facturación telefonica periodo  18/4/2015 a 17/05/2015,1139.32
 Teléfonos,330,22204,2015-06-01,A78923125,"TELEFONICA MOVILES ESPAÑA, S.A.",Facturación telefonica periodo  17/04/2015 a 18/05/2014.,163.32
 Acondicionamiento de la Travesía de Guaza,1532,65004,2015-06-02,B76544808,"OBRAS Y SERVICIOS CANARIOS H5, S.L.",Certificacion  Expediente 5/14 -cnt-cmo,7579.18
-Atenciones protocolarias y representativas,912,22601,2015-06-02,B38454781,DRAYCA SUR SERVICIOS S.L.,"Cuadro para Oleo- Protocolo ,E L Alcalde D. Francisco  Niño   Rodriguez",75
+Atenciones protocolarias y representativas,912,22601,2015-06-02,B38454781,DRAYCA SUR SERVICIOS S.L.,"Cuadro para Oleo- Protocolo ,EL Alcalde",75
 Energía eléctrica,150,22100,2015-06-02,A81948077,ENDESA ENERGIA S.A.U.,Consumo P1         P1,137.17
 Energía eléctrica,150,22100,2015-06-02,A81948077,ENDESA ENERGIA S.A.U.,Consumo P1         P1,461.63
 Energía eléctrica,150,22100,2015-06-02,A81948077,ENDESA ENERGIA S.A.U.,Consumo P1         P1,1109.34
@@ -2146,7 +2146,7 @@ Energía eléctrica,920,22100,2015-06-11,B82846825,ENDESA ENERGIA XXI S.L.,Consu
 Energía eléctrica,920,22100,2015-06-11,B82846825,ENDESA ENERGIA XXI S.L.,Consumo P1         P1,176.89
 Energía eléctrica,920,22100,2015-06-11,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,173.04
 Energía eléctrica,920,22100,2015-06-11,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,314.71
-Locomoción del personal no directivo,931,23120,2015-06-11,A10005510,VIAJES HALCON S.A.,PASAJERO: LOPEZ FIGUEROA/LORE A  - COMPAÑIA: AIR EUROPA	 - ILLETE AÉREO Nº	: 9229480880	 - TRAYECTO	: TFNMADTFN - ORIG,196.26
+Locomoción del personal no directivo,931,23120,2015-06-11,A10005510,VIAJES HALCON S.A.,PASAJERO - COMPAÑIA: AIR EUROPA	 - ILLETE AÉREO Nº	: 9229480880	 - TRAYECTO	: TFNMADTFN - ORIG,196.26
 Plan de Promoción Económica,433,22614,2015-06-11,B38240933,IMPRENTA REYES S.L.,"6000 Volanderas, 500 Carteles,  4800 Ticket Ruleta Magica, 33 00 Ticke regalo, 10000Cuadript icos,4 Plote,Arona en Colores",3697.09
 Plan de Promoción Económica,433,22614,2015-06-11,B38757159,HERNANDEZ CABRERA E HIJAS S.L.,PSDO. FACTURA N? 00000000902.A dquisción Velcro Adhesivo Mach o 50 MM.,292.5
 Postales,920,22201,2015-06-11,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio 11/6/15, Multas 688",13.5
@@ -2214,7 +2214,7 @@ Actividades Socioculturales,3271,22609,2015-06-16,B38443073,YAIZA BUS S.L.,"Dive
 Energía eléctrica,340,22100,2015-06-16,A81948077,ENDESA ENERGIA S.A.U.,FACTURACION DEL CONSUMO         P1,230.59
 Energía eléctrica,920,22100,2015-06-16,A81948077,ENDESA ENERGIA S.A.U.,Consumo P2         P1,508.03
 Energía eléctrica,920,22100,2015-06-16,A81948077,ENDESA ENERGIA S.A.U.,Consumo P2         P1,559.96
-Locomoción de Personal,4911,23120,2015-06-16,A10005510,VIAJES HALCON S.A.,PASAJERO: MONICA GARCIA DELGA O  - COMPAÑIA: BINTER CANARIA 	 - BILLETE AÉREO Nº	: 922975 963	 - TRAYECTO	: TFNLPATFN -,74.48
+Locomoción de Personal,4911,23120,2015-06-16,A10005510,VIAJES HALCON S.A.,PASAJERO- COMPAÑIA: BINTER CANARIA 	 - BILLETE AÉREO Nº	: 922975 963	 - TRAYECTO	: TFNLPATFN -,74.48
 Plan de Promoción Económica,433,22614,2015-06-16,B38987368,"A.D.E.S. SIGLO 21, S.L.","2 Ambulancia SVB Y 3 Ambulanci a SVA ,4 Hospital de Campaña- Arona en Colores , 13/6/15, la s galletas 10:00-00:00",2099.69
 Plan de Promoción Económica,433,22614,2015-06-16,G38098224,ASOCIACION DE BOMBEROS VOLUNTARIOS,Asistencia al Reten de Fuegos Artificiales Evento: Arona en Colores 13/6/15- Promoc. Econó mica y Empleo.,250
 Productos alimenticios,920,22105,2015-06-16,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",1 Cuota Servicio- Obras e Infr aestructura,9.63
@@ -2418,7 +2418,7 @@ Mantenimiento Aire Acondicionado,920,21304,2015-07-08,B38929592,"SOLCLIMA DISTRI
 Postales,920,22201,2015-07-08,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,PLEGADO TERMICO SICER (Plus Va lía),16.44
 "Desinfectantes, raticidas",311,22115,2015-07-09,B38589842,MAXIMO PESTANO SANIDAD AMBIENTAL S.L.,"Servicio Julio 2015, Desratiza ción y Desinsectación en Vía y  Espacios Públicos",3852
 Energía eléctrica,920,22100,2015-07-09,B82846825,ENDESA ENERGIA XXI S.L.,Consumo P1         P1,43.02
-Formación y perfeccionamiento del Personal,920,16200,2015-07-09,B80004732,SOLUCIONES AVANZADAS EN INFORMAT.APLICA,"Asistencia curso 2 jornadas As istentes: JOSE MANUEL CABELLO ALAYON, CRISTINA HERNANDEZ LUI S, MARÍA ELENA GARCÍA MUNERA",750
+Formación y perfeccionamiento del Personal,920,16200,2015-07-09,B80004732,SOLUCIONES AVANZADAS EN INFORMAT.APLICA,Asistencia curso 2 jornadas As istentes,750
 Plan de Promoción Económica,433,22614,2015-07-09,B82846825,ENDESA ENERGIA XXI S.L.,RNDO. IMPORTE FACTURA Nº V4507 N00000104.C/ Dionisio González -Eventual Fiesta Las Galletas.  Agrup: 0380464.,266.58
 Postales,920,22201,2015-07-09,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,PLEGADO TERMICO (CATASTRO),23.59
 Energía eléctrica,920,22100,2015-07-10,B82846825,ENDESA ENERGIA XXI S.L.,Consumo P1         P1,48.78
@@ -2458,7 +2458,7 @@ Anticipos por cuenta terceros,931,83001,2015-07-15,A38011623,CANARIA DE AVISOS S
 Energía eléctrica,920,22100,2015-07-15,B82846825,ENDESA ENERGIA XXI S.L.,Consumo P1         P1,248.25
 Energía eléctrica,920,22100,2015-07-15,B82846825,ENDESA ENERGIA XXI S.L.,FACT. ENER ENTRE REALES         P1,6.74
 Energía eléctrica,920,22100,2015-07-15,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,82.1
-Formación y perfeccionamiento del Personal,920,16200,2015-07-15,B80004732,SOLUCIONES AVANZADAS EN INFORMAT.APLICA,"Asistencia curso 1 jornadas 04 /06/2015. Asistentes: JOSE MAN UEL CABELLO ALAYON, CRISTINA H ERNANDEZ LUIS, MARÍA ELENA GAR",450
+Formación y perfeccionamiento del Personal,920,16200,2015-07-15,B80004732,SOLUCIONES AVANZADAS EN INFORMAT.APLICA,Asistencia curso 1 jornadas 04 /06/2015. Asistentes,450
 Informáticas,920,22203,2015-07-15,A62186556,VODAFONE ONO S.A.U.,IPs Fijas 8 - Origen: ARONA,2820.79
 "Prensa, revistas, libros y otros",912,22001,2015-07-15,G62771498,FUNDACION DEMOCRACIA Y GOBIERNO LOCAL,"SDO. ABONO IMPORTE FACTURA Nº 2359.Q-160 Suscripción 2015 ""C uadernos de Derecho Local"" núm s: 37,38 Y 39.",36.54
 Publicidad y Propaganda,920,22602,2015-07-15,A38011623,CANARIA DE AVISOS S.A.,PUBLICIDAD DIARIO DE AVISOS. B ando Alcaldía  Concierto Marc  Anthony,449.4
@@ -2802,7 +2802,7 @@ Servicio de Mantenimiento Eléctrico de Edificios,920,22716,2015-08-31,A28010478
 Servicio Mantenimiento Alumbrado Público,165,22712,2015-08-31,A28010478,IMESAPI S.A.,"Certificiacion Agosto 2015 , M antenimiento Inst.Elec.,",118309.11
 Servicio Mantenimiento Jardines Municipales,171,22741,2015-08-31,U76535509,UTE ZONAS VERDES ARONA,"Servicio Agosto, Gestion Zonas  Verdes",365567.84
 Servicio Recogida de Papel Cartón,1621,22710,2015-08-31,U38732830,UTE CLUSA-MCCSA,"Servicio Agosto, Recogida Pape l Carton",22693.13
-Vestuario,130,22104,2015-08-31,B38722922,UNIFORMES DEL ATLANTICO S.L.,"2 Pantalones Grises, Uniforme,  D.Rafael Martin Martin- Polic ia local",40.42
+Vestuario,130,22104,2015-08-31,B38722922,UNIFORMES DEL ATLANTICO S.L.,"2 Pantalones Grises, Uniforme - Polic ia local",40.42
 Arrendamientos de Material de Transporte,132,20400,2015-09-01,A91001438,ALPHABET ESPAÑA FLEET MANAGEMENT S.A.U.,"Alquiler y Renting Septiembre  2015, Vehiculos Policia Local   Expte 3/09-CSPSU",11492.78
 Asistencia Médico-Farmacéutica,221,16008,2015-09-01,A50004209,"DKV SEGUROS Y REASEGUROS, S.A.E,","Seguro de Salud ""DKV Mundisalu d Elección"", póliza 037/00/041 /01952.  Emisión correspondien te al periodo : 09/2015",16901.25
 "Desinfectantes, raticidas",311,22115,2015-09-01,B38589842,MAXIMO PESTANO SANIDAD AMBIENTAL S.L.,Servicio Septiembre Desratizac i?n y Desinsectaci?n,3852
@@ -2947,7 +2947,7 @@ Combustibles y carburantes.,130,22103,2015-09-30,B38983318,"PICAMOLINOS, S.L.","
 Combustibles y carburantes.,130,22103,2015-09-30,B76585801,"VILLASARA MULTISERVICIOS, S.L.",Carburante Septiembre 2015 Veh iculos,872.88
 Combustibles y carburantes.,170,22103,2015-09-30,B38983318,"PICAMOLINOS, S.L.","Carburante Septiembre 2015, Ve hiculos",716.63
 Energía eléctrica,920,22100,2015-09-30,A38047684,ESTACION SURAMERICAS S.A.,Carburante Septiembre 2015- Ve hiculos,2097.68
-Estudios y Trabajos Técnicos,920,22706,2015-09-30,B06290241,"PREVING CONSULTORES, S.L.","Servicio Vigilancia Salud, n R ec. Medico 1, Zebensui Gonzale z Rancel",27.18
+Estudios y Trabajos Técnicos,920,22706,2015-09-30,B06290241,"PREVING CONSULTORES, S.L.","Servicio Vigilancia Salud, n R ec. Medico 1",27.18
 Fiestas del Municipio,338,22611,2015-09-30,A38015830,DECORACIONES ISLEÑAS S.A.,"Jartin Ferial Blanco J-1043 , 1 Rollo 60*2- Fiestas del Cris tos 2015",249.67
 Fiestas del Municipio,338,22611,2015-09-30,B38893590,LINARES TOUR S.L.,"Traslados  a la Gala de Tercer a Edad ,Velada de Arte- Fiesta s del Cristo Arona 2015",1388.64
 Limpieza y Aseo,920,22700,2015-09-30,B35745926,RALONS SERVICIOS S.L.,"Servicio Septiembre 2015- Limp ieza Centros Educativos y Depe ndencia Municipales, Expte 1/1 0-casv",143402.92
@@ -2994,7 +2994,7 @@ Telefónicas,920,22204,2015-10-01,A78923125,"TELEFONICA MOVILES ESPAÑA, S.A.",M
 Teléfonos,130,22204,2015-10-01,A78923125,"TELEFONICA MOVILES ESPAÑA, S.A.",Movistar - Tipo de contrato: C ontrato Corporativo Tarifa Úni ca - Extensiones fijas factura das: 200 - Periodo de Trafico:,91.77
 Teléfonos,130,22204,2015-10-01,A78923125,"TELEFONICA MOVILES ESPAÑA, S.A.",Movistar - Tipo de contrato: C ontrato Corporativo Tarifa Úni ca - Extensiones móviles: 83 -  Periodo de Trafico: (18 Ago.,1373.48
 Teléfonos,330,22204,2015-10-01,A78923125,"TELEFONICA MOVILES ESPAÑA, S.A.",Movistar - Tipo de contrato: C ontrato Corporativo Tarifa Úni ca - Extensiones fijas factura das: 200 - Periodo de Trafico:,91.77
-Fiestas del Municipio,338,22611,2015-10-02,A10005510,VIAJES HALCON S.A.,Pasaje a David de Maria y Acom pañantes para Fiestas del Cris to 2015,2351.46
+Fiestas del Municipio,338,22611,2015-10-02,A10005510,VIAJES HALCON S.A.,Pasaje y Acom pañantes para Fiestas del Cris to 2015,2351.46
 Postales,920,22201,2015-10-02,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio  02/10/15, Multas 727",1.75
 Postales,920,22201,2015-10-02,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,Servicio Correspondencia 02/10 /15- Multas 726,81.25
 Productos alimenticios,920,22105,2015-10-02,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 11 Botellone s-Sac los Cristianos",79.81
@@ -3017,11 +3017,11 @@ Atenciones protocolarias y representativas,912,22601,2015-10-08,B76535723,IMAZU 
 Fiestas del Municipio,338,22611,2015-10-08,E76611144,C.B. CANARIAS SUR LATINO,"Actuacion Musical en Arona, Mo tivo de sus Fiestas 03/10/15,  Fiestas del Cristo Arona 2015",1605
 Fiestas del Municipio,338,22611,2015-10-08,G38098224,ASOCIACION DE BOMBEROS VOLUNTARIOS,"Asistencia Reten Fuegos Arfici ales Evento: Fiestas Mayores , el 05/10/15- Arona 20:30-22:30 Fiestas del Cristo Arona 2015",250
 Fiestas del Municipio,338,22611,2015-10-08,G38098224,ASOCIACION DE BOMBEROS VOLUNTARIOS,"Asistencia Reten Fuegos Artifi ciales Evento: Fiesta Mayores Arona 04/10/15, 11:30-14:30, F iestas del Cristo Arona 2015",300
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-10-08,A10005510,VIAJES HALCON S.A.,"Billete, D. Dacil Leon Reveron TFS-MAD, Reunión Urban 06/10/2 015.",194
-Locomoción de Personal,4911,23120,2015-10-08,A10005510,VIAJES HALCON S.A.,"Billete D. Monica Garcia Delga do, TFS-MAD, Reunion Urban",194
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-10-08,A10005510,VIAJES HALCON S.A.,"Billete, TFS-MAD, Reunión Urban 06/10/2 015.",194
+Locomoción de Personal,4911,23120,2015-10-08,A10005510,VIAJES HALCON S.A.,"Billete, TFS-MAD, Reunion Urban",194
 Energía eléctrica,340,22100,2015-10-09,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1,7
 Energía eléctrica,340,22100,2015-10-09,B82846825,ENDESA ENERGIA XXI S.L.,FACTURACION DEL CONSUMO         P1-Potencia                    P1-Impto. E lectricidad,15.28
-Locomoción del personal no directivo,920,23120,2015-10-09,A10005510,VIAJES HALCON S.A.,"Billete D. Jose Antonio Tacoro nte Fumero, TFN-MAD,20-24/10/1 5, Symposiu,m 2015, Madrid",126.78
+Locomoción del personal no directivo,920,23120,2015-10-09,A10005510,VIAJES HALCON S.A.,"Billete, TFN-MAD,20-24/10/1 5, Symposiu,m 2015, Madrid",126.78
 "Reparación, man. y conserv. elementos de transport",150,21400,2015-10-14,B38233912,SERVICIOS E LEON S.L.,Bateria y lamparas 12v- Toyota  Hilux 2769-CYZ,100.36
 Anticipos por cuenta terceros,931,83001,2015-10-15,A38011623,CANARIA DE AVISOS S.A.,"Publicación10/10/15, pag21 ""An uncio Apertura 3/2014-Conveni  o, Activ. Voluntariado Protec  cion Civil""",269.64
 Informáticas,920,22203,2015-10-15,A62186556,VODAFONE ONO S.A.U.,Internet Garantizado 30M - Ori gen: ARONA-IPs Fijas 8 - Orige n: ARONA-Servicio Router Multi servicio gama media-IPs Fijas,2649.91
@@ -3116,7 +3116,7 @@ Combustibles y carburantes.,130,22103,2015-10-31,A38087367,CLAUDIO ALFONSO E HIJ
 Combustibles y carburantes.,130,22103,2015-10-31,B38983318,"PICAMOLINOS, S.L.",Carburante Octubre 2015 Vehicu los,745.97
 Combustibles y carburantes.,130,22103,2015-10-31,B38983318,"PICAMOLINOS, S.L.",Carburante Octubre 2015 Vehicu los,1769.03
 Combustibles y carburantes.,170,22103,2015-10-31,B38983318,"PICAMOLINOS, S.L.",Carburante Octubre 2015 Vehicu los,745.97
-Estudios y Trabajos Técnicos,920,22706,2015-10-31,B06290241,"PREVING CONSULTORES, S.L.","Servicio Vigilancia Salud, nº Rec. Medico 1, Maria Jesus Del gado Gorrin",27.18
+Estudios y Trabajos Técnicos,920,22706,2015-10-31,B06290241,"PREVING CONSULTORES, S.L.","Servicio Vigilancia Salud, nº Rec. Medico 1.",27.18
 Fiestas del Municipio,338,22611,2015-10-31,B38456828,ARTISTAS DE TENERIFE S.L.,Gala Eleccion de la Reina de las Fiestas Mayores ARONA- Fie stas del Cristo Arona 2015,642
 Fiestas del Municipio,338,22611,2015-10-31,B38794327,AUTO GRUAS CABELLO S.L.U.,Trasladar Montacarga Evento Fi esta Mayores de Arona 2015,148.57
 Limpieza y Aseo,920,22700,2015-10-31,B35745926,RALONS SERVICIOS S.L.,"Servicio Octubre 2015, Limpiez a C.Educativo y Depedencias Mu nicipales",143402.92
@@ -3179,7 +3179,7 @@ Combustibles y carburantes,912,22103,2015-11-06,B38381695,ANTONIA TACORONTE E HI
 Combustibles y carburantes,920,22103,2015-11-06,B38381695,ANTONIA TACORONTE E HIJOS S.L.,Carburante Vehiculos Octubre 2 015,461.82
 Estudios y Trabajos Técnicos,241,22706,2015-11-06,B38944864,EVM PROJECT MANAGEMENT EXPERTS S.L.,Asistencia Técnica de Redacció n de Propuesta para Ayudas par a el Desarrollo del Programa d e Ciudades Inteligentes de la,6420
 Fiestas del Municipio,338,22611,2015-11-06,B38509170,COMERCIAL RAECAN S.L.,204 Flecos Plasticos Pegados y  156 Fleco Surtidos-Fiestas de l Cristo Arona,1020.78
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-11-06,A10005510,VIAJES HALCON S.A.,"Billete. D. Jose Julian Mena, TFSLGW- TFS, Nº9352040209",759
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2015-11-06,A10005510,VIAJES HALCON S.A.,"Billete, TFSLGW- TFS, Nº9352040209",759
 Postales,920,22201,2015-11-06,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio 6/11/15, Plusvalia 74 1",23.92
 Recogida y acogida de animales.,311,22704,2015-11-06,N0044040D,AKTION TIER MENSCHEN FUR TIERE EV,"Servicio de Octubre , Acogida,  Mantenimiento y Estancia de P erros Abandonados en Vias Publ icas.",4180.85
 Centro Empresarial Integrado,4911,63207,2015-11-09,B76605260,"GESTION ENERGETICA Y DE INMUEBLES 5, S.L.L",Honorarios Proyecto Reformado del Centro Cultural de Las Gal letas para transformarlo en Ce ntro de Apoyo al Empresario---,9630
@@ -3192,7 +3192,7 @@ Mantenimiento de Ascensores,326,21302,2015-11-10,B76030410,ABC INSPECCION S.L.,"
 "Reparación, man. y conserv. elementos de transport",150,21400,2015-11-10,B38788287,"TALLER JUAN GOMEZ, S.L.","Gastos ITV, Nissan L80 tf6838- ak",62.34
 "Reparación, man. y conserv. elementos de transport",150,21400,2015-11-11,B38788287,"TALLER JUAN GOMEZ, S.L.","Cambiar Latiguillo , liquido f renos- E-8867-FLY",163.57
 Servicio de mantenimiento de vías y edificios,1532,22713,2015-11-11,B38909461,"TRANSPORTES MESA LA FORTALEZA, S.L.",Reparación Calzada Calle Fuert eventura El Fraile---,9545.57
-Locomoción del personal no directivo,150,23120,2015-11-12,A10005510,VIAJES HALCON S.A.,PASAJERO: CALZADILLA RODRIGUEZ /JULIO JAVIER  - COMPAÑIA: AIR  EUROPA	 - BILLETE AÉREO Nº	: 961234713: TFNMA,164
+Locomoción del personal no directivo,150,23120,2015-11-12,A10005510,VIAJES HALCON S.A.,PASAJERO - COMPAÑIA: AIR  EUROPA	 - BILLETE AÉREO Nº	: 961234713: TFNMA,164
 Material informático no inventariable,920,22002,2015-11-12,A38024907,COMERCIAL ELECTRICA DE CANARIAS S.A.,"Gastos Suplidos Adquisicion Co nectores rj-45, para Servicio de Informatica en Coelca",14.98
 Material informático no inventariable,920,22002,2015-11-12,B76025709,GPS-CANARIAS S.L.,Suministro e Instalacion Fibra  Optica en  Policia Local Aron a,639.86
 Servicio Recogida RSU y Lim. Viaria,1621,22709,2015-11-12,U76525534,UTE ARONA,"Servicio Octubre 2015, Gestion E Residuos, Expte 1/10-CASP",595129.23
@@ -3268,7 +3268,7 @@ Postales,920,22201,2015-11-24,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA 
 Postales,920,22201,2015-11-24,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio 24/11/15, Multas 746",24.59
 Postales,920,22201,2015-11-24,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio 24/11/15, Multas 747",7.8
 Postales,920,22201,2015-11-24,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio 24/11/15, Multas 748",19.88
-"Prensa, revistas, libros y otros",931,22001,2015-11-24,A58417346,WOLTERS KLUWER ESPAÑA S.A.,"(D8100) TODO PROCEDIMIENTO TRI BUTARIO-, Javier Bethencourt H ernández, Rentas ,Periodo: 11/ 2015-10/2016",134
+"Prensa, revistas, libros y otros",931,22001,2015-11-24,A58417346,WOLTERS KLUWER ESPAÑA S.A.,"(D8100) TODO PROCEDIMIENTO TRI BUTARIO- Rentas ,Periodo: 11/ 2015-10/2016",134
 "Reparación, man. y conserv. elementos de transport",150,21400,2015-11-24,B38788287,"TALLER JUAN GOMEZ, S.L.",Reparacion Mitsubishi TF-7654- AL,161.02
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2015-11-24,B38621850,FERRETERIA HERMALAY S.L.,Material de Ferreteria para Sa c las Galletas,54.37
 Estudios y Trabajos Técnicos,920,22706,2015-11-25,B38437869,CANAUDIT S.L.,Auditoria de Adesa para Ejerci cio 2014,10650.59
@@ -3279,7 +3279,7 @@ Publicidad y Propaganda,920,22602,2015-11-25,B38855516,ESTUDIOS ABONA PRODUCCION
 Actividades Culturales y Deportivas,326,22609,2015-11-26,B38810925,DELIRIUM TEATRO S.L.,"Representacion Matinal para Es colares ""Bernarda Alba""25/11/1 5, Auditorio Infantal Leonor",3948.3
 Mantenimiento Cámaras de Seguridad,130,21305,2015-11-26,B82929951,TECHCO SEGURIDAD S.L.,CUOTA ANUAL DE CONEXION DE 01/ 10/2015 A 30/09/2016 DE  LAS S IGUIENTES INSTALACIONES Contra to TF150055,5778
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2015-11-26,B38621850,FERRETERIA HERMALAY S.L.,Suministro Ferreteria para Col egio  las Galletas,37.9
-Locomoción del personal no directivo,920,23120,2015-11-27,A10005510,VIAJES HALCON S.A.,"Pasaj: Elena Garcia Munera TFNMADGRXTFN-OR, 2/12-8/12 Billete Nº	: 9612347164",186
+Locomoción del personal no directivo,920,23120,2015-11-27,A10005510,VIAJES HALCON S.A.,"Pasaje TFNMADGRXTFN-OR, 2/12-8/12 Billete Nº	: 9612347164",186
 Actividades Socioculturales,3271,22609,2015-11-28,B38490991,PATEA TUS MONTES S.L.,"Ruta Senderismo por Vueltas de  Taganana, Anaga,Juventud",188.32
 Informáticas,920,22203,2015-11-28,A82018474,"TELEFONICA DE ESPAÑA, S.A.U.",FACTURACION PERSONALIZADA MODA LIDAD: CARGO UNICO - IGIC - Ab ono/Ref.Factura: 045221002 - P eriodo regular de cuotas: 01/1,3435.64
 Telefónicas,912,22204,2015-11-28,A82018474,"TELEFONICA DE ESPAÑA, S.A.U.",FACTURACION PERSONALIZADA MODA LIDAD: CARGO UNICO - IGIC - Ab ono/Ref.Factura: 045221002 - P eriodo regular de cuotas: 01/1,3435.64
@@ -3357,7 +3357,7 @@ Teléfonos,130,22204,2015-12-01,A78923125,"TELEFONICA MOVILES ESPAÑA, S.A.",Mov
 Teléfonos,330,22204,2015-12-01,A78923125,"TELEFONICA MOVILES ESPAÑA, S.A.",Movistar - Tipo de contrato: C ontrato Corporativo Tarifa Úni ca - Extensiones fijas factura das: 214 - Lineas Facturadas:,102.65
 Teléfonos,330,22204,2015-12-01,A78923125,"TELEFONICA MOVILES ESPAÑA, S.A.",Movistar - Tipo de contrato: C ontrato Corporativo Tarifa Úni ca - Extensiones móviles: 90 -  Lineas Facturadas: 607561136,1568.86
 "Desinfectantes, raticidas",311,22115,2015-12-02,B38589842,MAXIMO PESTANO SANIDAD AMBIENTAL S.L.,Servicios Diciembre 2015- Desr atizacion y Desinsectacion,3852
-Locomoción de Personal,4911,23120,2015-12-02,A10005510,VIAJES HALCON S.A.,PASAJERO: MONICA GARCIA DELGAD O  - COMPAÑIA: AIR EUROPA	 - B ILLETE AÉREO Nº	: 9612643653	 : TFNMADTFN,292.78
+Locomoción de Personal,4911,23120,2015-12-02,A10005510,VIAJES HALCON S.A.,PASAJERO  - COMPAÑIA: AIR EUROPA	 - B ILLETE AÉREO Nº	: 9612643653	 : TFNMADTFN,292.78
 Material informático no inventariable,920,22002,2015-12-02,B38581393,TECNISUR COPIADORAS S.L.,Servicio Mantenimiento konica Minolta c360,1179.14
 Postales,920,22201,2015-12-02,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio 02/12/15, Pluvalia 74 9",11.67
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2015-12-02,B38662748,COMERCIAL MIGUEL GOMEZ GONZALEZ S.L.,Copia Llaves- Policia Local,4.5
@@ -3369,7 +3369,7 @@ Publicidad y Propaganda,920,22602,2015-12-04,A38017844,EDITORIAL LEONCIO RODRIGU
 Recogida y acogida de animales.,311,22704,2015-12-04,N0044040D,AKTION TIER MENSCHEN FUR TIERE EV,"Servicio Noviembre Acogida y M antenimiento , 29 Incidencias, .",3962.85
 Recogida y acogida de animales.,311,22704,2015-12-04,N0044040D,AKTION TIER MENSCHEN FUR TIERE EV,"Servicio Recogida Noviembre 20 15,Gestion, Mantenimiento Perr os Abandonados y Vagadundos",1605
 Equipos para Proceso de Información,920,62600,2015-12-07,B28260933,HEWLETT-PACKARD ESPAÑOLA S.L.,"Multifuncional. HP. Laser, Exp te 6/15-CCSU",1395.28
-Formación y perfeccionamiento del Personal,920,16200,2015-12-07,B80004732,SOLUCIONES AVANZADAS EN INFORMAT.APLICA,Asistencia curso Generación de  Informes con Easy Query celeb rado en Tenerife con fecha 05/ 11/2015. Asistentes:  Lidia Ma,150
+Formación y perfeccionamiento del Personal,920,16200,2015-12-07,B80004732,SOLUCIONES AVANZADAS EN INFORMAT.APLICA,Asistencia curso Generación de  Informes con Easy Query celeb rado en Tenerife con fecha 05/ 11/2015. Asistentes:,150
 Postales,920,22201,2015-12-07,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio 07/12/15, Multas 750",29.03
 Repar. conserv. y man. elementos de transporte,132,21400,2015-12-07,B38233912,SERVICIOS E LEON S.L.,Lamparas Vehiculo 9327-GYD,21.61
 Repar. conserv. y man. elementos de transporte,132,21400,2015-12-07,B38233912,SERVICIOS E LEON S.L.,"Lamparas, Vehiculo 9144-FZW",16.16
@@ -3404,7 +3404,7 @@ Promoción Sanidad y Consumo,311,22617,2015-12-15,G76637586,CLUB DEPORTIVO SILVI
 Publicidad y Propaganda,920,22602,2015-12-15,A38011623,CANARIA DE AVISOS S.A.,"Publicacion 14/12/15, pag 18 ""  Bando Alcaldia Proh.Estacion  , Mantenimiento Preventivo di  versa calles",269.64
 Telefónicas,920,22204,2015-12-15,A62186556,VODAFONE ONO S.A.U.,Internet Garantizado 30M - Ori gen: ARONA-IPs Fijas 8 - Orige n: ARONA-Servicio Router Multi servicio gama media-IPs Fijas,2620.16
 Telefónicas,920,22204,2015-12-15,A62186556,VODAFONE ONO S.A.U.,Internet Garantizado Otros Acc esos 64 Kbps - Origen: ARONA-S ervicio RDSI Centralita Adicio nal-Servicio RDSI Centralita A,1123.5
-Estudios y Trabajos Técnicos,920,22706,2015-12-16,A81608077,T-SYSTEMS ITC IBERIA S.A.,. 1000629678 Asistencia a trav és de conexión remota para la migración del servidor de eMAP  realizada por Miguel Ángel Ga,2696.4
+Estudios y Trabajos Técnicos,920,22706,2015-12-16,A81608077,T-SYSTEMS ITC IBERIA S.A.,. 1000629678 Asistencia a trav és de conexión remota para la migración del servidor de Emap,2696.4
 Mantenimiento Horno Pirolitico Cementerio Mpal.,164,21306,2015-12-16,A50013465,KALFRISA S.A.,Mantenimiento en Ruta Programa da de Horno Pirolitico ps/cm-1 .5- Cementerio,1300
 Material informático no inventariable,920,22002,2015-12-16,A81608077,T-SYSTEMS ITC IBERIA S.A.,. 1000641564 Asistencia para r ealizar la migración del servi dor de Documentum realizada po r Pedro López en septiembre de,4173
 Postales,920,22201,2015-12-16,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio 16/12/15, Catastro NO TF 901",41.55

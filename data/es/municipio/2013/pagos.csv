@@ -1,4 +1,4 @@
-#Aplicación Presupuestaria,Programa,,Fecha,CIF,Tercero,Concepto,Importe
+#NOMPARTIDA,CODFUNCION,CODECOPART,Fecha,NIFTERCERO,NOMTERCERO,Descripción,IMPTOTFACTS
 Arrendamientos de Material de Transporte,132,20400,2013-01-01,A91001438,ALPHABET ESPAÑA FLEET MANAGEMENT S.A.U.,Renting Enero 2013 Vehículos P olicía Local.,12151.57
 Asistencia Médico-Farmacéutica,221,16008,2013-01-01,A28011864,SEGURCAIXA ADESLAS S.A. DE SEGUROS Y REASEGUROS,"Liquidación Enero 2013, Primas  Asistencia Médica, se descuen ta 10425,20.- ya abonado en f  orm. nómina.",18827.6
 Festejos y Actos Populares,338,22610,2013-01-01,E38989778,C.B. ORQUESTA DELICIOSA,Realización de una Actuación M usical por parte de la Orquest a Deliciosa (Sin Sonido e Ilum inación) Cristianos Fin Año,3210
@@ -162,8 +162,8 @@ Combustibles y carburantes.,130,22103,2013-01-31,B38983318,"PICAMOLINOS, S.L.","
 Combustibles y carburantes.,130,22103,2013-01-31,B38983318,"PICAMOLINOS, S.L.",Carburante TF0072BT Enero 2013 .,63
 Combustibles y carburantes.,130,22103,2013-01-31,B76585801,"VILLASARA MULTISERVICIOS, S.L.",Carburante Enero 2013 Vehículo s Policía Local.,1335.18
 "Desinfectantes, raticidas",313,22115,2013-01-31,B28984094,SOLUCIONES TECNICAS NCH ESPAÑOLA S.L.,2 Docenas  Desert Breeze (400  ml) Policía Local,385.63
-Dietas de Miembros de Órganos de Gobierno,912,23000,2013-01-31,B38075115,VIAJES SOLYSUR S.L.,"Alojamiento Hotel Vincci Soma  29/01-03/02 Fco. Niño Rodrígue z, Asistencia a FITUR 2013.",964
-Dietas del personal no directivo,922,23020,2013-01-31,B38075115,VIAJES SOLYSUR S.L.,"Hotel Convención D. Jose Alfre do Escobar, 29/01-03/02/13, FI TUR 2013.",514
+Dietas de Miembros de Órganos de Gobierno,912,23000,2013-01-31,B38075115,VIAJES SOLYSUR S.L.,"Alojamiento Hotel Vincci Soma  29/01-03/02 XXX, Asistencia a FITUR 2013.",964
+Dietas del personal no directivo,922,23020,2013-01-31,B38075115,VIAJES SOLYSUR S.L.,"Hotel Convención D. XXX, 29/01-03/02/13, FI TUR 2013.",514
 Festejos y Actos Populares,338,22610,2013-01-31,A28010478,IMESAPI S.A.,Instalación Eléctrica Fiesta F in de Año 2012. Los Cristianos .,376.33
 Festejos y Actos Populares,338,22610,2013-01-31,B38381653,SUMINISTRO DE OFICINA OFIPAPEL S.L.,Material de Papeleria para Cab algata de Reyes 2013,46.11
 Festejos y Actos Populares,338,22610,2013-01-31,B38621850,FERRETERIA HERMALAY S.L.,Suministro Material Ferreteria para Cabalgata de Reyes Magos  2013,452.08
@@ -173,9 +173,9 @@ Fiestas del Municipio,338,22611,2013-01-31,B38509907,"GRUAS Y SERVICIOS ADEJE, S
 Fiestas del Municipio,338,22611,2013-01-31,B38621850,FERRETERIA HERMALAY S.L.,Suminsitro Material Ferreteria para Romería San Antonio Abad  2013,405.88
 Limpieza y Aseo,920,22700,2013-01-31,B35745926,RALONS SERVICIOS S.L.,Servicio Extra Enero Realizado  en Sala Anexa al Centro Cívic o de Cabo Blanco,233.05
 Limpieza y Aseo,920,22700,2013-01-31,B35745926,RALONS SERVICIOS S.L.,"Servicio Limpieza Enero 2013,  Centros Educativos y Dependenc ias Municipales del Ayuntamien to Arona, Expte. 1/10-casv",135171
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-01-31,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión D.Fco. Niño Rodr íguez, TFS-MAD-TFS (29/01-03/0 2), FITUR 2013.",208.46
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-01-31,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión D.Marcos Afonso  Esquiv,TFS-MAD-TFS(29/01-02/02 ) y Suplemento por Modi.Vuelta , FITUR 29/01-01/02/13.",316.46
-Locomoción del personal no directivo,922,23120,2013-01-31,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion D.Jose Alfredo E scoba, TFS-MAD-TFS(29/01-03/02 ), FITUR 2013.",208.46
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-01-31,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión D.XXX, TFS-MAD-TFS (29/01-03/0 2), FITUR 2013.",208.46
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-01-31,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión D.XXX,TFS-MAD-TFS(29/01-02/02 ) y Suplemento por Modi.Vuelta , FITUR 29/01-01/02/13.",316.46
+Locomoción del personal no directivo,922,23120,2013-01-31,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion D.XXX, TFS-MAD-TFS(29/01-03/02 ), FITUR 2013.",208.46
 Mantenimiento Integral del Litoral,173,22730,2013-01-31,U76534924,UTE LITORAL ARONA,Servicio Enero 2013 Gestion Li toral,22837.71
 Material informático no inventariable,920,22002,2013-01-31,B81996605,INSIGHT TECHNOLOGY S.L.,"Citrix 4 (ONLINE) Lic Version  for Ayuntamiento de Arona, Per iodo: 15/02/2013-15/02/2015",1995.32
 Ordinario no inventariable,920,22000,2013-01-31,B38081790,THE RED PEN S.L.,1000 Expedientes Amarillos,224.7
@@ -232,7 +232,7 @@ Repar. conserv. y man. elementos de transporte,132,21400,2013-02-08,B38233912,SE
 Tributos de las Entidades Locales,161,22502,2013-02-08,Q8850002J,CONSEJO INSULAR DE AGUAS DE TENERIFE,Servicio Enero 2013 Depuración  y Vertido,129862.78
 Tributos de las Entidades Locales,161,22502,2013-02-08,Q8850002J,CONSEJO INSULAR DE AGUAS DE TENERIFE,Servicio Enero 2013 Desalación,278006.31
 Vestuario,920,22104,2013-02-08,B76546225,"MAC IMPRESIONS, S.L.",16 Bordados Alcaldía,82.35
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-02-11,A07001415,VIAJES IBERIA S.A.,Billete Avión D. José Niño Rdr guez.TFS-BERLIN-TFS(05/03/2013 ) Feria en Berlín ITB 2013.,731.86
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-02-11,A07001415,VIAJES IBERIA S.A.,Billete Avión D. XXX TFS-BERLIN-TFS(05/03/2013 ) Feria en Berlín ITB 2013.,731.86
 Productos alimenticios,912,22105,2013-02-11,A38010856,AGUAS DE VILAFLOR S.A.,"Suministro Agua 33cl. Protocol o,para Plenos de la Corporació n",206.96
 Repar. conserv. y man. elementos de transporte,132,21400,2013-02-11,B38233912,SERVICIOS E LEON S.L.,Diagnosis Vehículo 0705CVG Pol icía Local.,26.75
 Repar. conserv. y man. elementos de transporte,132,21400,2013-02-11,B38963542,LLAVE SUR Y LEGARA S.L.,"Reparación Cerradura Tapa Gaso lina, Copia de Llave para Chip  y Copia de Llave Codificada,  Moto Honda 1492DWG",160.5
@@ -298,12 +298,12 @@ Fiestas del Municipio,338,22611,2013-02-21,B38757159,HERNANDEZ CABRERA E HIJAS S
 Informáticas,920,22203,2013-02-21,B64074230,UBILIBET S.L.,Servicios Renovación Registro  Dominio .TRAVEL AYUNTAMIENTODE ARONA.travel  y  .TELarona.tel,440
 Ordinario no inventariable,931,22000,2013-02-21,B38844320,LITOGRAFIA SANTA ELENA S.L.,"30 Talones 50Hojas c/u de Poli zas de 3,00 en P.Adhesivas Tro queladas",134.07
 Actividades Culturales y Deportivas,339,22609,2013-02-22,B38443073,YAIZA BUS S.L.,6 Servicios Traslado de Vecino s para Proyecto Conoce Tu Muni cipio,480
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-02-22,B38075115,VIAJES SOLYSUR S.L.,"Billete TFN-MAD/MAD-TFS (24FEB ) Fco. José Niño.""Liderazgo Po lítico y Comunicación Ed. 1"" .",204.15
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-02-22,B38075115,VIAJES SOLYSUR S.L.,"Billete TFN-MAD/MAD-TFS (24FEB ) XXX""Liderazgo Po lítico y Comunicación Ed. 1"" .",204.15
 "Suministros de repuestos de maquinaria, utillaje",130,22111,2013-02-22,B38233912,SERVICIOS E LEON S.L.,Batería Vehículo 6212DWD Polic ía Local.,59.52
 "Suministros de repuestos de maquinaria, utillaje",130,22111,2013-02-22,B38233912,SERVICIOS E LEON S.L.,Batería Vehículo TF0836BY Poli cía Local.,59.52
 "Suministros de repuestos de maquinaria, utillaje",130,22111,2013-02-22,B38233912,SERVICIOS E LEON S.L.,Batería Vehículo TF0837BY Poli cía Local.,59.52
 Vestuario,130,22104,2013-02-23,B62927009,INTERSPORT EXPANSION S L U,"1 Zapatilla V44721 Carthage 2. 0 Reebok,10- Policía Local Age nte 4124",42.5
-Ordinario no inventariable,912,22000,2013-02-25,B38240933,IMPRENTA REYES S.L.,"Tarjetas de Visita para Franci sco Niño, Marta Melo, Marcos A fonso y Evelin Santos.",295.27
+Ordinario no inventariable,912,22000,2013-02-25,B38240933,IMPRENTA REYES S.L.,"Tarjetas de Visita para XXX, XXX, XXX y XXX.",295.27
 "Prensa, revistas, libros y otras publicaciones",920,22001,2013-02-25,A81962201,ARANZADI EDITORIAL,Publicación El Patrimonio de l as Entidades locales.,105
 Productos alimenticios,920,22105,2013-02-25,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio Mensual, 4 Bo tellones-Sac las Galletas",38.15
 Publicidad y Propaganda,920,22602,2013-02-25,B38240933,IMPRENTA REYES S.L.,"50 Carteles Formato A3 Impresi ón a4/0 Tinta en Papel Estucad o Brillo de 150 Gr, Concurso d e Disfraces",72.85
@@ -338,7 +338,7 @@ Fiestas del Municipio,338,22611,2013-02-28,B38381653,SUMINISTRO DE OFICINA OFIPA
 Fiestas del Municipio,338,22611,2013-02-28,B38530655,LA OPINION DE TENERIFE S.L.U.,Anuncio Ayto. Arona Carnaval D igital + 5 Faldones.,1498
 Fiestas del Municipio,338,22611,2013-02-28,B38565651,HIERROS TIRSO CANARIAS S.L.,Suministro Ferreteria para El  Carnaval,628.86
 Fiestas del Municipio,338,22611,2013-02-28,B38794327,AUTO GRUAS CABELLO S.L.U.,Traslado Montacargas a Los Cri stianos. Carnaval 2013.,148.56
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-02-28,B38075115,VIAJES SOLYSUR S.L.,"Billete D.Miguel Angel Mendez,  TFS-MAD/MAD-TFS(10-12/03/13),  Jornadas Difusión y Formació  n Asoc. Convenius Regius""",272.96
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-02-28,B38075115,VIAJES SOLYSUR S.L.,"Billete D.XXX,  TFS-MAD/MAD-TFS(10-12/03/13),  Jornadas Difusión y Formació  n Asoc. Convenius Regius""",272.96
 Mantenimiento Integral del Litoral,173,22730,2013-02-28,U76534924,UTE LITORAL ARONA,Servicio Febrero 2013 Gestión  del Litoral.,23488.82
 Parque Garañaña,494,60815,2013-02-28,B33368853,TOP 30 S.L.,Suministro e Instalación de un  Rocódromo en Parque Urbano d  e Garañaña. Proyecto URBAN Ar  ona.,72000
 Plan de Promoción Económica,433,22614,2013-02-28,A38022182,RADIO CLUB DE CANARIAS S.A.,"Cuñas San Valentin en 40 princ ipales, Dial TfSur y Radio Clu b Tfe.",692.56
@@ -457,7 +457,7 @@ Energía eléctrica,340,22100,2013-03-18,A81948077,ENDESA ENERGIA S.A.U.,Factura
 Energía eléctrica,340,22100,2013-03-18,A81948077,ENDESA ENERGIA S.A.U.,Facturación Febrero 2013 Códig o Agrupación 0756580.,12573.02
 Fiestas del Municipio,338,22611,2013-03-18,B38757159,HERNANDEZ CABRERA E HIJAS S.L.,Suministro Material de Tela y  Confección para Carnaval los C ristianos 2013,330.83
 Repar. conserv. y man. elementos de transporte,132,21400,2013-03-18,B38233912,SERVICIOS E LEON S.L.,Reparación Circuitos Elevacris tales Vehículo 8838BVY.,53.5
-Locomoción del personal no directivo,920,23120,2013-03-19,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión TFS-LPA Juan Ped ro García García , Comisión Me rcado Telecomunicaciones Red W ifi.",81.62
+Locomoción del personal no directivo,920,23120,2013-03-19,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión TFS-LPA XXX , Comisión Me rcado Telecomunicaciones Red W ifi.",81.62
 Postales,920,22201,2013-03-19,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio Correspondencia Renta s,  el 19/03/2013.",25.46
 Productos alimenticios,920,22105,2013-03-19,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",1 Cuota Servicio Mensual Sac L as Galletas nº 5,9.63
 "Reparación, man. y conserv. elementos de transport",150,21400,2013-03-19,B38788287,"TALLER JUAN GOMEZ, S.L.","Reparación E-5557-FHP, Hyunday  H1, Libero, Mantenimiento",171.41
@@ -478,7 +478,7 @@ Publicidad y Propaganda,920,22602,2013-03-21,B38240933,IMPRENTA REYES S.L.,"1500
 Publicidad y Propaganda,920,22602,2013-03-21,B38240933,IMPRENTA REYES S.L.,"2000 Trípticos Formato A4 Abie rto a4/4 Tintas en Estucado Br illo 150Gr, Servicio Lengua Si gnos.",399.35
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2013-03-21,B38565651,HIERROS TIRSO CANARIAS S.L.,Tubos Galvanizados Cuadrados y  Rectangulares para Almacen de  Sección Ingeniería,295.22
 Señalizaciones Municipales,155,22613,2013-03-21,B38565651,HIERROS TIRSO CANARIAS S.L.,Material para Señalizaciones C allejeros.,2780.63
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-03-22,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión TFS-LPA Marcos A fonso Esquivel,Comisión Visita  Red Wifi en Darsena Pesquera   de Las Palmas.",81.62
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-03-22,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión TFS-LPA XXX,Comisión Visita  Red Wifi en Darsena Pesquera   de Las Palmas.",81.62
 "Prensa, revistas, libros y otros",931,22001,2013-03-22,S2826046A,INSTITUTO DE ESTUDIOS FISCALES,Suscripción Año 2013. Presupue sto y Gasto Público.,81.73
 Repar. mant. y cons. Equipos para procesos informa,494,21600,2013-03-22,B60768512,SCHNEIDER ELECTRIC IT SPAIN S.L.,Servicio de Mantenimiento de U PS Zona URBAN.,4461.9
 Fiestas del Municipio,338,22611,2013-03-25,G38400719,CLUB NATACION LOS CRISTIANOS ARONA,"Actuación Comparsa Playeritos  en Carnavales el 1,2,7,8,9,10, y 11/03/2013",1400
@@ -594,13 +594,13 @@ Mantenimiento Aire Acondicionado,920,21304,2013-04-05,B38621850,FERRETERIA HERMA
 Mantenimiento Aire Acondicionado,920,21304,2013-04-05,B38621850,FERRETERIA HERMALAY S.L.,Suministro Material Ferreteria  para Trabajos de Aires Acondi cionados de los Ed. Publicos d el Ayuntamiento de Arona,353.85
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2013-04-05,B38621850,FERRETERIA HERMALAY S.L.,Compras de Plásticos para el A rchivo Municipal.,78.8
 Seguridad,920,22701,2013-04-05,B76587641,SERVICIOS E INVERSIONES TF S.L.,Servicio Vigilancia Marzo 2013 .,1464.97
-Señalizaciones Municipales,155,22613,2013-04-05,B38621850,FERRETERIA HERMALAY S.L.,Compra Material de Ferreteria - Juan Pedro,220.6
-Atenciones protocolarias y representativas,912,22601,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion MAD-TFN/TFN-MAD, D.Ana Caneda Barral y Maria Di az Robles, Ponentes Conferenci as Video Lengua Signos Sordos",530.3
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión D.Candelaria Pad rón y Javier Doncel, TFN-MAD/M AD-GRX/GRX-MAD/MAD-TFS(14/17/4 /13) Colaboración Catastro.",523.08
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion D.Carmelo García García TFS-MAD/MAD-TFN(10-12/0 4/2013,Retos Actuales del Muni cipalismo , Estrat,Recursos.",322.96
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion D.Francisco Niño Rdguez,TFS-MAD/MAD-TFs(10-14/0 4/2013) Curso Los Retos Actual es del Municipalismo.",224.96
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion D.Marcos Afonso  esquiveTFS-MAD/MAD-TFN(10-12/0 4/2013, Retos Municipalismo.",322.96
-Locomoción del personal no directivo,150,23120,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión D.Candelaria Pad rón y Javier Doncel, TFN-MAD/M AD-GRX/GRX-MAD/MAD-TFS(14/17/4 /13) Colaboración Catastro.",523.08
+Señalizaciones Municipales,155,22613,2013-04-05,B38621850,FERRETERIA HERMALAY S.L.,Compra Material de Ferreteria,220.6
+Atenciones protocolarias y representativas,912,22601,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion MAD-TFN/TFN-MAD, XXX y XXX, Ponentes Conferenci as Video Lengua Signos Sordos",530.3
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión D.XXX y XXX, TFN-MAD/M AD-GRX/GRX-MAD/MAD-TFS(14/17/4 /13) Colaboración Catastro.",523.08
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion D.XXX TFS-MAD/MAD-TFN(10-12/0 4/2013,Retos Actuales del Muni cipalismo , Estrat,Recursos.",322.96
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion D.XXX,TFS-MAD/MAD-TFs(10-14/0 4/2013) Curso Los Retos Actual es del Municipalismo.",224.96
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion D.XXXTFS-MAD/MAD-TFN(10-12/0 4/2013, Retos Municipalismo.",322.96
+Locomoción del personal no directivo,150,23120,2013-04-06,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión D.XXX y XXX, TFN-MAD/M AD-GRX/GRX-MAD/MAD-TFS(14/17/4 /13) Colaboración Catastro.",523.08
 Energía eléctrica,150,22100,2013-04-08,A81948077,ENDESA ENERGIA S.A.U.,"Facturación Marzo 2013 ,Código  Agrupación 784141",65447.61
 Energía eléctrica,150,22100,2013-04-08,B82846825,ENDESA ENERGIA XXI S.L.,Facturación Marzo 2013-Codigo  Agrupación 343041,477.38
 Energía eléctrica,150,22100,2013-04-08,B82846825,ENDESA ENERGIA XXI S.L.,Facturación Marzo 2013-Codigo  Agrupación 343109,455.37
@@ -628,8 +628,8 @@ Material informático no inventariable,920,22002,2013-04-09,A28122125,CANON ESPA
 Ordinario no inventariable,920,22000,2013-04-09,B38081790,THE RED PEN S.L.,4000 Expediente Amarillos,898.8
 Repar. conserv. y man. elementos de transporte,132,21400,2013-04-09,B38233912,SERVICIOS E LEON S.L.,Reparar Cables Rotos de Pirulo  Vehículo Policía Local 4880CF T.,26.75
 Repar. conserv. y man. elementos de transporte,132,21400,2013-04-09,B38671921,TALLERES CAYO TENERIFE S.L.,"Sustituir Carenado Lateral Izq  y Pintar Maleta Izq., Moto 15 48-DWG",752.88
-Atenciones protocolarias y representativas,912,22601,2013-04-10,A38104022,HOTELES REVERON S.A.,Estancia Pensión de Ana Cadena  Barral. 09/04/13 - 10/04/13.   Dpto. Protocolo. Lenguaje de  Signos.,69
-Atenciones protocolarias y representativas,912,22601,2013-04-10,A38104022,HOTELES REVERON S.A.,Estancia Pensión de Concepción  Diaz Robledo. 09/04/13 - 10/0 4/13. Dpto. Protocolo. Jornada s Lenguaje de Signos.,69
+Atenciones protocolarias y representativas,912,22601,2013-04-10,A38104022,HOTELES REVERON S.A.,Estancia Pensión de XXX. 09/04/13 - 10/04/13.   Dpto. Protocolo. Lenguaje de  Signos.,69
+Atenciones protocolarias y representativas,912,22601,2013-04-10,A38104022,HOTELES REVERON S.A.,Estancia Pensión de XXX. 09/04/13 - 10/0 4/13. Dpto. Protocolo. Jornada s Lenguaje de Signos.,69
 Atenciones protocolarias y representativas,912,22601,2013-04-10,B38454781,DRAYCA SUR SERVICIOS S.L.,Cuadro Pint. Servicio de Video . Interpretación de Lenguaje d e Signos.,30
 Cánones,173,20900,2013-04-10,Q3867002B,AUTORIDAD PORTUARIA DE SC DE TENERIFE,Tasa de Ocupación Superficie P uerto de Los Cristianos. Centr o Municipal de Buceo. Periodo  01/04/13 - 30/06/13.,72.51
 Material informático no inventariable,920,22002,2013-04-10,A28855260,"INFORMATICA EL CORTE INGLES, S.A.",Suministoro de Licencias Micro soft 1º Anualidad,37079.87
@@ -821,8 +821,8 @@ Tributos de las Entidades Locales,161,22502,2013-05-10,Q8850002J,CONSEJO INSULAR
 Auditoria Arona Empresarial 2012,241,22685,2013-05-13,B35445154,OSCAR GUTIERREZ&ASOCIADOS-AUDITORES S.L.P.,"Auditoria Proyecto Subvenciona do ""Arona Empresarial 2012"" Co n Expt.3800612AB03",578.11
 Auditoria Arona Limpia 2012,241,22684,2013-05-13,B38761722,"GONZALEZ HERRERA AUDITORES, S.L.P.",Auditoría Justificación Subven ción Concedida el 27/08/12. Pr oyecto Arona Limpia 2012.,1191.46
 Atenciones protocolarias y representativas,912,22601,2013-05-14,B38454781,DRAYCA SUR SERVICIOS S.L.,"Cuadro Pint. Canaria ""Visita N ueva Presidenta del Círculo de  Empresarios del Sur de Tfe."".",50
-Informáticas,920,22203,2013-05-14,A50878842,AULOCE S.A.,Renovación Anual Contenidos y  Servicios SUS ESPUBLICO- Juan  Pedro García García,2018.14
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-05-14,B38075115,VIAJES SOLYSUR S.L.,"Billete D. Carmelo Garcia Mart in, TFN-SPC-TFN(22/05-24/05/13 ) y Estancia Hotel , V Congres o Canario Dcho Urbanistico",188.58
+Informáticas,920,22203,2013-05-14,A50878842,AULOCE S.A.,Renovación Anual Contenidos y  Servicios SUS ESPUBLICO,2018.14
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-05-14,B38075115,VIAJES SOLYSUR S.L.,"Billete D. XXX, TFN-SPC-TFN(22/05-24/05/13 ) y Estancia Hotel , V Congres o Canario Dcho Urbanistico",188.58
 Ordinario no inventariable,931,22000,2013-05-14,B38081790,THE RED PEN S.L.,5000 Hojas Papel Blanco 100 Gr  Soportset preprint 447mm*317m m,160.5
 "Prensa, revistas, libros y otras publicaciones",920,22001,2013-05-14,A58417346,WOLTERS KLUWER ESPAÑA S.A.,"Adquisición ""Código de Contrat ación del Sector Público 2013"" . Sección Contratación.",132.44
 Estudios y Trabajos Técnicos,241,22706,2013-05-15,B38641767,S-S AUDITORES S.L.P.,"Honorarios Informe Revisión Pr oyecto SCE 3800612AB01 Arona c on Todos 2012, concedida 27/08 /2012, EJECUCIÓN SETENCIA.",1028.48
@@ -847,7 +847,7 @@ Productos alimenticios,920,22105,2013-05-16,B38641387,"FUENTE AZUL CIA. DE AGUAS
 Productos alimenticios,920,22105,2013-05-16,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","30 Botellones Agua, 3 Caja Vas os-Polic?a Local",219.74
 Productos alimenticios,920,22105,2013-05-16,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",6 Botellones Agua y 1 Caja de Vasos-Informatica,53.75
 Atenciones protocolarias y representativas,912,22601,2013-05-17,B76517424,EL LAJAR DE BELLO S.L.,8 Menus Concertados Reunion Al caldes del Sur,355.24
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-05-17,B38075115,VIAJES SOLYSUR S.L.,"Billete TFS-MAD(22may) Marcos  Afonso Esquivel, Curso ""Alcald es y Cargos Electos de gobier  no locales 2013""",290.46
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-05-17,B38075115,VIAJES SOLYSUR S.L.,"Billete TFS-MAD(22may) XXX, Curso ""Alcald es y Cargos Electos de gobier  no locales 2013""",290.46
 Plan de Promoción Económica,433,22614,2013-05-17,G38406260,CLUB DE LUCHA CHIJAFE,Taller de Lucha Canaria Impart ido al Colegio del Valle San L orenzo- Promoción Económica,600
 Energía eléctrica,340,22100,2013-05-20,A81948077,ENDESA ENERGIA S.A.U.,Consumo Eléctrico Abril 2013.  Avda. Arquitécto Gomez Cuesta.,4487.06
 Festejos y Actos Populares,338,22610,2013-05-20,B38418653,SANITARIOS PORTATILES S.L.,Alquiler sanitarios portatiles Día de Africa 2013.,173.34
@@ -856,8 +856,8 @@ Repar. mant. y cons. Mobiliario,130,21500,2013-05-20,B38345112,SUPERMERCADO DEL 
 Plan de Promoción Económica,433,22614,2013-05-21,B76603042,PARTY HOBBY S.L.,Montaje Escenario y Equipo de  Sonido Romería Ntra. Sra. de F átima. Actividad Desfiles Traj es Típicos y Entrega Premios.,214
 "Prensa, revistas, libros y otras publicaciones",920,22001,2013-05-21,A58417346,WOLTERS KLUWER ESPAÑA S.A.,"Adquisición ""Análisis Prac. de  1º 400 Resol. Tribunal admvo.  Ctral."". Sección Contratación .",100.47
 Productos alimenticios,920,22105,2013-05-21,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio Mensual,2 Bot ellones Agua-Rambla DionisioGo nzalez las Galletas",24.63
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-05-22,B38075115,VIAJES SOLYSUR S.L.,"Billete D. Niño Rdguez. Fco, T FS-LPA-TF(22/03-24/03) y Coche  Alquiler, I Taller de Iniciac ión al Protocolo.",143.28
-Locomoción del Personal,494,23120,2013-05-22,B38075115,VIAJES SOLYSUR S.L.,"Billetes de Avión Dª. Mónica G arcía TFS-MAD-TFS, Curso de Ve rificaciones art. 13 Proyecto URBAN.",298.9
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-05-22,B38075115,VIAJES SOLYSUR S.L.,"Billete D. XXX T FS-LPA-TF(22/03-24/03) y Coche  Alquiler, I Taller de Iniciac ión al Protocolo.",143.28
+Locomoción del Personal,494,23120,2013-05-22,B38075115,VIAJES SOLYSUR S.L.,"Billetes de Avión Dª. XXX TFS-MAD-TFS, Curso de Ve rificaciones art. 13 Proyecto URBAN.",298.9
 Ordinario no inventariable,920,22000,2013-05-22,B38081790,THE RED PEN S.L.,Exptes. Cartulina Blanca.,112.35
 Plan de Promoción Económica,433,22614,2013-05-22,B38092151,TROPICAL BUS S.L.,Traslado Colegio V.S Lorenzo/  Campo Lucha,164.8
 Postales,920,22201,2013-05-22,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,Servicio Correspondencia Multa s.,24.75
@@ -875,7 +875,7 @@ Fiestas del Municipio,338,22611,2013-05-27,B38312047,SAL TRINI TENERIFE,Sacos 25
 Combustibles y carburantes.,130,22103,2013-05-28,B28984094,SOLUCIONES TECNICAS NCH ESPAÑOLA S.L.,Desinfectantes para Polic?a Lo cal.,930.09
 Postales,920,22201,2013-05-28,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,Servicio Correspondencia plusv alía.,15.61
 "Prensa, revistas, libros y otros",912,22001,2013-05-28,B28659902,REVISTA EL ALCALDE,Suscripción 2013 Revista El Al calde.,57.7
-"Prensa, revistas, libros y otros",931,22001,2013-05-28,A58417346,WOLTERS KLUWER ESPAÑA S.A.,Reglamento serv. corporaciones  locales - Rentas Javier Bethe ncourt,61.53
+"Prensa, revistas, libros y otros",931,22001,2013-05-28,A58417346,WOLTERS KLUWER ESPAÑA S.A.,Reglamento serv. corporaciones  locales - Rentas XXX,61.53
 Repar. mant. y cons. Equipos para procesos informa,920,21600,2013-05-28,B76025709,GPS-CANARIAS S.L.,"Instalación Fibra Optica""Estad io Olimpico, Mercadillo Agricu ltor, C.Civico Fraile-casa Juv entud y Enlace Antiguo Cine",2509.15
 Repar. mant. y cons. Equipos para procesos informa,920,21600,2013-05-28,B76025709,GPS-CANARIAS S.L.,"Instalación Fibra Optica""Repar áción Fibras Rotas CPD-a Recau dación y Suministro Bandejas",248.24
 Festejos y Actos Populares,338,22610,2013-05-29,B38626537,SILLAS PERDIGON S.L.,"Alquiler Sillas y Tableros "" B aile de Magos del Día de Canar ias en los Cristianos""",642
@@ -979,7 +979,7 @@ Productos alimenticios,920,22105,2013-06-04,B38641387,"FUENTE AZUL CIA. DE AGUAS
 Plan de Promoción Económica,433,22614,2013-06-05,B38436499,TECNISUR TENERIFE S.L.,Cuota Publicidad Radio Decibel ios(Campaña Arona en Colores 2 013),267.5
 Plan de Promoción Económica,433,22614,2013-06-05,B38436499,TECNISUR TENERIFE S.L.,Cuota Publicidad Radio Decibel ios(Campaña Día de la Madre 20 13),267.5
 Energía eléctrica,340,22100,2013-06-06,A81948077,ENDESA ENERGIA S.A.U.,Facturación Mayo 2013 Código d e Agrupación 0857089.,7957.47
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-06-06,B38075115,VIAJES SOLYSUR S.L.,"Billete D. Miguel Ángel Méndez  Fdez., TFN-MAD/MAD-TFNO(5/6-7 /6), Curso Liderazgo Político  y Comunicación.",229.65
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-06-06,B38075115,VIAJES SOLYSUR S.L.,"Billete D. XXX, TFN-MAD/MAD-TFNO(5/6-7 /6), Curso Liderazgo Político  y Comunicación.",229.65
 "Prensa, revistas, libros y otras publicaciones",920,22001,2013-06-06,A81962201,ARANZADI EDITORIAL,Comentarios a la Ley 30/92 (LE X NOVA).-Secretaria,123.08
 Servicio de Mantenimiento Eléctrico de Edificios,320,22716,2013-06-06,A28010478,IMESAPI S.A.,"Certificación Mayo 2013""Manten imiento Ins.Elec.Espacios Publ ico, Dep.Adm, Locales Soc,Depo rtivos y Turisticos""",117206.7
 Servicio de Mantenimiento Eléctrico de Edificios,342,22716,2013-06-06,A28010478,IMESAPI S.A.,"Certificación Mayo 2013""Manten imiento Ins.Elec.Espacios Publ ico, Dep.Adm, Locales Soc,Depo rtivos y Turisticos""",117206.7
@@ -1018,8 +1018,8 @@ Postales,920,22201,2013-06-11,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA 
 Energía eléctrica,150,22100,2013-06-12,A81948077,ENDESA ENERGIA S.A.U.,"FACTURACION MAYO 2013, CODIGO AGRUPACION 0858365.",57657.04
 Energía eléctrica,920,22100,2013-06-12,A81948077,ENDESA ENERGIA S.A.U.,"FACTURACION MAYO 2013, CODIGO AGRUPACION 0858365.",57657.04
 Fiestas del Municipio,338,22611,2013-06-12,B38529053,PIROTECNICA EL CARMEN S.L.,"Conjuntos de Efectos Artificia les Clase III, Corpus Christi Arona 02/06/2013",195.91
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-06-12,B38075115,VIAJES SOLYSUR S.L.,"Billete D.Marcos Afonso Esquiv el , TFN-LPA/LPA-TFN (11/6-12/ 06), Asistencia Seminario Soci edad de la Información Canaria",74.34
-Locomoción del Personal,494,23120,2013-06-12,B38075115,VIAJES SOLYSUR S.L.,"Billete D. Monica García Delga do, TFN-LPA/LPA-TFNO(12/6/13), Asistencia Comité FEDER Canari as.",74.34
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-06-12,B38075115,VIAJES SOLYSUR S.L.,"Billete D.XXX , TFN-LPA/LPA-TFN (11/6-12/ 06), Asistencia Seminario Soci edad de la Información Canaria",74.34
+Locomoción del Personal,494,23120,2013-06-12,B38075115,VIAJES SOLYSUR S.L.,"Billete D. XXX, TFN-LPA/LPA-TFNO(12/6/13), Asistencia Comité FEDER Canari as.",74.34
 Repar. conserv. y man. elementos de transporte,132,21400,2013-06-12,B38233912,SERVICIOS E LEON S.L.,"Reparacion Circuitos Destellan tes del Pirulo, 1603-DWG",26.75
 "Reparación, man. y conserv. elementos de transport",150,21400,2013-06-12,B38788287,"TALLER JUAN GOMEZ, S.L.",Revisión Vehículo  E5224CSC.,344.94
 Postales,920,22201,2013-06-13,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio Correspondencia 13/6/ 13, Multas 486",62.44
@@ -1078,8 +1078,8 @@ Productos alimenticios,920,22105,2013-06-20,B38641387,"FUENTE AZUL CIA. DE AGUAS
 Productos alimenticios,920,22105,2013-06-20,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 6 Botellones  Agua y 1 Caja Vasos-Policía L ocal",63.38
 Actividades Culturales y Deportivas,339,22609,2013-06-21,B76546225,"MAC IMPRESIONS, S.L.",Camisetas Serigrafiadas Vario Colores para Olimpiadas Juveni les Juventud,1173.75
 Informáticas,920,22203,2013-06-21,B64074230,UBILIBET S.L.,"Servicios Renovacion Dominio(c cTLD) ESPA?A ayuntamientodearo na.es,(gTLD)TRAVELarona.travel",445
-Locomoción del personal no directivo,920,23120,2013-06-21,B38075115,VIAJES SOLYSUR S.L.,"Billete D.Arama Fuentes Melian ,TFN-MAD/MAD-GRX/GRX-MAD/MAD-T FN(23-26/06/13) Curso Aplicaci ón del Régimen Jurídico Lab.",416.04
-Locomoción del personal no directivo,931,23120,2013-06-21,B38075115,VIAJES SOLYSUR S.L.,"Billete D.Lorena López Figuero a TFN/MAD-MAD/GRX,GRX-MAD/MAD- TFN(23-26/06/13) Curso Aplicac ión del Régimen Jurídico Lab.",416.04
+Locomoción del personal no directivo,920,23120,2013-06-21,B38075115,VIAJES SOLYSUR S.L.,"Billete D.XXX ,TFN-MAD/MAD-GRX/GRX-MAD/MAD-T FN(23-26/06/13) Curso Aplicaci ón del Régimen Jurídico Lab.",416.04
+Locomoción del personal no directivo,931,23120,2013-06-21,B38075115,VIAJES SOLYSUR S.L.,"Billete D.XXX TFN/MAD-MAD/GRX,GRX-MAD/MAD- TFN(23-26/06/13) Curso Aplicac ión del Régimen Jurídico Lab.",416.04
 Ordinario no inventariable,920,22000,2013-06-21,B38081790,THE RED PEN S.L.,"5000 Ejemplares  del Modelo 00 5-Original y Copia, Papel Auto copiativo",722.25
 Plan de Promoción Económica,433,22614,2013-06-21,G38424578,ASOCIACION CULTURAL AMIGOS PUNTA RASCA,Actuacion en Arona Colores  de l 15-6/13 en las Galletas,300
 Productos alimenticios,920,22105,2013-06-21,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",1 Cuota Servicio y 4 Botellone s Agua-Sac las Galletas n?2,38.15
@@ -1092,7 +1092,7 @@ Mantenimiento Aire Acondicionado,920,21304,2013-06-25,B38929592,"SOLCLIMA DISTRI
 Plan de Promoción Económica,433,22614,2013-06-25,B38529053,PIROTECNICA EL CARMEN S.L.,"Conjuntos Efectos Pirotecnicos  Arona en Colores, Las Galleta s, Arona 15/6/13",1030
 Repar. mant. y conserv. elementos de transporte,920,21400,2013-06-25,B38788287,"TALLER JUAN GOMEZ, S.L.","Cambiar Rodillo Rueda Trasera E-0545-CZD, Peugeot 206",75.97
 "Reparaciones, man. y conserv. Edificios y otras co",920,21200,2013-06-25,A38099263,COMERCIAL FJV S.A.,"Bolsa de Arena , Revuelto, Cem ento- Cementerio Municipal",81.89
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-06-26,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión a Las Palmas I/V , D. Francisco Niño Rodríguez,  Entrega de Honores de la Ciu  dad, 22/06/2013.",74.04
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-06-26,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión a Las Palmas I/V , D. XXX,  Entrega de Honores de la Ciu  dad, 22/06/2013.",74.04
 Material informático no inventariable,920,22002,2013-06-26,B38346276,ORION SERVICIOS DE OFICINAS E INFORMATICA S. L.,Suministro de Consumibles y Fu ngibles de Impresoras,6466.06
 Material informático no inventariable,920,22002,2013-06-26,B81996605,INSIGHT TECHNOLOGY S.L.,Adobe Acrobat Professional Mul ti Platfroms,1245.6
 Plan de Promoción Económica,433,22614,2013-06-26,B38240933,IMPRENTA REYES S.L.,"Cuadripticos, Carteles Formato  A3,Carteles A3, Flyer y Ticke t- Arona en Colores",2915.77
@@ -1405,7 +1405,7 @@ Productos alimenticios,920,22105,2013-08-16,B38641387,"FUENTE AZUL CIA. DE AGUAS
 Productos alimenticios,920,22105,2013-08-16,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio Mensual, 5 Bo tellones Agua-Recaudaci?n Muni cipal",43.38
 Productos alimenticios,920,22105,2013-08-16,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 4 Botellones  Agua-Esteban Cementerio Munic ipal",38.15
 Productos alimenticios,920,22105,2013-08-16,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",1 Cuota Servicio-Patronato de Turismo,9.63
-Productos alimenticios,920,22105,2013-08-16,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1Cuota Servicio Mensual, 30 Bo tellones Agua y 4 Cajas de Vas os-Miguel Chinea, Policia loca l Arona",242.61
+Productos alimenticios,920,22105,2013-08-16,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1Cuota Servicio Mensual, 30 Bo tellones Agua y 4 Cajas de Vasos, Policia loca l Arona",242.61
 Productos alimenticios,920,22105,2013-08-19,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 8 Botellones  Agua y 1 Caja Vasos-Policia l ocal los Cristianos",76.88
 Productos alimenticios,920,22105,2013-08-19,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1Cuota Servicio, 10 Botellones  Agua y 3 Cajas de Vasos-Sac l os Cristianos n?1",113.17
 Repar. mant. y conserv. elementos de transporte,920,21400,2013-08-19,B38788287,"TALLER JUAN GOMEZ, S.L.","Cambiar Bateria e-0545-CZD, Pe ugeot 206,",48.15
@@ -1478,8 +1478,8 @@ Asistencia Médico-Farmacéutica,221,16008,2013-09-01,A50004209,"DKV SEGUROS Y R
 Asistencia Médico-Farmacéutica,221,16008,2013-09-01,A50004209,"DKV SEGUROS Y REASEGUROS, S.A.E,","Poliza Salud Septiembre, perio do del dia 10 al 30 ex 9/09-ca sv, SE DESCUENTA 6956,25 APORT ACIÓN TRABAJADORES",10943.75
 Seguridad,920,22701,2013-09-01,B76587641,SERVICIOS E INVERSIONES TF S.L.,Servicios Agosto 2013 Vigilanc ia SAC.,1464.98
 Actividades Culturales y Deportivas,339,22609,2013-09-02,B38390589,SOUND BLACK S.L.,Sonido e Iluminación en Pz Val le S. Lorenzo y Muelle Viejo L .Cristianos-Culturjoven Arona  2013.,856
-Locomoción del personal no directivo,241,23120,2013-09-02,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión a Bilbao I/V Dª.  Mónica García Delgado, Jornad a URBAN Commerce.",141.02
-Locomoción del personal no directivo,241,23120,2013-09-02,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión a Bilbao I/V Dª.  Nieves Beltrán Torres, Jornad a URBAN Commerce.",141.02
+Locomoción del personal no directivo,241,23120,2013-09-02,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión a Bilbao I/V Dª.  XXX, Jornad a URBAN Commerce.",141.02
+Locomoción del personal no directivo,241,23120,2013-09-02,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión a Bilbao I/V Dª.  XXX, Jornad a URBAN Commerce.",141.02
 Plan de Promoción Económica,433,22614,2013-09-02,B38390589,SOUND BLACK S.L.,Sonido e Iluminacion para la F eria del Pescado en los Cristi anos,588.5
 Plan de Promoción Económica,433,22614,2013-09-02,B38492237,HIT RADIO CANARIAS S.L.,"Cuñas de Radio Agosto 2013 Pro mocion y Difusion ""Feria del P escado"".",214
 Servicio de mantenimiento de vías y edificios,155,22713,2013-09-02,U76507094,TINERFEÑA DE OBRAS PUBLICAS S.L. UTE ARONA,"Certif. agosto 2013, Mante y C onservación Ed. Municipales,   Expte. 7/09-CASV",194173.79
@@ -1539,9 +1539,9 @@ Ordinario no inventariable,130,22000,2013-09-16,B38081790,THE RED PEN S.L.,500 P
 "Suministros de repuestos de maquinaria, utillaje",130,22111,2013-09-16,B38233912,SERVICIOS E LEON S.L.,Bateria Moto matrícula 9165FZW .,76.94
 Productos alimenticios,920,22105,2013-09-17,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",1 Cuota Servicio- Policia Loca l,9.63
 Productos alimenticios,920,22105,2013-09-17,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",1 Cuota Servicio- Sac los Cris tianos nº2,9.63
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-09-18,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión TFN-MAD (19 sep) / MAD-MXP-MAD-TFN. Evelia Sant os Chinea, Encuentro Ciudades  Hermanadas, Arona de Italia.",438.64
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-09-18,B38075115,VIAJES SOLYSUR S.L.,"Coche Alquiler en Milán. Eveli a Santos/ J.Alfredo Escobar, E ncuentro Ciudades Hermanadas,  Arona de Italia.",247.56
-Locomoción del personal no directivo,922,23120,2013-09-18,B38075115,VIAJES SOLYSUR S.L.,Billete Avión TF-MAD (19 Sep)/  MAD-MXP/MXP-MAD (22 SEP). Jos e Alfredo Escobar. Encuentro d e Ciudades Hermanadas Arona.,438.64
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-09-18,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión TFN-MAD (19 sep) / MAD-MXP-MAD-TFN. XXX, Encuentro Ciudades  Hermanadas, Arona de Italia.",438.64
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-09-18,B38075115,VIAJES SOLYSUR S.L.,"Coche Alquiler en Milán. XXX/ XXX, E ncuentro Ciudades Hermanadas,  Arona de Italia.",247.56
+Locomoción del personal no directivo,922,23120,2013-09-18,B38075115,VIAJES SOLYSUR S.L.,Billete Avión TF-MAD (19 Sep)/  MAD-MXP/MXP-MAD (22 SEP). XXX. Encuentro d e Ciudades Hermanadas Arona.,438.64
 Productos alimenticios,920,22105,2013-09-18,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 1 Botellones  Agua- Tesoreria",17.13
 Productos alimenticios,920,22105,2013-09-18,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 1 Botellones  Agua-Concejalia Juventud",17.13
 Productos alimenticios,920,22105,2013-09-18,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 1 Botellones  Agua-Recaudacion",17.13
@@ -1554,7 +1554,7 @@ Productos alimenticios,920,22105,2013-09-18,B38641387,"FUENTE AZUL CIA. DE AGUAS
 Productos alimenticios,920,22105,2013-09-18,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 4 Botellone s Agua -Cementerio",38.15
 Productos alimenticios,920,22105,2013-09-18,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 6 Botellones   Agua-Alcaldía",50.13
 Productos alimenticios,920,22105,2013-09-18,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","1 Cuota Servicio, 6 Botellones  Agua-Informatica",50.13
-Locomoción del personal no directivo,931,23120,2013-09-19,B38075115,VIAJES SOLYSUR S.L.,"Billetes Avión a Granada I/V,  Dª. Lorena López, Mercedes Mar tín y Mª. José Martín, Curso O peraciones de Cierre, CEMCI.",1023.15
+Locomoción del personal no directivo,931,23120,2013-09-19,B38075115,VIAJES SOLYSUR S.L.,"Billetes Avión a Granada I/V,  Dª. XXX, XXX y XXX, Curso O peraciones de Cierre, CEMCI.",1023.15
 Productos alimenticios,920,22105,2013-09-19,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.",1 Cuota Servicio,9.63
 Energía eléctrica,340,22100,2013-09-20,A81948077,ENDESA ENERGIA S.A.U.,Consumo Electricidad Agosto/13  Av. Arquitecto Gómez Cuesta.,5875.17
 "Prensa, revistas, libros y otras publicaciones",920,22001,2013-09-20,A81962201,ARANZADI EDITORIAL,Pack Leyes Administrativas 19? .,82.21
@@ -1573,10 +1573,10 @@ Postales,920,22201,2013-09-24,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA 
 Postales,920,22201,2013-09-24,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio Correspondencia 24/9/ 13, Renta ID ENI0513R.",36
 Postales,920,22201,2013-09-24,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio Correspondencia 24/9/ 13, Rentas 504.",107.71
 "Prensa, revistas, libros y otros",912,22001,2013-09-24,A38017844,EDITORIAL LEONCIO RODRIGUEZ S.A.,Suscripción de Lunes a Domingo  desde 19/01/13 hasta 18/01/14 .,650.4
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-09-25,B38075115,VIAJES SOLYSUR S.L.,Billete TFN-BIO-TFN (25-27 SEP ) Marcos Afonso Esquivel. Jorn adas Urban Commerce 2013.,230.3
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-09-25,B38075115,VIAJES SOLYSUR S.L.,Billete TFN-BIO-TFN (25-27 SEP ) XXX. Jorn adas Urban Commerce 2013.,230.3
 Plan de Promoción Económica,433,22614,2013-09-25,B38534392,TINTORERIA LOS PRINCIPES S.L.,Limpieza Carpas Concejalía Pro moción Economica.,60
 Fiestas del Municipio,338,22611,2013-09-26,B38454781,DRAYCA SUR SERVICIOS S.L.,Cuadro Pintaderas Fiestas de A rona,300
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-09-27,B38075115,VIAJES SOLYSUR S.L.,"Billete TFS-MAD-VLC Antonio So sa Carballo (15-18 oct) XV Con greso y Exposición Internacio  nal de Playas, Valencia.",377.38
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-09-27,B38075115,VIAJES SOLYSUR S.L.,"Billete TFS-MAD-VLC XXX (15-18 oct) XV Con greso y Exposición Internacio  nal de Playas, Valencia.",377.38
 "Prensa, revistas, libros y otras publicaciones",920,22001,2013-09-27,A58417346,WOLTERS KLUWER ESPAÑA S.A.,"Libro ""La Contratación del Sec tor Público"" 4º Edición. Alici a Rguez. Hdez.",187.5
 "Suministros de repuestos de maquinaria, utillaje",130,22111,2013-09-27,E76536747,COMUNIDAD DE BIENES MON-TA 2011,Entregar y Montar Manguera de Máquina de Agua a Presión. Pol icia local.,123.37
 Plan de Promoción Económica,433,22614,2013-09-28,B38867602,I.LOPEZ ANIMANCION Y OCIO,"Cuñas Programación Fm101.5 ""Vu elta al Cole"", ""Ruta de Cóctel es"", ""Fin del Verano"".",224
@@ -1597,8 +1597,8 @@ Combustibles y carburantes.,130,22103,2013-09-30,B76585801,"VILLASARA MULTISERVI
 Fiestas del Municipio,338,22611,2013-09-30,B38240933,IMPRENTA REYES S.L.,"Revista Formato Cerrado, Progr ama de Fiestas, Cartel A-3,par a Fiesta del Cristo",1259.06
 Limpieza y Aseo,920,22700,2013-09-30,B35745926,RALONS SERVICIOS S.L.,Servicio Extra Septiembre Sala  Anexa al Centro Cívico de Cab o Blanco.,207.15
 Limpieza y Aseo,920,22700,2013-09-30,B35745926,RALONS SERVICIOS S.L.,"Servicio Septiembre 2013""Limpi eza Centro Educativo y Depende ncias Municipales, Expte. 1/20 10-Casv",135171
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-09-30,B38075115,VIAJES SOLYSUR S.L.,"Traslado Aerop-Hotel-Aerop. Ma rcos A.Esquivel, Nieves Beltrá n Torres, Mónica Delgado Garci a. 25/09 - 27/09.",320
-Locomoción del personal no directivo,241,23120,2013-09-30,B38075115,VIAJES SOLYSUR S.L.,"Traslado Aerop-Hotel-Aerop. Ma rcos A.Esquivel, Nieves Beltrá n Torres, Mónica Delgado Garci a. 25/09 - 27/09.",320
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-09-30,B38075115,VIAJES SOLYSUR S.L.,"Traslado Aerop-Hotel-Aerop. XXX, XXX, XXX 25/09 - 27/09.",320
+Locomoción del personal no directivo,241,23120,2013-09-30,B38075115,VIAJES SOLYSUR S.L.,"Traslado Aerop-Hotel-Aerop. XXX, XXX, XXX 25/09 - 27/09.",320
 Mantenimiento Aire Acondicionado,920,21304,2013-09-30,A35414879,TECNOTEL DE CANARIAS S.A,"3 Trimestre Mantenimiento Air e Acondicionado (meses de Juli o,Agosto y Septiembre) segun   contrato.",1009.78
 Mantenimiento Aire Acondicionado,920,21304,2013-09-30,B38621850,FERRETERIA HERMALAY S.L.,Material Ferreteria Aire Acond icionado.,612.96
 Mantenimiento Aire Acondicionado,920,21304,2013-09-30,B38929592,"SOLCLIMA DISTRIBUCIONES TENERIFE SUR, S.L.","4º Trimestre contrato Mantenim iento C.C. Cabo blanco, Valle san Lorenzo y Auditorio Infant a Leonor.",1498
@@ -1640,7 +1640,7 @@ Servicio Recogida RSU y Lim. Viaria,162,22709,2013-09-30,U76525534,UTE ARONA,Ser
 "Suministros de repuestos de maquinaria, utillaje",130,22111,2013-09-30,B28984094,SOLUCIONES TECNICAS NCH ESPAÑOLA S.L.,2 Caja Spillmats Policía Local,329.6
 Vestuario,164,22104,2013-09-30,B38621850,FERRETERIA HERMALAY S.L.,"Vestuario Cementerio, Buzo y G uantes.",287.56
 Arrendamientos de Material de Transporte,132,20400,2013-10-01,A91001438,ALPHABET ESPAÑA FLEET MANAGEMENT S.A.U.,"Renting Octubre 2013 Vehículos  Policía Local, Expt.3/09-CSPS U.",11492.78
-Locomoción del personal no directivo,920,23120,2013-10-01,B38075115,VIAJES SOLYSUR S.L.,Billete TFS-MAD-TFS Carmen Ter esa Hdez. Martín. (02-5 oct)  Curso Técnicas Gestión Recurso s Humanos en Madrid.,222.66
+Locomoción del personal no directivo,920,23120,2013-10-01,B38075115,VIAJES SOLYSUR S.L.,Billete TFS-MAD-TFS XXX. (02-5 oct)  Curso Técnicas Gestión Recurso s Humanos en Madrid.,222.66
 Mantenimiento de Ascensores,323,21302,2013-10-01,A28011153,"ZARDOYA OTIS, S.A.",Servicio Mantenimiento 4º Trim estre Colegio Prim. e Infantil  La Estrella.,658.08
 Material informático no inventariable,920,22002,2013-10-01,B38581393,TECNISUR COPIADORAS S.L.,Facturación Contadores Fotocop iadoras Konica.,1939.12
 Plan de Promoción Económica,433,22614,2013-10-01,B38492237,HIT RADIO CANARIAS S.L.,"Promoción Vuelta al Cole, Fina l Verano y Ruta Cocteles,en Ag osto y Septiembre, Cuñas Radio .",770.4
@@ -1706,7 +1706,7 @@ Promoción Sanidad y Consumo,313,22617,2013-10-10,B38390589,SOUND BLACK S.L.,Ser
 Repar. conserv. y man. elementos de transporte,132,21400,2013-10-10,B38905774,FRANELIPAL S.L.,Reparación Vehículo 6967CXN.,727.6
 Tributos de las Entidades Locales,161,22502,2013-10-10,Q8850002J,CONSEJO INSULAR DE AGUAS DE TENERIFE,Servicio Septiembre 2013 Depur ación y Vertido.,146301.51
 Tributos de las Entidades Locales,161,22502,2013-10-10,Q8850002J,CONSEJO INSULAR DE AGUAS DE TENERIFE,Servicio Septiembre 2013 Desal ación.,257757.93
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-10-11,B38075115,VIAJES SOLYSUR S.L.,Billete Avión TFS-LPA-TFS (15- 16 OCT) Francisco Niño Rguez.  II Edición de Solidarios Once   Canarias.,133.72
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-10-11,B38075115,VIAJES SOLYSUR S.L.,Billete Avión TFS-LPA-TFS (15- 16 OCT) XXX.  II Edición de Solidarios Once   Canarias.,133.72
 Atenciones protocolarias y representativas,912,22601,2013-10-14,B38454781,DRAYCA SUR SERVICIOS S.L.,"Cuadro Pintadera Reconocimient o a Ricardo Melchior, Aytos Te nerife",50
 Material Convenios Fomento Empleo,241,22612,2013-10-14,B76546225,"MAC IMPRESIONS, S.L.",Adquisición Chalecos con Serig rafia. Arona Limpia 2013.,566.5
 Repar. mant. y conserv. elementos de transporte,920,21400,2013-10-14,B38788287,"TALLER JUAN GOMEZ, S.L.","Reparacion renault Clio E-3463 -DHH, Notificadores",51.25
@@ -1718,7 +1718,7 @@ Repar. conserv. y man. elementos de transporte,132,21400,2013-10-15,B35599323,"I
 Servicios de Recaudación,931,22708,2013-10-15,S3826006C,DELEGACION PROVINCIAL HACIENDA,"Costes del serv. liq. septiemb re 2013, convenio de colaborac ión Ayto con la Agencia Tribut aria.",1139.85
 Atenciones protocolarias y representativas,912,22601,2013-10-16,B38853990,SOUND CANARIAS S.L.U.,Montaje Servicios Rueda de Pre nsa Alcalde y concejal de Urba nismo en relación con la Anula ción del PGO. C.C. Los Cristia,155.15
 Estudios y Trabajos Técnicos,920,22706,2013-10-16,B78016375,PRICE WATERHOUSE COOPERS ASESORES DE NEGOCIOS S.L.,"1º Anticipo Honorarios Profesi onales ""Diagnóstico de la situ ación actual, asi como elabora , exp.1/12-CSPSV",9095
-Locomoción del personal no directivo,150,23120,2013-10-16,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion TFN-AGP (22-27 O CT.) Tomas Hormeño Cuesta "" No vedades Técnicas en Protección  Contra Incendios"".",141.38
+Locomoción del personal no directivo,150,23120,2013-10-16,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion TFN-AGP (22-27 O CT.) XXX "" No vedades Técnicas en Protección  Contra Incendios"".",141.38
 Postales,920,22201,2013-10-16,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio Correspondencia 16/10 /13, Multas 515",20.05
 Publicidad y Propaganda,920,22602,2013-10-17,B38578043,GESTION DE MEDIOS AUDIOVISUALES DE CANARIAS S.L.U,"Difusión Coberturas Informativ as en los Meses de Agosto, Sep tiembre y Octubre  en Programa  Tenerife Sur Informativos.",7880.16
 Publicidad y Propaganda,920,22602,2013-10-17,B38578043,GESTION DE MEDIOS AUDIOVISUALES DE CANARIAS S.L.U,"Difusión Coberturas Informativ as los Meses de Mayo, Junio y Julio en Programa Tenerife Sur  Informativos.",5252.73
@@ -1752,13 +1752,13 @@ Plan de Promoción Económica,433,22614,2013-10-25,B38534392,TINTORERIA LOS PRIN
 Postales,920,22201,2013-10-25,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio Correspondencia 25/10 /13, Catastro Notf 901",20.21
 Postales,920,22201,2013-10-25,B38601175,SERVICIOS INTEGRALES DE CORRESPONDENCIA TENERIFE S,"Servicio Correspondencia 25/10 /13, Multas 520",48.76
 Estudios y Trabajos Técnicos,920,22706,2013-10-28,A81608077,T-SYSTEMS ITC IBERIA S.A.,Servicios Asistencia Técnica p ara Aplicación Informatica GIS  destinado a gestionar Interna mente y Publicar el PGOU Munic,44220.96
-"Prensa, revistas, libros y otras publicaciones",920,22001,2013-10-28,A58417346,WOLTERS KLUWER ESPAÑA S.A.,Estatuto Trabajadores Comentad o 3ªEdic. RRHH Miguel Ángel Ma teo Castro.,123.32
+"Prensa, revistas, libros y otras publicaciones",920,22001,2013-10-28,A58417346,WOLTERS KLUWER ESPAÑA S.A.,Estatuto Trabajadores Comentad o 3ªEdic. RRHH XXX.,123.32
 Repar. mant. y cons. Mobiliario,130,21500,2013-10-28,B78268372,HAWORTH ESPAÑA S.L.,Adquisición de 6 Sillas para l as Dependencias Municipales de  la Policía Local. Expte. 4/20 13-CNT-CCSU.,1673.82
 Repar. mant. y cons. Equipos para procesos informa,920,21600,2013-10-29,B38581393,TECNISUR COPIADORAS S.L.,"Reparacion Copiadora Konica Mi nolta Bizhub c451, Personal",160.5
 Becas de Transporte,323,48001,2013-10-30,A28502144,TRANSPORTES INTERURBANOS DE TENERIFE S.A.,"Adquisicion Bonos TITSA, Expte  1/2012-CSPSU",79500
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-10-30,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión TFS-LGW-TFS (3-7  NOV) Carmelo García Martín, F eria World Travel Market de L  ondres.",737.27
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-10-30,B38075115,VIAJES SOLYSUR S.L.,"Billete TFS-LGW-TFS (03-07NOV)  Francisco Niño R""Feria Word T ravel Market""",737.27
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-10-30,B38075115,VIAJES SOLYSUR S.L.,"Billete TFS-LGW-TFS (3-7 NOV) Evelia Santos Chinea, Feria de  Word Travel Market",737.27
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-10-30,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión TFS-LGW-TFS (3-7  NOV) XXX, F eria World Travel Market de L  ondres.",737.27
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-10-30,B38075115,VIAJES SOLYSUR S.L.,"Billete TFS-LGW-TFS (03-07NOV)  XXX ""Feria Word T ravel Market""",737.27
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-10-30,B38075115,VIAJES SOLYSUR S.L.,"Billete TFS-LGW-TFS (3-7 NOV) XXX, Feria de  Word Travel Market",737.27
 Repar. conserv. y man. elementos de transporte,132,21400,2013-10-30,B38337002,"ELECTRO ZAFIRO, S.L.",FAE interruptor de Luces y de Conexión Vehículo E6178BCX.,158.25
 Aguas depuradas para riego,161,22114,2013-10-31,Q3800517I,BALTEN BALSAS DE TENERIFE,Consumo Agua Depurada 5º Bimes tre 2013 Finca: Ctra. Las Rosa s.,14.82
 Aguas depuradas para riego,161,22114,2013-10-31,Q3800517I,BALTEN BALSAS DE TENERIFE,Consumo Agua Depurada 5º Bimes tre 2013 Finca: El Mojon.,13559.62
@@ -1904,7 +1904,7 @@ Energía eléctrica,320,22100,2013-11-25,A81948077,ENDESA ENERGIA S.A.U.,"Factur
 Energía eléctrica,340,22100,2013-11-25,A81948077,ENDESA ENERGIA S.A.U.,"Facturacion Octubre, Agrupacio n 1056463/2, Rectificativa",15243.78
 Productos alimenticios,920,22105,2013-11-25,B38641387,"FUENTE AZUL CIA. DE AGUAS, S.L.","Suministro Agua BOT20l., Vasos  500ud. SAC Las Galletas",63.38
 Actividades Culturales y Deportivas,339,22609,2013-11-26,G38973145,ASOCIACION SOCIOCULTURAL PLATONS S.L.,"Gala Obertura Galas , En X Fes tival Jovenes Promesas Arona 2 013",1350
-Estudios y Trabajos Técnicos,920,22706,2013-11-26,A81608077,T-SYSTEMS ITC IBERIA S.A.,"Asistencia Remota 38hr,Xavier Mendiola, Cambios Inventario d el 16 al 22/10/2013",3252.8
+Estudios y Trabajos Técnicos,920,22706,2013-11-26,A81608077,T-SYSTEMS ITC IBERIA S.A.,"Asistencia Remota 38hr,XXX, Cambios Inventario d el 16 al 22/10/2013",3252.8
 Material informático no inventariable,920,22002,2013-11-26,A81608077,T-SYSTEMS ITC IBERIA S.A.,Soporte gestor de informe Actu ate y Soporte Sobre Documentum . informática.,3258.54
 Material informático no inventariable,920,22002,2013-11-26,B35307693,"QWERTY SISTEMAS, S.L.","Suministro Material ImpresoraS , Expte1/13-carsu.",8378.28
 Material informático no inventariable,920,22002,2013-11-26,B35307693,"QWERTY SISTEMAS, S.L.","Suministro Tóners y material I mpresoras, Exp.1/2013-Carsu",12644.25
@@ -1975,8 +1975,8 @@ Arrendamientos de Material de Transporte,132,20400,2013-12-01,A91001438,ALPHABET
 Asistencia Médico-Farmacéutica,221,16008,2013-12-01,A50004209,"DKV SEGUROS Y REASEGUROS, S.A.E,",Póliza Seguro de Salud Diciemb re 2013.,16861.25
 Ampliación del Cementerio Municipal,164,62214,2013-12-02,B38885513,"LA BOVEDILLA 2006, S.L.",Ampliación del Cementerio Muni cipal en 120 Nichos. Expte. 00 0004/2013-CNT-CMO.,39998.09
 Equipos para Proceso de Información,920,62600,2013-12-02,B28260933,HEWLETT-PACKARD ESPAÑOLA S.L.,Adquisición de 10 Impresoras H P para el Servicio de Atenció  n al Ciudadano. Expte. 7/2013  -CNT-CCSU.,13450.44
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-12-02,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion TFN-MAD-TFN. 3-4  Dic. Francisco Niño Rguez, Re d de Ciudades para Accesibilid ad.",309.52
-Locomoción del personal no directivo,920,23120,2013-12-02,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion TFS-MAD-TFS. 15- 17 Dic. Elena Garcia Munera, E ficacia y Simplificacion  y M  ejora Servicios Publicos.",245.33
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-12-02,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion TFN-MAD-TFN. 3-4  Dic. XXX, Re d de Ciudades para Accesibilid ad.",309.52
+Locomoción del personal no directivo,920,23120,2013-12-02,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion TFS-MAD-TFS. 15- 17 Dic. XXX, E ficacia y Simplificacion  y M  ejora Servicios Publicos.",245.33
 Material informático no inventariable,920,22002,2013-12-02,B38581393,TECNISUR COPIADORAS S.L.,Contratos de Fotocopiadoras,2328.72
 Ordinario no inventariable,920,22000,2013-12-02,B38081790,THE RED PEN S.L.,"87 Libros de Resoluciones de 2 012-Guaflex Azul y Marino con tres golpes Termo presion en o ro, Secretaria",2978.88
 Plan de Promoción Económica,433,22614,2013-12-02,B38621850,FERRETERIA HERMALAY S.L.,Alambre Galvanizado 2.5 y Negr o-Fiestas de Castañas V.S. Lor enzo,24.41
@@ -2027,7 +2027,7 @@ Energía eléctrica,920,22100,2013-12-09,B82846825,ENDESA ENERGIA XXI S.L.,Factu
 Mantenimiento de Ascensores,323,21302,2013-12-09,A28011153,"ZARDOYA OTIS, S.A.","Trabajos, Suministro y Colocac ion en Ed. Multiples EL Fraile , CL Villa Isabel s/n Fraile",822.3
 Repar. conserv. y man. elementos de transporte,132,21400,2013-12-09,B38233912,SERVICIOS E LEON S.L.,Reparación Alternador Vehículo  TF8774CC.,161.13
 "Suministros de repuestos de maquinaria, utillaje",130,22111,2013-12-09,A38019923,AUTOMOCION CANARIAS S.A.,"15 Disk, R.FR Brake",2613.38
-Locomoción del Personal,494,23120,2013-12-10,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión D. Mónica Garcia  Delgado, TFS/MAD/TFN, 12 al 1 3/12/13, Acto Anual Política R egional. Proyecto URBAN Arona",250.33
+Locomoción del Personal,494,23120,2013-12-10,B38075115,VIAJES SOLYSUR S.L.,"Billete Avión D. XXX, TFS/MAD/TFN, 12 al 1 3/12/13, Acto Anual Política R egional. Proyecto URBAN Arona",250.33
 Repar. conserv. y man. elementos de transporte,132,21400,2013-12-10,B38233912,SERVICIOS E LEON S.L.,Reparación Vehículo 2887FZC.,62.27
 Repar. conserv. y man. elementos de transporte,132,21400,2013-12-10,B38233912,SERVICIOS E LEON S.L.,Reparación Vehículo 2887FZC.,314.71
 Suministro mobiliario actos municipales,338,22123,2013-12-10,B38517934,ERQUITO GOMERA S.L.,Venta de 400 Sillas.,5136
@@ -2036,7 +2036,7 @@ Tributos de las Entidades Locales,161,22502,2013-12-10,Q8850002J,CONSEJO INSULAR
 Atenciones protocolarias y representativas,912,22601,2013-12-11,B38486510,MESON ERA LAS MOZAS S.L.,"Comida a miembros del CECOPAL,  alerta máxima por lluvias del  10 al 12 de diciembre 2013",109.95
 Suministro mobiliario actos municipales,338,22123,2013-12-11,B96498829,GUIL ACCESORIOS DE MUSICA S.L.,"Pata Telescopica para Regular Altura, Sistema Union Acero , Juego Pasamanos Escalera Plega bles",14861.38
 Atenciones protocolarias y representativas,912,22601,2013-12-12,B76537745,INVERSIONES YOJAGON S.L.U,"Comida miembros CECOPAL, alert a máxima por lluvias 10 de dic iembre 2013.",219
-Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-12-12,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion Evelia Santos Ch inea, TFS-MAD-TFN, 12 AL 13/12 /13,Organizacion Mundial del T urismo.",360.33
+Locomoción de Miembros de Órganos de Gobierno,912,23100,2013-12-12,B38075115,VIAJES SOLYSUR S.L.,"Billete Avion XXX, TFS-MAD-TFN, 12 AL 13/12 /13,Organizacion Mundial del T urismo.",360.33
 Promoción Sanidad y Consumo,313,22617,2013-12-12,B38216669,PECONVI S.L.,Alquiler Bombona de Helio-Carr era por la Vida 2013,504.7
 Repar. mant. y cons. Equipos para procesos informa,920,21600,2013-12-12,B38346573,SOFICAN S.L.,Cambio INK Supply Station y Pr uebas Actualización. oficina t écnica.,333.37
 Energía eléctrica,920,22100,2013-12-13,B82846825,ENDESA ENERGIA XXI S.L.,"Av. Antonio Dominguez, Moto Bo mba, Periodo: 07/10/13-12/12/1 3",37.65
