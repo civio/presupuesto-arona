@@ -129,50 +129,50 @@
 000,87010,Remanente con Financiación Afectada,10,19705712.01,19705722.01,0
 000,91000,A corto plazo,10,0,10,0
 000,,,93873079,37859653.12,131732732.12,107143208.08
-001,33900,Tasas por alquiler de espacios públicos,6,32715,32721,32715
-001,34300,Senderismo,4000,0,4000,5549
-001,34400,Precios publicos de Espectaculos,6,132913.78,132919.78,132718.78
-001,34900,Escuela municipal de Musica y Danza de Arona,160000,0,160000,170340.25
-001,34901,Cursos y Talleres personal adscrito al Patronato,40000,0,40000,23231.58
-001,34902,Precios cursos y talleres por servicio,5,196669.01,196674.01,197264.01
-001,38000,Reintegro de Presupuesto Cerrado,0,0,0,8950.34
-001,38900,Reintegro presupuesto corriente,3,0,3,0
-001,39901,Recursos Eventuales.,500,0,500,4476
-001,39902,Tasa prestación servicios en Istalaciones Cult.,0,0,0,0
-001,40000,Transferencias del Ayuntamiento,2550000,0,2550000,2550000
-001,45080,Subvenciones CCAA,6,0,6,0
-001,46100,"De Diputaciones, Consejos o Cabildos",6,51370.82,51376.82,51370.82
-001,46200,Subvenciones de Entidades Locales,0,0,0,50896.91
-001,52700,Intereses de depositos,6,0,6,33.68
-001,83001,Anticipos personal,0,3600,3600,3600
-001,83100,Anticipos al Personal,0,25700,25700,25700
-001,87000,Remanente Tesorería para Gastos Generales,0,622008.36,622008.36,0
-001,87010,Remanente Tesorería Gastos Financiación Afectada,0,111753.03,111753.03,0
-001,,,2754538,1176730,3931268.0,3256846.37
-002,34300,Precio público por servicios deportivos,500000,0,500000,478142.94
-002,38000,Reintegro de Presupuesto Cerrado,0,0,0,0
-002,39900,Otros Ingresos Diversos,0,0,0,124.3
-002,39901,Recursos Eventuales,0,0,0,1159
-002,40000,Aportación del Ayuntamiento,2803400,0,2803400,2803400
-002,52700,Intereses de Depósito,0,0,0,19.18
-002,83100,Anticipos al Personal,0,22600,22600,22600
-002,87000,Remanente de Tesorería para Gastos Generales,0,219000,219000,0
-002,,,3303400,241600,3545000,3305445.42
-003,38000,Reintegro de Presupuesto Cerrados,1,0,1,0
-003,39901,Recursos eventuales,1,0,1,8500.18
-003,40000,Transferencias del Ayuntamiento,1395645,0,1395645,1395645
-003,45000,Subvenciones,1,0,1,0
-003,52700,Intereses de depósito,1,0,1,10.47
-003,83100,Anticipos al Personal,1,3600,3601,3600
-003,,,1395650,3600,1399250,1407755.65
-004,38000,Reintegro Presupuesto Cerrado,0,0,0,57131.24
-004,39901,Recursos eventuales,0,0,0,449
-004,40000,Aportación del Ayuntamiento,3965507,0,3965507,3965507
-004,45080,Otras subvencioes corrientes de la CCAA,0,157471.42,157471.42,157471.42
-004,46200,De Entidades Locales,0,566314.86,566314.86,623476.84
-004,46201,Convenio Gestión y Funcionamiento Casa Nira IASS,0,330180.64,330180.64,396216.64
-004,46202,Convenio Residencia de Los Cristianos,0,237146.28,237146.28,234394.48
-004,46203,Subvención Prestación Canaria de Inserción ,0,0,0,0
-004,52700,Intereses de Depósito,0,0,0,21.71
-004,83001,Anticipos a personal,0,16900,16900,16900
-004,,,3965507,1308013.2,5273520.2,5451568.33
+100,33900,Tasas por alquiler de espacios públicos,6,32715,32721,32715
+100,34300,Senderismo,4000,0,4000,5549
+100,34400,Precios publicos de Espectaculos,6,132913.78,132919.78,132718.78
+100,34900,Escuela municipal de Musica y Danza de Arona,160000,0,160000,170340.25
+100,34901,Cursos y Talleres personal adscrito al Patronato,40000,0,40000,23231.58
+100,34902,Precios cursos y talleres por servicio,5,196669.01,196674.01,197264.01
+100,38000,Reintegro de Presupuesto Cerrado,0,0,0,8950.34
+100,38900,Reintegro presupuesto corriente,3,0,3,0
+100,39901,Recursos Eventuales.,500,0,500,4476
+100,39902,Tasa prestación servicios en Istalaciones Cult.,0,0,0,0
+100,40000,Transferencias del Ayuntamiento,2550000,0,2550000,2550000
+100,45080,Subvenciones CCAA,6,0,6,0
+100,46100,"De Diputaciones, Consejos o Cabildos",6,51370.82,51376.82,51370.82
+100,46200,Subvenciones de Entidades Locales,0,0,0,50896.91
+100,52700,Intereses de depositos,6,0,6,33.68
+100,83001,Anticipos personal,0,3600,3600,3600
+100,83100,Anticipos al Personal,0,25700,25700,25700
+100,87000,Remanente Tesorería para Gastos Generales,0,622008.36,622008.36,0
+100,87010,Remanente Tesorería Gastos Financiación Afectada,0,111753.03,111753.03,0
+100,,,2754538,1176730,3931268.0,3256846.37
+200,34300,Precio público por servicios deportivos,500000,0,500000,478142.94
+200,38000,Reintegro de Presupuesto Cerrado,0,0,0,0
+200,39900,Otros Ingresos Diversos,0,0,0,124.3
+200,39901,Recursos Eventuales,0,0,0,1159
+200,40000,Aportación del Ayuntamiento,2803400,0,2803400,2803400
+200,52700,Intereses de Depósito,0,0,0,19.18
+200,83100,Anticipos al Personal,0,22600,22600,22600
+200,87000,Remanente de Tesorería para Gastos Generales,0,219000,219000,0
+200,,,3303400,241600,3545000,3305445.42
+300,38000,Reintegro de Presupuesto Cerrados,1,0,1,0
+300,39901,Recursos eventuales,1,0,1,8500.18
+300,40000,Transferencias del Ayuntamiento,1395645,0,1395645,1395645
+300,45000,Subvenciones,1,0,1,0
+300,52700,Intereses de depósito,1,0,1,10.47
+300,83100,Anticipos al Personal,1,3600,3601,3600
+300,,,1395650,3600,1399250,1407755.65
+400,38000,Reintegro Presupuesto Cerrado,0,0,0,57131.24
+400,39901,Recursos eventuales,0,0,0,449
+400,40000,Aportación del Ayuntamiento,3965507,0,3965507,3965507
+400,45080,Otras subvencioes corrientes de la CCAA,0,157471.42,157471.42,157471.42
+400,46200,De Entidades Locales,0,566314.86,566314.86,623476.84
+400,46201,Convenio Gestión y Funcionamiento Casa Nira IASS,0,330180.64,330180.64,396216.64
+400,46202,Convenio Residencia de Los Cristianos,0,237146.28,237146.28,234394.48
+400,46203,Subvención Prestación Canaria de Inserción ,0,0,0,0
+400,52700,Intereses de Depósito,0,0,0,21.71
+400,83001,Anticipos a personal,0,16900,16900,16900
+400,,,3965507,1308013.2,5273520.2,5451568.33

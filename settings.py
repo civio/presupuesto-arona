@@ -54,6 +54,9 @@ CONSISTENT_INSTITUTIONAL_CODES = True
 # Important: insitutional codes must be consistent along the years, see CONSISTENT_INSTITUTIONAL_CODES.
 SHOW_GLOBAL_INSTITUTIONAL_TREEMAP  = True
 
+# How many levels to show in the global institutional treemap? Default: 1.
+INSTITUTIONAL_MAX_LEVELS = 2
+
 # Show an extra tab with funding breakdown (only applicable to some budgets). Default: False.
 # SHOW_FUNDING_TAB = True
 
