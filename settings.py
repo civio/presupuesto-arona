@@ -41,18 +41,18 @@ SHOW_TAX_RECEIPT = True
 # ----------------------
 
 # Show an extra tab with institutional breakdown. Default: True.
-SHOW_INSTITUTIONAL_TAB  = False
+SHOW_INSTITUTIONAL_TAB  = True
 
 # Show section pages. Still under development, see #347. Default: False.
-# SHOW_SECTION_PAGES = True
+SHOW_SECTION_PAGES = True
 
 # Are institutional codes consistent along the years. Default: False.
 # Important: We need this to be True for the institutional treemap to work properly.
-# CONSISTENT_INSTITUTIONAL_CODES = True
+CONSISTENT_INSTITUTIONAL_CODES = True
 
 # Show an extra treemap in the Policy page, showing institutional breakdown. Default: False.
 # Important: insitutional codes must be consistent along the years, see CONSISTENT_INSTITUTIONAL_CODES.
-# SHOW_GLOBAL_INSTITUTIONAL_TREEMAP  = True
+SHOW_GLOBAL_INSTITUTIONAL_TREEMAP  = True
 
 # Show an extra tab with funding breakdown (only applicable to some budgets). Default: False.
 # SHOW_FUNDING_TAB = True

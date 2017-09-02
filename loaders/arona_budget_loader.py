@@ -32,14 +32,14 @@ class AronaBudgetLoader(SimpleBudgetLoader):
         }
 
         # Some dirty lines in input data
-        if line[0]=='':
+        if line[1]=='':
             return None
 
         is_expense = (filename.find('gastos.csv')!=-1)
         is_actual = (filename.find('/ejecucion_')!=-1)
         if is_expense:
             # The input data combines functional and economic codes in a very unusual way
-            match = re.search('^ *(\d+) +(\d+) *', line[0])
+            match = re.search('^ *(\d+) +(\d+) *', line[1])
             # We got 3- or 4- digit functional codes as input, so add a trailing zero
             fc_code = match.group(1).ljust(4, '0')
             ec_code = match.group(2)
@@ -56,19 +56,19 @@ class AronaBudgetLoader(SimpleBudgetLoader):
                 'is_actual': is_actual,
                 'fc_code': fc_code,
                 'ec_code': ec_code[:-2],        # First three digits (everything but last two)
-                'ic_code': '000',
+                'ic_code': line[0],
                 'item_number': ec_code[-2:],    # Last two digits
-                'description': line[1],
-                'amount': self._parse_amount(line[5 if is_actual else 2])
+                'description': line[2],
+                'amount': self._parse_amount(line[6 if is_actual else 3])
             }
 
         else:
             return {
                 'is_expense': False,
                 'is_actual': is_actual,
-                'ec_code': line[0][:-2],        # First three digits
-                'ic_code': '000',               # All income goes to the root node
-                'item_number': line[0][-2:],    # Fourth and fifth digit; careful, there's trailing dirt
-                'description': line[1],
-                'amount': self._parse_amount(line[5 if is_actual else 2])
+                'ec_code': line[1][:-2],        # First three digits
+                'ic_code': line[0],
+                'item_number': line[1][-2:],    # Fourth and fifth digit; careful, there's trailing dirt
+                'description': line[2],
+                'amount': self._parse_amount(line[6 if is_actual else 3])
             }
