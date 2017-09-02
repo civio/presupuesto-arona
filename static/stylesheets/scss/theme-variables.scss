@@ -89,7 +89,7 @@ $navbar-default-link-active-color:    $brand-primary;
 $navbar-default-link-active-bg:       $brand-secondary;
 
 // Navbar collapse
-//** Point at which the navbar becomes uncollapsed.
+// Point at which the navbar becomes uncollapsed.
 $grid-float-breakpoint:               992px;  //$screen-md-min;
 
 
@@ -195,5 +195,5 @@ $data-sources-color: $brand-primary;
 // Sankey Viz
 // --------------
 
-$sankey-budget-color:     mix( $gray-light, $gray-lighter, 50% );
-$sankey-execution-color:  mix( $brand-primary, white, 70% );
+$sankey-income-color:   $brand-primary;
+$sankey-expense-color:  #C60C30;
