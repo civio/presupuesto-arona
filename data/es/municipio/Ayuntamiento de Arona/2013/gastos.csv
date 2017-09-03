@@ -1,0 +1,1426 @@
+     231  62213,Adecuación N.V. Instalaciones Residencia Mayores C,0,218394.02,218394.02,0
+     231  63211,Ampliación Residencia de Mayores Los Cristianos,0,60000,60000,32000
+     231  62600,Equipos para proceso de información ,0,0,0,0
+     231  62300,"Maquinaria, instalaciones y utillaje",0,6543.22,6543.22,0
+     231  62400,Material de Transporte,0,10181.27,10181.27,0
+     231  62500,Mobiliario,0,31374.02,31374.02,0
+     313  48304,Convenio Acogida Animales Abandonados,0,7530,7530,7529.41
+     313  22704,Recogida y acogida de animales.,58000,0,58000,95420.72
+     313  23020,Dietas del personal no directivo,600,0,600,0
+     313  23120,Locomoción del personal no directivo,600,0,600,0
+     313  22115,"Desinfectantes, raticidas",60000,0,60000,60959.29
+     313  16200,Formación y Perfeccionamiento del Personal,600,0,600,0
+     313  22000,Ordinario No Inventariable,1000,0,1000,411.95
+     313  22617,Promoción Sanidad y Consumo,10000,0,10000,3225.44
+     313  22722,Recogida Animales Exóticos,3000,0,3000,0
+     313  13000,Retribuciones personal laboral fijo,36000,0,36000,35419.17
+     313  16000,Seguridad Social,9000,0,9000,11709.62
+     173  65913,Aseos y Duchas en Playas,0,50000,50000,0
+     173  65914,Balizamiento Playas,0,200000,200000,0
+     173  20900,Cánones,215000,0,215000,174531.76
+     173  22730,Mantenimiento Integral del Litoral,353000,0,353000,355210.77
+     173  21000,"Reparaciones, man. y conserv. infraestructuras y b",1000,0,1000,0
+     173  22736,Servicio de Vigilancia y Socorrismo en Playas,390000,0,390000,112817.23
+     920  20800,Arrendamientos de Otro Inmovilizado Material,218000,108855,326855,326854.92
+     920  20200,Arrendamientos de Edificios y otras Construcciones,16000,0,16000,12532.13
+     920  23300,Otras indemnizaciones ,5000,0,5000,900
+     920  22103,Combustibles y carburantes,8000,0,8000,10913.86
+     920  12100,Complemento de destino,195000,-4200,190800,151768.78
+     920  12101,Complemento especifico,380000,0,380000,294689.78
+     920  12102,Complemento de Residencia,40000,0,40000,36544.92
+     920  23020,Dietas del personal no directivo,3000,0,3000,888.68
+     920  23120,Locomoción del personal no directivo,8000,0,8000,2346.39
+     920  21200,"Reparaciones, man. y conserv. Edificios y otras co",35000,0,35000,8323.24
+     920  21400,Repar. mant. y conserv. elementos de transporte,10000,0,10000,2681.13
+     920  22100,Energía eléctrica,1100000,0,1100000,917452.24
+     920  62600,Equipos para Proceso de Información,1000,129262.71,130262.71,58880.05
+     920  22706,Estudios y Trabajos Técnicos,200000,0,200000,85228.37
+     920  16200,Formación y perfeccionamiento del Personal,5000,0,5000,8050.44
+     920  15100,Gratificaciones,10000,0,10000,431.37
+     920  22203,Informáticas,61000,0,61000,44277.33
+     920  22604,"Jurídicos, Contenciosos",100000,0,100000,263055.07
+     920  22700,Limpieza y Aseo,1650000,0,1650000,1624149.26
+     920  21304,Mantenimiento Aire Acondicionado,18000,0,18000,19825.49
+     920  62300,"Maquinaria, Instalaciones y Utillaje",5000,0,5000,4108.16
+     920  22002,Material informático no inventariable,275000,0,275000,284125.39
+     920  22607,Oposiciones y pruebas selectivas,5000,0,5000,1921.12
+     920  22000,Ordinario no inventariable,40000,0,40000,31086.4
+     920  62601,Otro material informático,0,5709.52,5709.52,5709.52
+     920  13100,Retribuciones personal temporal,335000,0,335000,271378.36
+     920  22616,Plan de Formación Interno Empleados Públicos,10000,0,10000,10666.8
+     920  22201,Postales,400000,0,400000,293266.4
+     920  22001,"Prensa, revistas, libros y otras publicaciones",10000,0,10000,3795.69
+     920  22401,Primas de seguros vehículos municipales.,3000,0,3000,2962.79
+     920  15000,Productividad,13120,0,13120,1865.06
+     920  22105,Productos alimenticios,18000,0,18000,18299.81
+     920  22110,Productos de limpieza y aseo,1000,0,1000,521.69
+     920  22603,Publicación en Diarios Oficiales,5000,0,5000,8503.35
+     920  22602,Publicidad y Propaganda,50000,0,50000,65146.41
+     920  21600,Repar. mant. y cons. Equipos para procesos informa,45000,0,45000,8690.23
+     920  21500,Repar. mant. y cons. Mobiliario,10000,0,10000,1852.96
+     920  21000,"Reparaciones, man. y conserv. infraestructuras y b",1000,0,1000,0
+     920  13000,Retribuciones personal laboral fijo,282000,0,282000,267435.97
+     920  14301,Retribuciones personal afecto a programas,131000,0,131000,131921.15
+     920  16000,Seguridad Social,500000,0,500000,479921.84
+     920  22701,Seguridad,18000,0,18000,19559.78
+     920  22713,Servicio de mantenimiento de vías y edificios,369050,0,369050,310083.22
+     920  22716,Servicio de Mantenimiento Eléctrico de Edificios,61000,0,61000,62339.63
+     920  12000,Sueldos del Grupo A1,164000,0,164000,172621.59
+     920  12001,Sueldos del Grupo A2,16000,0,16000,18033.06
+     920  12003,Sueldos del Grupo C1,43000,0,43000,31847.1
+     920  12004,Sueldos del Grupo C2,59000,0,59000,80111.56
+     920  12005,Sueldos del Grupo E,23100,0,23100,39387.72
+     920  22112,"Suministros de material electrónico, eléctrico y t",2000,0,2000,1388.81
+     920  22204,Telefónicas,85000,0,85000,51848.37
+     920  12006,Trienios,45500,0,45500,45232.74
+     920  22104,Vestuario,12000,0,12000,2275.08
+     430  41002,Al Patronato Municipal de Turismo,855645,168670.64,1024315.64,1024315.64
+     430  46900,Convenio Mejora Espacio Turístico de Tenerife,93718,0,93718,46859
+     430  46902,Convenio Regeneración espacio turístico,0,0,0,46859
+     330  41000,Al Patronato Municipal de Cultura,2387818,0,2387818,2387818
+     330  22100,Energía eléctrica,20000,0,20000,19061.02
+     330  63205,Adecuación Sótano Centro Cultural Los Cristianos.,0,0,0,0
+     330  22713,Servicio de mantenimiento de vías y edificios,219900,0,219900,168095.29
+     330  22204,Teléfonos,15000,0,15000,4977.12
+     340  41001,Al Patronato Municipal de Deportes,2361000,0,2361000,2361000
+     340  22100,Energía eléctrica,212000,0,212000,205306.81
+     320  12100,Complemento de destino,7200,0,7200,4316.64
+     320  12101,Complemento especifico,12000,0,12000,7160.78
+     320  12102,Complemento de Residencia,1800,0,1800,1187.04
+     320  23020,Dietas del personal no directivo,600,0,600,0
+     320  23120,Locomoción del personal no directivo,600,0,600,0
+     320  22100,Energía eléctrica,103000,0,103000,87332.72
+     320  16200,Formación y Perfeccionamiento del Personal,600,0,600,0
+     320  15100,Gratificaciones,1000,0,1000,0
+     320  13100,Retribuciones personal temporal,77000,0,77000,47116.78
+     320  22001,"Prensa, revistas, libros y otras publicaciones",1000,0,1000,0
+     320  15000,Productividad,1000,0,1000,0
+     320  13000,Retribuciones personal laboral fijo,222000,-9030,212970,151266.21
+     320  14301,Retribuciones personal afecto a programas,16500,0,16500,11534.41
+     320  16000,Seguridad Social,91620,0,91620,118973.4
+     320  22713,Servicio de mantenimiento de vías y edificios,400390,0,400390,282705.5
+     320  22716,Servicio de Mantenimiento Eléctrico de Edificios,190130,0,190130,193903.32
+     320  12001,Sueldos del Grupo A2,13500,0,13500,12685.62
+     320  12006,Trienios,0,0,0,2503.43
+     450  62297,Proyecto Fibra Óptica Troncal Núcleos de Medianías,0,351743.08,351743.08,0
+     450  62299,Proyecto Fibra óptica Troncal núcleos zona Este.,0,92300,92300,0
+     130  22103,Combustibles y carburantes.,54000,0,54000,65598.12
+     130  21305,Mantenimiento Cámaras de Seguridad,18000,0,18000,13431.03
+     130  21303,Mantenimiento de Extintores,18000,0,18000,17637.14
+     130  22002,Material informático no inventariable,1000,0,1000,614.39
+     130  22000,Ordinario no inventariable,10000,0,10000,4419.38
+     130  22001,"Prensa, revistas, libros y otras publicaciones",1000,0,1000,0
+     130  22401,Primas de seguros vehiculos mples.,18000,0,18000,16169.03
+     130  21500,Repar. mant. y cons. Mobiliario,3000,0,3000,4278.15
+     130  22111,"Suministros de repuestos de maquinaria, utillaje",20000,0,20000,21363.68
+     130  22204,Teléfonos,15000,0,15000,14241.51
+     130  22104,Vestuario,18000,0,18000,27307.71
+     230  41003,Al Patronato Municipal de Servicios Sociales,3549000,31716.16,3580716.16,3580716.16
+     230  23020,Dietas del personal no directivo,1000,0,1000,18.7
+     230  23120,Locomoción del personal no directivo,2000,0,2000,821.15
+     230  16200,Formación y Perfeccionamiento del Personal,1000,0,1000,0
+     230  13000,Retribuciones personal laboral fijo,166500,0,166500,166156.38
+     230  16000,Seguridad Social,51000,0,51000,51217.45
+     230  44221,Subvención a la Empresa Municipal ADESA,979180,0,979180,979180
+     150  20200,Arrendamientos de Edificios y otras construcciones,13000,0,13000,12846.59
+     150  22103,Combustibles y carburantes,15000,0,15000,17534.35
+     150  12100,Complemento de destino,242000,0,242000,154667.84
+     150  12101,Complemento especifico,455000,0,455000,292407.8
+     150  12102,Complemento de Residencia,50000,0,50000,35668.35
+     150  23020,Dietas del personal no directivo,1000,0,1000,676.36
+     150  23120,Locomoción del personal no directivo,2000,0,2000,537.17
+     150  21400,"Reparación, man. y conserv. elementos de transport",2000,0,2000,5447.23
+     150  22100,Energía eléctrica,200000,0,200000,209426
+     150  22706,Estudios y trabajos técnicos,100000,0,100000,12075
+     150  16200,Formación y Perfeccionamiento del Personal,1000,0,1000,6309.34
+     150  15100,Gratificaciones,1000,0,1000,1132.04
+     150  62300,"Maquinaria, Instalaciones y Utillaje",1000,0,1000,0
+     150  22000,Ordinario no inventariable,6000,0,6000,362.51
+     150  60101,Parque Urbano Cho-Parque La Reina ,44095,58000,102095,6678.62
+     150  13100,Retribuciones personal temporal,267000,0,267000,287851.92
+     150  22001,"Prensa, revistas, libros y otros",1000,0,1000,318.29
+     150  22401,Primas de seguros,8500,0,8500,9295.22
+     150  15000,Productividad,5000,0,5000,0
+     150  21500,Repar. mant. y cons. Mobiliario,1000,0,1000,641.75
+     150  11000,Retribuciones Básicas ,39900,0,39900,12127.47
+     150  13000,Retribuciones personal laboral fijo,410000,0,410000,303098.17
+     150  14301,Retribuciones personal afecto a programas,107000,0,107000,106623.46
+     150  16000,Seguridad Social,550200,0,550200,617652.43
+     150  12000,Sueldos del Grupo A1,145000,0,145000,141191.81
+     150  12001,Sueldos del Grupo A2,72000,0,72000,56750.9
+     150  12003,Sueldos del Grupo C1,86200,0,86200,37875.93
+     150  12004,Sueldos del Grupo C2,56700,0,56700,87946.47
+     150  12005,Sueldos del Grupo E,23100,0,23100,26789.69
+     150  22111,"Suministros de repuestos de maquinaria, utillaje y",0,0,0,55.64
+     150  12006,Trienios,67800,0,67800,51638.56
+     170  12100,Complemento de destino,27200,0,27200,12792.18
+     170  12101,Complemento especifico,59000,0,59000,26871.02
+     170  12102,Complemento de Residencia,6200,0,6200,3453.67
+     170  23020,Dietas del personal no directivo,1000,0,1000,187.22
+     170  23120,Locomoción del personal no directivo,2000,0,2000,259.99
+     170  16200,Formación y Perfeccionamiento del Personal,1000,0,1000,451.9
+     170  15100,Gratificaciones,1000,0,1000,0
+     170  22000,Ordinario no inventariable,1000,0,1000,0
+     170  13100,Retribuciones personal temporal,33000,0,33000,30373.24
+     170  22001,"Prensa, revistas, libros y otras publicaciones",1000,0,1000,455.4
+     170  22401,Primas de seguros vehículos municipales.,1000,0,1000,0
+     170  15000,Productividad,1000,0,1000,0
+     170  22602,Publicidad y propaganda,9000,0,9000,10919.9
+     170  11000,Retribuciones básicas ,20000,0,20000,14520.54
+     170  13000,Retribuciones personal laboral fijo,20000,0,20000,14767.84
+     170  14301,Retribuciones personal afecto a programas,19000,0,19000,18880.68
+     170  16000,Seguridad Social,59200,0,59200,53459.9
+     170  12000,Sueldos del Grupo A1,46600,0,46600,31772.07
+     170  12006,Trienios,2400,0,2400,1865.23
+     165  42393,Aportación Comité Español Iluminación,600,0,600,440
+     165  62300,"Maquinaria, Instalaciones y Utillaje",5500,0,5500,0
+     165  22712,Servicio Mantenimiento Alumbrado Público,1210000,0,1210000,1225286.1
+     336  76200,Acto. Cueva Santo Hermano Pedro,0,62000,62000,0
+     336  48301,Convenio Archivo Diocesano,7500,0,7500,7000
+     336  22706,Estudios y trabajos técnicos,18000,0,18000,22327.69
+     925  12100,Complemento de destino,45000,0,45000,24010.61
+     925  12101,Complemento específico,80000,0,80000,43710.5
+     925  12102,Complemento de Residencia,10000,0,10000,5425.85
+     925  23020,Dietas del personal no directivo,1000,0,1000,0
+     925  23120,Locomoción del personal no directivo,1000,0,1000,58.9
+     925  16200,Formación y Perfeccionamiento del Personal,1000,0,1000,192.44
+     925  15100,Gratificaciones,1000,0,1000,0
+     925  13100,Retribuciones personal temporal,140000,0,140000,139502.91
+     925  15000,Productividad,33500,0,33500,0
+     925  13000,Retribuciones personal laboral fijo,300000,0,300000,256259.99
+     925  16000,Seguridad Social,175000,0,175000,218715.13
+     925  22720,Servicio de Atención Telefónica,521509,0,521509,421199.62
+     925  12003,Sueldos del Grupo C1,30500,0,30500,10121.87
+     925  12004,Sueldos del Grupo C1,36000,0,36000,47667.91
+     925  12006,Trienios,14200,0,14200,7752.11
+     332  20200,Arrendamientos de Edificios y otras Construcciones,10000,0,10000,9796.52
+     332  12100,Complemento de destino,6700,0,6700,3786.8
+     332  12101,Complemento específico,11000,-1000,10000,6092.4
+     332  12102,Complemento de Residencia,1500,0,1500,924.8
+     332  15100,Gratificaciones,1000,0,1000,0
+     332  13100,Retribuciones personal temporal,21000,0,21000,18930.48
+     332  15000,Productividad,1000,0,1000,0
+     332  13000,Retribuciones personal laboral fijo,20000,0,20000,19446.6
+     332  16000,Seguridad Social,18200,0,18200,19664.04
+     332  12003,Sueldos del Grupo C1,10081,0,10081,9863.7
+     332  12006,Trienios,3100,0,3100,1759.76
+     453  60137,Conexión Peatonal Guargacho-Las Rosas,0,1018526.47,1018526.47,50952.38
+     453  60142,Peatonal El Toscal-El Almendro,0,0,0,0
+     453  60816,Rehab. pav. de calzada núcleo Los Cristianos,0,94662.57,94662.57,0
+     453  60819,Rehab. pav. de calzada núcleo Valle S.L.,0,66058,66058,0
+     164  62214,Ampliación del Cementerio Municipal,0,40000,40000,39998.09
+     164  22615,Inhumaciones,5000,0,5000,2319.31
+     164  13100,Retribuciones personal temporal,33000,0,33000,5974.51
+     164  22110,Productos de limpieza y aseo,1000,0,1000,704.81
+     164  13000,Retribuciones personal laboral fijo,48000,0,48000,36079.55
+     164  14301,Retribuciones personal afecto a programas,17000,0,17000,15572.7
+     164  16000,Seguridad Social,21400,0,21400,35085.09
+     164  22104,Vestuario,600,0,600,1086.61
+     922  42392,Aportación a la FEMP,5000,0,5000,4375.52
+     922  12100,Complemento de destino,10000,0,10000,7198.34
+     922  12101,Complemento específico,16500,0,16500,10010.65
+     922  12102,Complemento de Residencia,2200,0,2200,1737.28
+     922  23020,Dietas del personal no directivo,1000,0,1000,992.99
+     922  23120,Locomoción del personal no directivo,600,0,600,714.61
+     922  16200,Formación y Perfeccionamiento del Personal,1000,0,1000,2925
+     922  15100,Gratificaciones,1000,0,1000,0
+     922  15000,Productividad,1000,0,1000,0
+     922  11000,Retribuciones básicas,49000,0,49000,37211.83
+     922  13000,Retribuciones personal laboral fijo,62000,0,62000,61752.96
+     922  16000,Seguridad Social,45200,0,45200,66580.07
+     922  12004,Sueldos del Grupo C2,8400,0,8400,16502.26
+     922  12005,Sueldos del Grupo E,7700,0,7700,0
+     922  12006,Trienios,3700,0,3700,2058.39
+     433  45391,Aportación Convenio Cámara de Comercio,30000,-30000,0,0
+     433  22614,Plan de Promoción Económica,151000,56460,207460,206232.11
+     414  46600,Aportación Desarrollo Rural Chasna- Isora,15025,0,15025,0
+     414  62507,Equipamiento Mercadillo Municipal del Agricultor,88500,-8801,79699,0
+     414  22121,Suministro Mercadillo Municipal del Agricultor,5000,-5000,0,0
+     011  91301,Amortización préstamos largo plazo entidades fin.,1011625,1480519.53,2492144.53,2492113.91
+     011  31000,Intereses,620000,-68000,552000,228516.93
+     241  14336,Arona Agrícola 2013,0,125545.89,125545.89,123170.18
+     241  14332,Arona con Todos 2012,0,80596.17,80596.17,80588.78
+     241  14334,Arona Empresarial 2012,0,31000.56,31000.56,21154.39
+     241  14333,Arona Limpia 2012,0,97754.78,97754.78,75808.95
+     241  20200,Arrendamientos de Edificios y otras Construcciones,18000,0,18000,13302.69
+     241  22683,Auditoria-Arona con todos 2012,0,1028.48,1028.48,0
+     241  22685,Auditoria Arona Empresarial 2012,0,578.11,578.11,578.11
+     241  22684,Auditoria Arona Limpia 2012,0,1191.46,1191.46,1191.46
+     241  22686,Auditoria Mejorando Nuestros Servicios 2012,0,594.13,594.13,594.13
+     241  48014,"Convnio Fundación Proyecto D,. Bosco",8000,0,8000,0
+     241  23020,Dietas del personal no directivo,1000,0,1000,577.5
+     241  23120,Locomoción del personal no directivo,1000,0,1000,762.13
+     241  22706,Estudios y Trabajos Técnicos,36000,0,36000,16494.2
+     241  14303,Retribuciones personal convenios,500000,-50000,450000,13417.67
+     241  16200,Formación y Perfeccionamiento del Personal,1000,0,1000,55
+     241  62300,"Maquinaria, Instalaciones y Utillaje",1000,0,1000,0
+     241  22612,Material Convenios Fomento Empleo,30000,0,30000,10429.06
+     241  14335,Mejorando Nuestros Servicios 2012,0,43432.4,43432.4,35793.41
+     241  60812,Mobiliario Urbano,0,54054.39,54054.39,0
+     241  22000,Ordinario no inventariable,1000,0,1000,0
+     241  13100,Retribuciones personal temporal,32000,0,32000,31581.64
+     241  14337,Programa Extraordinario empleo social Arona 2013,0,249699.25,249699.25,390671.12
+     241  14302,Retribuciones convenios AEDL,74500,0,74500,50915.76
+     241  13000,Retribuciones personal laboral fijo,70000,-5000,65000,70838.15
+     241  22606,"Reuniones, Conferencias y Cursos",30000,5000,35000,22679.21
+     241  16000,Seguridad Social,64500,0,64500,49814.51
+     933  16200,Formación y Perfeccionamiento del Personal,600,0,600,0
+     933  13000,Retribuciones personal laboral fijo,20000,0,20000,16691.69
+     933  16000,Seguridad Social,5000,0,5000,10258.87
+     312  20200,Arrendamientos de Edificios y otras Construcciones,21000,0,21000,20706.4
+     312  22100,Energía eléctrica,53000,0,53000,48445.33
+     929  20800,Arrendamientos de Otro Inmovilizado Material,1000,4200,5200,4110.94
+     929  22103,Combustibles y carburantes,1000,0,1000,0
+     929  21400,Repar. mant. y cons. elementos de transporte,1000,0,1000,0
+     929  50000,Fondo de Contingencia,1619393,-65691.36,1553701.64,0
+     929  21300,"Reparaciones, Mante. y conserv. Maquinaria e Inst.",10000,0,10000,454.75
+     929  62500,Mobiliario,5000,0,5000,0
+     929  22000,Ordinario no inventariable,2000,0,2000,0
+     929  48102,Premios,2000,0,2000,290.65
+     929  22402,Primas de seguros resto,1000,0,1000,0
+     929  21500,Repar. mant. y cons. Mobiliario,5000,0,5000,0
+     929  22606,"Reuniones, conferencias y cursos",2000,0,2000,64.2
+     929  22619,Sanciones,30000,0,30000,13393.04
+     929  22702,Valoraciones y Peritajes,1000,0,1000,0
+     342  62250,Adecuación Reglamentación B.T. Campo Tiro de Arona,0,2412.74,2412.74,0
+     342  62207,Cámaras de seguridad Edificios Públicos,0,6304.26,6304.26,0
+     342  62251,Campo de Fútbol 7 Cabo Blanco,0,0,0,0
+     342  62226,Complejo Deportivo,0,1003285.71,1003285.71,0
+     342  62203,Cubierta Piscina Polivalente de Los Cristianos,0,76277.36,76277.36,74273.94
+     342  62252,Equipamiento Campo de Fútbol El Almendro,0,0,0,0
+     342  62254,Plataformas Piscina Municipal Los Cristianos,0,0,0,0
+     342  22713,Servicio de mantenimiento de vías y edificios,359780,0,359780,275064.9
+     342  22716,Servicio de Mantenimiento Eléctrico de Edificios,213200,0,213200,217156.02
+     339  22609,Actividades Culturales y Deportivas,58100,0,58100,43865.86
+     339  23020,Dietas del personal no directivo,1000,0,1000,0
+     339  23120,Locomoción del personal no directivo,600,0,600,0
+     339  16200,Formación y Perfeccionamiento del Personal,600,0,600,0
+     339  13100,Retribuciones personal temporal,81000,0,81000,77976.48
+     339  13000,Retribuciones personal laboral fijo,127000,0,127000,100497.32
+     339  14301,Retribuciones personal afecto a programas,38000,0,38000,35960.82
+     339  16000,Seguridad Social,86000,0,86000,82339.77
+     412  62201,Mercadillo del Agricultor y Aparcamientos,0,3048,3048,3047.45
+     338  22610,Festejos y Actos Populares,175000,0,175000,219394.48
+     338  22611,Fiestas del Municipio,112000,0,112000,99594.52
+     338  48100,Subvenciones a Comisiones de Fiestas,48000,0,48000,45500
+     338  22123,Suministro mobiliario actos municipales,0,0,0,19997.38
+     338  68902,Vestimenta Trajes Tradicionales,5000,0,5000,4950
+     432  46901,Convenio Promoción Turística SPET,150000,0,150000,150000
+     432  76110,Estrategia de Mejora del Espacio Público Turístico,427685,0,427685,427685
+     432  62255,Oficinas de Turismo Plan Q,0,4028.75,4028.75,0
+     432  75100,Plan de Infraestructuras y Calidad Turística,0,653873.1,653873.1,0
+     432  76124,SPET Plan de Oficinas Turísticas,0,12000,12000,0
+     912  48201,Aportaciones a Partidos Políticos,35000,0,35000,34800
+     912  23300,Otras Indemnizaciones,30000,15000,45000,58323.2
+     912  22601,Atenciones protocolarias y representativas,20000,0,20000,6340.61
+     912  22103,Combustibles y carburantes,2000,0,2000,3272.83
+     912  23000,Dietas de Miembros de Órganos de Gobierno,5000,0,5000,11911.45
+     912  23100,Locomoción de Miembros de Órganos de Gobierno,12000,0,12000,9346.24
+     912  21400,"Reparación, man. y conserv. elementos de transport",1000,0,1000,2055
+     912  16200,Formación y Perfeccionamiento del Personal,1000,0,1000,380
+     912  22000,Ordinario no inventariable,1000,0,1000,7893.67
+     912  22001,"Prensa, revistas, libros y otros",1000,0,1000,1664
+     912  22401,Primas de seguros,2000,0,2000,1565.84
+     912  22105,Productos alimenticios,4000,0,4000,1219.22
+     912  10000,Retribuciones básicas ,630000,0,630000,614421.65
+     912  16000,Seguridad Social,164000,0,164000,148398.89
+     912  22204,Telefónicas,20000,0,20000,10450.07
+     419  62227,Casa del Vino,0,192907.3,192907.3,0
+     221  16204,Acción Social,100000,0,100000,101517.62
+     221  16006,Asistencia Farma-Protésica según Convenio,100000,0,100000,83621.5
+     221  16008,Asistencia Médico-Farmacéutica,300000,0,300000,239071.85
+     221  16206,Bolsa Convenio Personal Municipal,260000,0,260000,179069.81
+     221  16205,Seguros,77000,0,77000,77216.04
+     171  22719,Ajardinamiento Parque de Cho-Parque de la Reina,48000,0,48000,0
+     171  20000,Arrendamientos de Terrenos y Bienes Naturales,22000,0,22000,18042.25
+     171  22741,Servicio Mantenimiento Jardines Municipales,4322000,0,4322000,4360597.54
+     924  12100,Complemento de destino,1700,0,1700,0
+     924  12101,Complemento específico,3000,0,3000,0
+     924  12102,Complemento de Residencia,1000,0,1000,0
+     924  23020,Dietas del personal no directivo,600,0,600,0
+     924  22000,Ordinario no inventariable,1000,0,1000,273.55
+     924  13100,Retribuciones personal temporal,39000,0,39000,38115.06
+     924  22606,"Reuniones, conferencia y cursos",23000,0,23000,8085.6
+     924  16000,Seguridad Social,12500,0,12500,13714.29
+     924  12003,Sueldos del Grupo C1,2600,0,2600,0
+     931  83101,Anticipo de pagas a personal,10,241500,241510,241500
+     931  83001,Anticipos por cuenta terceros,10,9100.82,9110.82,9100.82
+     931  20200,Arrendamientos de Edificios y otras Construcciones,10000,0,10000,9646.28
+     931  23300,Otras indemnizaciones,0,0,0,500
+     931  62207,Cámaras de seguridad Edificios Públicos,0,3000,3000,0
+     931  12100,Complemento de destino,157000,0,157000,110108.12
+     931  12101,Complemento especifico,295000,-15000,280000,208482.4
+     931  12102,Complemento de Residencia,30000,0,30000,23811.99
+     931  23020,Dietas del personal no directivo,1000,0,1000,1190.75
+     931  23120,Locomoción del personal no directivo,6000,0,6000,1495.74
+     931  35700,Ejecucion de avales,1000,0,1000,0
+     931  16200,Formación y Perfeccionamiento del Personal,1000,0,1000,5379.15
+     931  31100,Gastos de formalización y cancelación,1000,0,1000,0
+     931  15100,Gratificaciones,1000,0,1000,0
+     931  35200,Intereses de demora,320000,0,320000,306195.24
+     931  34000,Intereses de depósitos,1000,0,1000,0
+     931  34100,Intereses de fianzas,1000,0,1000,0
+     931  35800,Intereses por operaciones de arrendamiento financi,1000,0,1000,0
+     931  22618,Intereses y Comisiones,70000,0,70000,54478.01
+     931  62500,Mobiliario,20000,0,20000,0
+     931  22000,Ordinario no inventariable,1000,0,1000,2246.86
+     931  13100,Retribuciones personal temporal,262000,0,262000,244831.08
+     931  22001,"Prensa, revistas, libros y otros",3000,0,3000,2811.59
+     931  15000,Productividad,6000,0,6000,8822.86
+     931  21500,Repar. mant. y cons. Mobiliario,3000,0,3000,218.97
+     931  13000,Retribuciones personal laboral fijo,440000,-108855,331145,369027.51
+     931  16000,Seguridad Social,370000,0,370000,403900.04
+     931  22708,Servicios de Recaudación,1450000,0,1450000,1168702.21
+     931  12000,Sueldos del Grupo A1,98000,0,98000,116100.45
+     931  12001,Sueldos del Grupo A2,16000,0,16000,0
+     931  12003,Sueldos del Grupo C1,104000,0,104000,50926.73
+     931  12004,Sueldos del Grupo C2,25500,0,25500,63401.45
+     931  22501,Tributos de las Comunidades Autónomas,1000,0,1000,0
+     931  22502,Tributos de las Entidades Locales,1000,0,1000,0
+     931  22500,Tributos Estatales,1000,0,1000,4558.96
+     931  12006,Trienios,42000,0,42000,34692.22
+     334  20200,Arrendamiento de Edificios y otras construcciones,717455,0,717455,0
+     334  62207,Cámaras de seguridad Edificios Públicos,0,32835.48,32835.48,7116.52
+     334  62611,Equipamiento Nuevas Tecnologías Edificios Públicos,0,0,0,0
+     334  21302,Mantenimiento de Ascensores,1700,0,1700,0
+     323  22609,Actividades Culturales y Deportivas,10000,0,10000,15840
+     323  48001,Becas de Transporte,96000,0,96000,96000
+     323  20200,Arrendamientos de Edificios y otras Construcciones,18000,1500,19500,12811.92
+     323  48003,Becas de Enseñanza Especial,55000,0,55000,54450
+     323  48002,Becas Enseñanza Universitaria,253000,0,253000,248600
+     323  21302,Mantenimiento de Ascensores,3200,1000,4200,5183.18
+     323  22714,Servicios Varios a Colegios,5000,0,5000,0
+     441  47902,Convenio Taxi Accesible 2008,2000,0,2000,0
+     441  46101,Convenio Transporte Colectivo,129050,7610,136660,129049.08
+     134  62400,Material de Transporte,0,41000,41000,0
+     134  26001,Trabajos realizados por Protección Civil,130000,42000,172000,152531.19
+     172  62300,"Maquinaria, Instalaciones y Utillaje",0,41139.99,41139.99,0
+     162  62304,Autocompactadores,0,85000,85000,0
+     162  22709,Servicio Recogida RSU y Lim. Viaria,12080000,0,12080000,12205809.3
+     162  22710,Servicio Recogida de Papel Cartón,175000,0,175000,190644.58
+     162  22502,Tributos de las Entidades Locales,2100000,0,2100000,1982193.02
+     452  60610,Inversiones en la Red de Agua,0,1952409.29,1952409.29,129.93
+     161  61100,Acondicionamiento Depósitos Municipales de Agua,0,120000,120000,0
+     161  22114,Aguas depuradas para riego,350000,0,350000,0
+     161  60811,Infraestructuras Urbanas de Saneamiento,0,71464.5,71464.5,0
+     161  60910,Instalaciones en BT Repetidor La Centinela,0,164000,164000,0
+     161  60208,Inversiones Red Saneamiento y Pluviales,0,80663.38,80663.38,0
+     161  76129,Saneamiento y Urbanización en El Fraile III Fase,0,60280.73,60280.73,0
+     161  22711,Servicio Abastecimiento de Agua y Alcantarillado,11650000,0,11650000,11584618.81
+     161  22502,Tributos de las Entidades Locales,4400000,194801.2,4594801.2,4548931.18
+     132  20400,Arrendamientos de Material de Transporte,148832,0,148832,140861.77
+     132  20200,Arrendamientos de Edificios y Otras Construcciones,16000,0,16000,22103.16
+     132  12100,Complemento de destino,780000,-83000,697000,537130.16
+     132  12101,Complemento especifico,1383000,-34823.27,1348176.73,974187.58
+     132  12102,Complemento de Residencia,195000,0,195000,155972.19
+     132  23020,Dietas del personal no directivo,1000,0,1000,0
+     132  23120,Locomoción del personal no directivo,10000,0,10000,11460.85
+     132  21400,Repar. conserv. y man. elementos de transporte,30000,0,30000,22292.21
+     132  62603,Emisoras Policía Local,0,269363.26,269363.26,0
+     132  16200,Formación y Perfeccionamiento del Personal,1000,0,1000,1885.27
+     132  15100,Gratificaciones,150000,0,150000,25356.76
+     132  62300,"Maquinaria, Instalaciones y Utillaje",10000,0,10000,5457
+     132  62400,Material de Transporte,0,36000,36000,0
+     132  62500,Mobiliario,10000,0,10000,0
+     132  13100,Retribuciones personal temporal,40000,0,40000,38225.22
+     132  22728,Plan de Seguridad Integral Edificios Municipales,112000,0,112000,0
+     132  62604,Plan de Seguridad Integral Edificios Municipales,70000,0,70000,0
+     132  15000,Productividad,30000,0,30000,12645.26
+     132  62202,Reforma del 092,0,43000,43000,42731.58
+     132  13000,Retribuciones personal laboral fijo,59000,0,59000,56405.75
+     132  16000,Seguridad Social,1220034,0,1220034,1099368.48
+     132  22717,Servicio de Grúa Municipal,530000,0,530000,323408.01
+     132  12000,Sueldos del Grupo A1,23500,0,23500,19354.72
+     132  12001,Sueldos del Grupo A2,67500,0,67500,75237.17
+     132  12003,Sueldos del Grupo C1,1330000,0,1330000,1335418.07
+     132  12004,Sueldos del Grupo C2,8400,0,8400,9713.24
+     132  12006,Trienios,177000,0,177000,138725.56
+     324  48005,Ayuda Actividades Permanencia (APAS),23100,0,23100,11549.98
+     324  48004,Subvenciones APAS,32400,0,32400,14341.47
+     491  20000,Arrendamientos de Terrenos y Bienes Naturales,2400,-2400,0,0
+     943  46701,Aportación Consorcio de Incendios,486467,0,486467,486466.48
+     494  22692,Actividades Complementarias URBAN,0,1020.8,1020.8,60
+     494  65012,Acto. Paisaj. Margen Izq. TF-66 Fraile - Galletas,0,40697.41,40697.41,0
+     494  62309,Cartelería Digital Interior URBAN,0,50800,50800,0
+     494  62267,Centro Cívico El Fraile,0,127137.21,127137.21,223388.74
+     494  62246,Centro Cívico Las Galletas,0,1598403.49,1598403.49,0
+     494  23020,Dietas del Personal,0,289.39,289.39,173.25
+     494  23120,Locomoción del Personal,0,914.86,914.86,797.07
+     494  62508,Equipamiento del Centro Cívico El Fraile,0,350000,350000,325576.56
+     494  62600,Equipos para Procesos de Información,0,133300,133300,94377.89
+     494  22740,Estudios y Trabajos Seguimiento Proyecto URBAN,0,0,0,19250
+     494  16200,Formación y Perfeccionamiento del Personal,1000,0,1000,0
+     494  22739,Limpieza a Fondo Zona URBAN,0,83591,83591,44754.24
+     494  22002,Material informático no inventariable,0,3100.21,3100.21,0
+     494  22000,Ordinario no inventariable,4000,0,4000,0
+     494  60815,Parque Garañaña,0,279030.55,279030.55,72000
+     494  22001,"Prensa, revistas, libros y otras publicaciones",0,0,0,0
+     494  62286,Proyecto Despliegue Fibra Óptica URBAN,0,153842.48,153842.48,0
+     494  22628,Proyecto Las Galletas Capital del Buceo,0,76000,76000,0
+     494  62401,Proyecto Préstamo de Bicicletas y Carril 30,0,78000,78000,0
+     494  22745,Proyecto Préstamo de Bicicletas y Carril 30,0,18000,18000,9600
+     494  22602,Publicidad y Propaganda,0,104593.86,104593.86,1684.18
+     494  21600,Repar. mant. y cons. Equipos para procesos informa,0,4461.9,4461.9,4461.9
+     494  14301,Retribuciones personal afecto a programas,115000,0,115000,113648.01
+     494  16000,Seguridad Social,35700,0,35700,36484.46
+     494  22744,Zona Comercial Abierta Las Galletas,0,25000,25000,0
+     151  62209,Adecuación  Instalaciones CPD Edificios Mples.,0,15000,15000,0
+     151  62205,Adecuación N.V. Instalaciones BT Edificios público,0,988000,988000,0
+     151  60000,Adquisición de Terrenos,0,6841224.95,6841224.95,0
+     151  60001,Adquisición de Terrenos,0,65691.36,65691.36,65691.36
+     151  60139,Alumbrado Público en Valle San Lorenzo,0,77540,77540,0
+     151  60911,Centro Civico y Plaza la Camella,0,24128.78,24128.78,0
+     151  60201,Centro de Transformación Arona Casco,0,673615.09,673615.09,0
+     151  65011,Conexión peatonal Montaña Fría- Arona Casco,0,20000,20000,0
+     151  60104,Gutinado del Solar Municipal C/Duque de la Torre,0,38000,38000,36896.03
+     151  78013,Infraestructuras Urbanas de Saneamiento,0,0,0,29788.27
+     151  22118,Mobiliario Urbano No Inventariable,15000,0,15000,0
+     151  60806,Parques Infantiles,0,200000,200000,0
+     151  60135,Plan de Barrios,0,860516.96,860516.96,72404.15
+     151  60121,Plaza del Pescador,0,60000,60000,60000
+     151  61104,"Rehab. Barrio Nuevo, C/Noruega y Explanada Los Cri",0,200209.95,200209.95,170801.53
+     151  60905,Rehabilitación e Ilum. Ext. Sala Multiusos Los Cri,0,1636.14,1636.14,0
+     151  60927,Rehabilitación Integral La Florida,0,1470,1470,0
+     151  62211,Suelo Técnico CPDA,0,0,0,0
+     151  65008,Urbanización en superficie Barranquera Espadal VSL,0,210000,210000,0
+     155  60901,Mejora de la accesibildad Avda. Chayofita,0,17000,17000,15491.76
+     155  60138,Mejora de la Seguridad C/ La Colina los Cristianos,0,0,0,0
+     155  60123,Plan de Accesibilidad,0,10000,10000,0
+     155  21000,"Reparaciones, man. y conserv. infraestructuras y b",1000,0,1000,0
+     155  22613,Señalizaciones Municipales,17000,0,17000,20690.09
+     155  22713,Servicio de mantenimiento de vías y edificios,1726400,0,1726400,1104418.48
+     152  60001,Adquisición de Suelo para Construcción V.P.O.,0,210000,210000,0
+     152  78011,Ayudas Rehabilitacion viviendas 1ª Necesidad 2012,100000,122720.98,222720.98,91318.11
+,,,,,
+,,,,,
+,TOTALES,84397722,23784124.44,108181846.44,80081972.4
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

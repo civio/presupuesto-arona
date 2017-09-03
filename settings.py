@@ -6,7 +6,7 @@ from django.conf.urls import patterns, url
 MAIN_ENTITY_LEVEL = 'municipio'
 
 # Main entity name. Must be the same used in data/entidades.csv
-MAIN_ENTITY_NAME = 'Arona'
+MAIN_ENTITY_NAME = 'Ayuntamiento de Arona'
 
 # Theme Budget Loader class name. Default: 'SimpleBudgetLoader'
 BUDGET_LOADER = 'AronaBudgetLoader'
