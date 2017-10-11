@@ -61,8 +61,13 @@
 						</ul>
 					</li>
           {% else %}
-          <li class="page-policies {{ 'active' if active_tab == "policies"}}">
-            <a href="{{ url('budget_app.views.policies') }}" class="icon-policy" title="{{ _('Políticas') }}">{{ _('Políticas') }}</a>
+          <li class="page-policies dropdown {{ 'active' if active_tab == "policies"}}">
+            <a href="{{ url('budget_app.views.policies') }}" class="icon-policy dropdown-toggle" title="{{ _('Políticas') }}" id="dropdown-policies" aria-haspopup="true" aria-expanded="true">{{ _('Políticas') }}</a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-policies">
+              <li><a href="#">Option 1</a></li>
+              <li><a href="#">Option 2</a></li>
+              <li><a href="#">Option 3</a></li>
+            </ul>
           </li>
           {% endif %}
 					
