@@ -195,5 +195,10 @@ $data-sources-color: $brand-primary;
 // Sankey Viz
 // --------------
 
-$sankey-income-color:   $brand-primary;
-$sankey-expense-color:  #C60C30;
+// Old Sankey
+$sankey-budget-color:     mix( $gray-light, $gray-lighter, 50% );
+$sankey-execution-color:  mix( $brand-primary, white, 70% );
+
+// New Sankey
+$sankey-income-color: $brand-primary;
+$sankey-expense-color: complement($sankey-income-color);
