@@ -62,13 +62,13 @@
 					</li>
           {% else %}
           <li class="page-policies dropdown {{ 'active' if active_tab == "policies"}}">
-            <a href="{{ url('budget_app.views.policies') }}" class="icon-policy dropdown-toggle" title="{{ _('Políticas') }}" id="dropdown-policies" aria-haspopup="true" aria-expanded="true">{{ _('Políticas') }}</a>
+            <a href="{% url 'budget_app.views.entities_show_helper' 1, 'ayuntamiento-de-arona' %}" class="icon-policy dropdown-toggle" title="{{ _('Políticas') }}" id="dropdown-policies" aria-haspopup="true" aria-expanded="true">{{ _('Políticas') }}</a>
             <ul class="dropdown-menu" aria-labelledby="dropdown-policies">
-              <li><a href="#">Option 1</a></li>
-              <li><a href="#">Option 2</a></li>
-              <li><a href="#">Option 3</a></li>
-              <li><a href="#">Option 4</a></li>
-              <li><a href="#">Option 5</a></li>
+              <li><a href="{% url 'budget_app.views.entities_show_helper' 1, 'ayuntamiento-de-arona' %}">Ayuntamiento de Arona</a></li>
+              <li><a href="{% url 'budget_app.views.entities_show_helper' 2, 'patronato-de-cultura' %}">Patronato de Cultura</a></li>
+              <li><a href="{% url 'budget_app.views.entities_show_helper' 3, 'patronato-de-deportes' %}">Patronato de Deportes</a></li>
+              <li><a href="{% url 'budget_app.views.entities_show_helper' 4, 'patronato-de-servicios-sociales' %}">Patronato de Serv. Sociales</a></li>
+              <li><a href="{% url 'budget_app.views.entities_show_helper' 5, 'patronato-de-turismo' %}">Patronato de Turismo</a></li>
             </ul>
           </li>
           {% endif %}
