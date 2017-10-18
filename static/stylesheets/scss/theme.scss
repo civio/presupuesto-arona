@@ -127,6 +127,14 @@
   color: $brand-primary;
 }
 
+.navbar-default .navbar-nav>li>.dropdown-menu{
+  width: 100%;
+  >li>a{
+    padding: $grid-gutter-width/3;
+    white-space: normal;
+  }
+}
+
 @media (max-width: $screen-md-min) {
   .navbar-default  .dropdown-menu{
     display: block;
