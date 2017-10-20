@@ -51,16 +51,6 @@
 	      		<a href="{{ url('budget_app.views.budgets') }}" class="icon-budget" title="{{ _('Visión global') }}">{{ _('Visión global') }}</a>
 	      	</li>
 	      	
-          {% if show_counties_and_towns %}
-          <li class="page-policies dropdown">
-						<a href="{{ url('budget_app.views.policies') }}" class="icon-policy dropdown-toggle" title="{{ _('Políticas') }}" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ _('Políticas') }} <span class="caret"></span></a>
-						<ul class="dropdown-menu">
-							<li><a href="{{ url('budget_app.views.policies') }}" title="{{ _('Gobierno de Aragón') }}">{{ _('Gobierno de Aragón') }}</a></li>
-							<li><a href="{{ url('budget_app.views.counties') }}" title="{{ _('Comarcas') }}">{{ _('Comarcas') }}</a></li>
-							<li><a href="{{ url('budget_app.views.towns') }}" title="{{ _('Municipios') }}">{{ _('Municipios') }}</a></li>
-						</ul>
-					</li>
-          {% else %}
           <li class="page-policies dropdown {{ 'active' if active_tab == "policies"}}">
             <a href="{% url 'budget_app.views.entities_show_helper' 1, 'ayuntamiento-de-arona' %}" class="icon-policy dropdown-toggle" title="{{ _('Políticas') }}" id="dropdown-policies" aria-haspopup="true" aria-expanded="true">{{ _('Políticas') }}</a>
             <ul class="dropdown-menu" aria-labelledby="dropdown-policies">
@@ -71,11 +61,17 @@
               <li><a href="{% url 'budget_app.views.entities_show_helper' 5, 'patronato-de-turismo' %}">Patronato de Turismo</a></li>
             </ul>
           </li>
-          {% endif %}
 					
           {% if show_payments %}
-          <li class="page-payments {{ 'active' if active_tab == "payments"}}">
-            <a href="{{ url('budget_app.views.payments') }}" class="icon-payments" title="{{ _('Pagos e inversiones') }}">{{ _('Pagos e inversiones') }}</a>
+          <li class="page-payments dropdown {{ 'active' if active_tab == "payments"}}">
+            <a href="{% url 'budget_app.views.entities_payments' 1 %}" class="icon-payments dropdown-toggle" title="{{ _('Pagos e inversiones') }}">{{ _('Pagos e inversiones') }}</a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-policies">
+              <li><a href="{% url 'budget_app.views.entities_payments' 1 %}">Ayuntamiento de Arona</a></li>
+              <li><a href="{% url 'budget_app.views.entities_payments' 2 %}">Patronato de Cultura</a></li>
+              <li><a href="{% url 'budget_app.views.entities_payments' 3 %}">Patronato de Deportes</a></li>
+              <li><a href="{% url 'budget_app.views.entities_payments' 4 %}">Patronato de Servicios Sociales</a></li>
+              <li><a href="{% url 'budget_app.views.entities_payments' 5 %}">Patronato de Turismo</a></li>
+            </ul>
           </li>
 					{% endif %}
 
