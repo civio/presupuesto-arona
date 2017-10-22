@@ -15,9 +15,9 @@
     <div class="option">
       <div class="option-policies">
         <div data-icon="P" aria-hidden="true" class="icon mega"></div>
-        <a href="{% url 'budget_app.views.entities_show_helper' 1, 'ayuntamiento-de-arona' %}" class="option-title"><h3>{{ _('Políticas concretas') }}</h3></a>
+        <a href="{% url 'budget_app.views.entities_policies' 1 %}" class="option-title"><h3>{{ _('Políticas concretas') }}</h3></a>
         <p class="desc">{{ _('Educación, protección y bienestar social, cultura... ¿Qué área te interesa?') }}</p>
-        <a href="{% url 'budget_app.views.entities_show_helper' 1, 'ayuntamiento-de-arona' %}" class="btn btn-default btn-primary blue icon-plus">{{ _('Políticas') }}</a>
+        <a href="{% url 'budget_app.views.entities_policies' 1 %}" class="btn btn-default btn-primary blue icon-plus">{{ _('Políticas') }}</a>
       </div>
     </div>
 
