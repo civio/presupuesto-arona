@@ -19,7 +19,6 @@ class AronaPaymentsLoader(PaymentsLoader):
             'fc_code': None,  # We don't try (yet) to have foreign keys to existing records
             'ec_code': None,
             'date': line[3].strip(),
-            'contract_type': None,
             'payee': self._titlecase(line[5].strip()),
             'anonymized': False,
             'description': line[6].strip(),
