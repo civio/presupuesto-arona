@@ -99,7 +99,7 @@ DATA_SOURCE_BUDGET      = 'http://www.arona.org/portal/ldoc_d10_v3.jsp?codMenu=1
 DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxiT3/Tabla.htm?t=2892&L=0'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=10019&L=0'
+DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Datos.htm?t=22350'
 
 # Setup Main Entity Web Url
 MAIN_ENTITY_WEB_URL     = 'http://www.arona.org/'
