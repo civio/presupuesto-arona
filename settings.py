@@ -173,8 +173,6 @@ OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '15', '33', '23', '34', '17', '32']
 # Note: 0.5 usually leaves nodes ordered as defined. 0.95 sorts by size (decreasing).
 # OVERVIEW_RELAX_FACTOR = 0.5
 
-# Adjust inflation in amounts in Overview page. Default: True
-ADJUST_INFLATION_IN_OVERVIEW = False
 
 # Show Subtotals panel in Overview. Default: False
 # SHOW_OVERVIEW_SUBTOTALS = True
