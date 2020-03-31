@@ -14,3 +14,5 @@ do
 done
 
 python ../manage.py load_budget 2018 municipio "Ayuntamiento de Arona"
+python ../manage.py load_budget 2019 municipio "Ayuntamiento de Arona"
+python ../manage.py load_budget 2020 municipio "Ayuntamiento de Arona"
