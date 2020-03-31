@@ -39,7 +39,7 @@ class AronaBudgetLoader(SimpleBudgetLoader):
         is_actual = (filename.find('/ejecucion_')!=-1)
         if is_expense:
             # The input data combines functional and economic codes in a very unusual way
-            match = re.search('^ *(\d+) +(\d+) *', line[0])
+            match = re.search('^ *(\d+)[ /]+(\d+) *', line[0])
             # We got 3- or 4- digit functional codes as input, so add a trailing zero
             fc_code = match.group(1).ljust(4, '0')
             ec_code = match.group(2)
