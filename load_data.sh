@@ -12,3 +12,5 @@ do
   python ../manage.py load_payments $YEAR municipio "Patronato Municipal de Turismo"
   python ../manage.py load_payments $YEAR municipio "Patronato Municipal de Servicios Sociales"
 done
+
+python ../manage.py load_budget 2018 municipio "Ayuntamiento de Arona"
